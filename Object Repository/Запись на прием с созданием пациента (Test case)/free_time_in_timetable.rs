@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>free_time_in_timetable</name>
+   <tag></tag>
+   <elementGuidId>e7741584-e743-4fca-846c-3c96360181da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_emptyCell__inner__Dj--v</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div[2]/main/section/div/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[5]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>53a7856f-3b9d-40f5-98aa-6492dd507dc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_emptyCell__inner__Dj--v</value>
+      <webElementGuid>65d9ec91-3cdf-42c5-9a16-714f7f73279c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;container&quot;]/div[2]/div[@class=&quot;styles_appointmentList__tSlng&quot;]/div[@class=&quot;styles_appointmentList__table__1H_PX&quot;]/div[@class=&quot;styles_day__doctors__1b3VR&quot;]/div[@class=&quot;styles_doctor__3Qv0N&quot;]/div[@class=&quot;styles_doctor__times__1lxbJ&quot;]/div[@class=&quot;styles_dayCell__a_pPN&quot;]/div[@class=&quot;styles_emptyCell__26vw8&quot;]/div[@class=&quot;styles_emptyCell__inner__Dj--v&quot;]</value>
+      <webElementGuid>488a64e7-f49e-4df7-90cc-5e70de1905b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>75ac3d11-a49c-43cf-8a7c-87285e1134a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Машина М. Б.'])[1]/following::div[7]</value>
+      <webElementGuid>0e68a673-3d9b-4fa3-b602-adc096fe0fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Расписание'])[2]/following::div[15]</value>
+      <webElementGuid>a0cd4ffa-af99-461a-885d-64480aab5bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[1]/preceding::div[49]</value>
+      <webElementGuid>2289d832-d187-4f95-8c33-0211098ebb60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[2]/preceding::div[49]</value>
+      <webElementGuid>908fd5f5-2a69-48d1-bde1-a8727681af49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>55a48c29-5d3c-4daf-96e1-747e2bdb6f1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

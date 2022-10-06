@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tab_pol</name>
+   <tag></tag>
+   <elementGuidId>ade2d9a8-497b-43a3-9ef0-583b0796048d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Пол' or . = 'Пол')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>17c09ce3-a444-4b21-a176-ce9d520fc172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1msvot1-placeholder</value>
+      <webElementGuid>dfe531cd-5023-4e23-b5a1-a4088319e930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Пол</value>
+      <webElementGuid>e62ceb44-6b2c-4be1-bd7e-55f175e7ed94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/form[@class=&quot;styles_container__2kCJE&quot;]/div[@class=&quot;styles_content__container__20ZQn&quot;]/div[1]/div[@class=&quot;styles_patientData__container__2dYQk&quot;]/div[@class=&quot;styles_patientData__gender__299BA&quot;]/div[@class=&quot;styles_selectInputContainer__1vEHJ&quot;]/div[@class=&quot;styles_selectInputWrapper__p580E styles_selector__1gUO1&quot;]/div[@class=&quot;css-dyr6gj-container&quot;]/div[@class=&quot;css-jfh2ty-control&quot;]/div[@class=&quot;css-7exkrt&quot;]/div[@class=&quot;css-1msvot1-placeholder&quot;]</value>
+      <webElementGuid>78f316b1-d5b2-4e2c-93f9-7229cbbea02e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/form/div/div/div/div[5]/div/div/div/div/div</value>
+      <webElementGuid>37229db1-e72e-4ca6-8218-390f463ef0db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Дата рождения'])[1]/following::div[7]</value>
+      <webElementGuid>006cb608-d704-4799-9439-a80109e22fe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='вс'])[1]/following::div[8]</value>
+      <webElementGuid>25c72c3a-e1dc-4b7d-b88d-298a2ce0e94b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Мужской'])[1]/preceding::div[5]</value>
+      <webElementGuid>c48ca16c-f540-4162-a79f-ad070127b8dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Женский'])[1]/preceding::div[6]</value>
+      <webElementGuid>7b312449-7d2d-434a-bc80-15cf3359046f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Пол']/parent::*</value>
+      <webElementGuid>42c45dc5-14cf-4700-ba6a-1a49618201fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[5]/div/div/div/div/div/div</value>
+      <webElementGuid>3c04b415-7f4b-4dbb-9f8f-224e15ff15a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Пол' or . = 'Пол')]</value>
+      <webElementGuid>cc0a1091-1c9d-499a-b7e8-008c9d9f775f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

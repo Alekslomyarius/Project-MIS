@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_gender</name>
+   <tag></tag>
+   <elementGuidId>85c23d7a-48ad-4f3e-9c3c-e06a1940dd9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Пол' or . = 'Пол')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5dcbc4ad-d8a8-4cdf-bb73-d89b5210251e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-7exkrt</value>
+      <webElementGuid>63f137b7-864d-4487-96f7-286077959c05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Пол</value>
+      <webElementGuid>e435afb8-b61d-44e3-b1f1-962896252ab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[1]/form[@class=&quot;styles_container__2eYAL&quot;]/div[@class=&quot;styles_container__fields__1O2q5&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;fields&quot;]/div[@class=&quot;styles_container-fields__2EqXi&quot;]/div[@class=&quot;styles_selectInputContainer__1vEHJ styles_container-select__MsYqO&quot;]/div[@class=&quot;styles_selectInputWrapper__p580E custom-select&quot;]/div[@class=&quot;css-dyr6gj-container&quot;]/div[@class=&quot;css-jfh2ty-control&quot;]/div[@class=&quot;css-7exkrt&quot;]</value>
+      <webElementGuid>8ae75580-b3fb-49f8-9576-033a58d9ccc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div/form/div/div/div[2]/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>e12dade3-bd8a-466a-b0e9-b1aa1c11fe1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Дата рождения'])[1]/following::div[5]</value>
+      <webElementGuid>19670532-b7ce-44c5-b40d-3bd6ab474e86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='вс'])[1]/following::div[6]</value>
+      <webElementGuid>dfad56c6-f8d4-424a-aa24-46c362fd08c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Мужской'])[1]/preceding::div[7]</value>
+      <webElementGuid>ab2dc26d-c2b9-4bee-9808-70106ba04bcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>69312df0-6350-41a2-b2e9-995ca35c0a80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Пол' or . = 'Пол')]</value>
+      <webElementGuid>49a3a429-d3d6-450d-a742-85b4dfbc74b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

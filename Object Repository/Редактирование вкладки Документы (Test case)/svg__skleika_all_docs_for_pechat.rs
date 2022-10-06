@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg__skleika_all_docs_for_pechat</name>
+   <tag></tag>
+   <elementGuidId>c6d38d47-6ba8-4341-85da-4b6c455521d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Добавить шаблон'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.ico.styles_ico__3Jouh.styles_ico__3rll5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>e479fb61-0343-4b39-bfee-390c5f6fec9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 30 30</value>
+      <webElementGuid>8f0d02dd-d3e9-41a9-bae5-5a174b3f33a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>9b0c6c49-d696-4298-8d5b-50974bcfce0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>a781f716-310b-4b9a-be8b-0772f9947cbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ico styles_ico__3Jouh styles_ico__3rll5</value>
+      <webElementGuid>2b7d3029-8ab4-4684-ba98-3cf7edfdd45d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__3ivyS&quot;]/div[@class=&quot;styles_container__1zr_3&quot;]/div[@class=&quot;styles_container__11_St&quot;]/div[@class=&quot;styles_section__1X2a_&quot;]/div[@class=&quot;styles_container__2uL-E&quot;]/div[@class=&quot;styles_container__2uL-E&quot;]/div[@class=&quot;styles_container__ZSx5X&quot;]/div[@class=&quot;styles_action__container__2ALQF&quot;]/button[@class=&quot;styles_button__29m0g styles_button__pR2_7&quot;]/svg[@class=&quot;ico styles_ico__3Jouh styles_ico__3rll5&quot;]</value>
+      <webElementGuid>ae712f65-bb19-4819-acff-caea5d18d8c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Добавить шаблон'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>9d1f948b-ec5c-42dc-8332-1b640aefb54a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Документы пациента'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>7f39f83b-37db-447a-987f-20fe6afe6e34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Начать прием'])[1]/preceding::*[name()='svg'][5]</value>
+      <webElementGuid>11204433-3c15-402e-9b08-690ecbc7817e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Не подтвержден'])[1]/preceding::*[name()='svg'][5]</value>
+      <webElementGuid>4310f242-c758-4631-9356-7e9d71329ebd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

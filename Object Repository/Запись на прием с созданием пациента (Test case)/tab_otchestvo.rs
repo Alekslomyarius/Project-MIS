@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tab_otchestvo</name>
+   <tag></tag>
+   <elementGuidId>ef23e073-9ed9-4864-be3b-b2f4e3728ab5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Отчество' or . = 'Отчество')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_patientData__middleName__3Ol86 > label.styles_inputWrapper__3YFF2 > span.styles_label__1CZ6I</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a9df60a3-4b6d-4e2f-a455-805836e1a4a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_label__1CZ6I</value>
+      <webElementGuid>2ba4bd90-a11c-48a0-9a61-b85fe42ec5cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Отчество</value>
+      <webElementGuid>71579bcd-0d31-4c42-b588-8ff6fabfb511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/form[@class=&quot;styles_container__2kCJE&quot;]/div[@class=&quot;styles_content__container__20ZQn&quot;]/div[1]/div[@class=&quot;styles_patientData__container__2dYQk&quot;]/div[@class=&quot;styles_patientData__middleName__3Ol86&quot;]/label[@class=&quot;styles_inputWrapper__3YFF2&quot;]/span[@class=&quot;styles_label__1CZ6I&quot;]</value>
+      <webElementGuid>0024181a-603f-405f-a81e-5b2099194576</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/form/div/div/div/div[3]/label/span</value>
+      <webElementGuid>5ef26792-457b-405c-9c32-982442ef23b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::span[1]</value>
+      <webElementGuid>63b339b0-d9e3-4abd-847e-4fca9f444157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[3]/preceding::span[1]</value>
+      <webElementGuid>197c5d50-1000-4cc0-99ff-3c98aeb2412b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[4]/preceding::span[2]</value>
+      <webElementGuid>f628c383-2770-4be5-a02a-fcc5c967faa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Отчество']/parent::*</value>
+      <webElementGuid>5f6265d0-7d81-4d4a-b866-f1f781c67271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label/span</value>
+      <webElementGuid>48280090-0901-460c-9d15-15b6641d6204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Отчество' or . = 'Отчество')]</value>
+      <webElementGuid>ab1a5a41-a7e7-4e2c-ac48-d73edbb2a136</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h_timetable</name>
+   <tag></tag>
+   <elementGuidId>ca082ab6-de2d-462d-aa92-94067714599d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[(text() = 'Расписание' or . = 'Расписание')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.styles_title__W84or</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>8f4b10ed-a9b8-4378-a7f0-63453b16f251</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_title__W84or</value>
+      <webElementGuid>41ada015-ac46-4cec-bb89-b602622a812a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Расписание</value>
+      <webElementGuid>8379264a-c8a8-474f-a57c-084d8089b3f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;styles_wrapper__10O36&quot;]/h1[@class=&quot;styles_title__W84or&quot;]</value>
+      <webElementGuid>e07a960c-9c3a-4e61-9ad7-bd56ea05bc3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div/div/h1</value>
+      <webElementGuid>ce9f03c6-d431-4e89-a450-8413e3dc0c65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Юридические лица'])[1]/following::h1[1]</value>
+      <webElementGuid>cdcde0d9-e437-4125-87b5-fff5e7081dd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Врачи клиники'])[1]/following::h1[1]</value>
+      <webElementGuid>e330e3e7-6e2a-4b81-9263-ee3efbdb2001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Пример К. Т.'])[1]/preceding::h1[1]</value>
+      <webElementGuid>06e13405-5781-40ee-b8dc-e80900c4c26d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Евгений Д. Б.'])[1]/preceding::h1[1]</value>
+      <webElementGuid>24d13290-c330-4076-b2d8-5ea83fa930f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>5b3914ac-2f3e-4ccd-855a-a5846a04d9e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Расписание' or . = 'Расписание')]</value>
+      <webElementGuid>849cf506-58cb-45a8-9088-125bc4614b37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

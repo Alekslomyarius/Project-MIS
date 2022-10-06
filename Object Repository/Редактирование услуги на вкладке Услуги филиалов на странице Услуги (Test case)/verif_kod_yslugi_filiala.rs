@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verif_kod_yslugi_filiala</name>
+   <tag></tag>
+   <elementGuidId>96bf32b9-b579-4fd8-9820-45e217b2cde4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = '43' or . = '43')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_table__template__3hHJj.styles_table__template__wj52o.styles_service__item__2yVeB > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>996b5db6-d716-4cfc-9775-2f8aca3ab6ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>43</value>
+      <webElementGuid>87f084b3-d59f-4b4e-977b-57bc9edda900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;styles_container__1bWbk&quot;]/div[@class=&quot;styles_container__2d1pT&quot;]/div[@class=&quot;content__container&quot;]/div[1]/div[@class=&quot;container&quot;]/div[2]/div[1]/div[@class=&quot;styles_table__template__3hHJj styles_table__template__wj52o styles_service__item__2yVeB&quot;]/p[1]</value>
+      <webElementGuid>a6a07676-7a98-45d3-9241-2856af901140</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div/div[3]/div[2]/div/div[2]/div[2]/div/div/p</value>
+      <webElementGuid>d62c0515-a3bd-4d40-a885-a5c44249d15c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Автотест'])[1]/following::p[6]</value>
+      <webElementGuid>ffca37de-0e62-4aa2-b832-c05bb8416018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Добавить услугу'])[1]/following::p[6]</value>
+      <webElementGuid>d41b6085-6b6e-4b01-9e87-9589b6e9cd4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Описание'])[1]/preceding::p[5]</value>
+      <webElementGuid>30d23209-1d44-4070-ba08-3df886e3f406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Наименование услуги'])[2]/preceding::p[5]</value>
+      <webElementGuid>efd8b3dd-e1f7-410d-805f-b6efa52a0741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='43']/parent::*</value>
+      <webElementGuid>d0582796-7db5-4aba-a3ac-394a277b8d66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p</value>
+      <webElementGuid>5598ada9-e3e5-4417-8e49-8278532ffe6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '43' or . = '43')]</value>
+      <webElementGuid>f1c6df94-b9c6-45d0-a8ec-e01cc487a558</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

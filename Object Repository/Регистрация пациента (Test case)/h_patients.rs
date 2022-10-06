@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h_patients</name>
+   <tag></tag>
+   <elementGuidId>40524aed-39ec-4ee5-9b2c-cb3ce5bc41db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[(text() = 'Пациенты' or . = 'Пациенты')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.styles_title__W84or</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>6a447e65-b9a7-4eb5-b4ae-a197f68aeb33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_title__W84or</value>
+      <webElementGuid>e58b359b-3d71-4d13-ac8f-4891c6acc181</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Пациенты</value>
+      <webElementGuid>7a921e2e-f404-420a-9a82-2f9de6080079</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;styles_container__1MkwW&quot;]/div[@class=&quot;styles_wrapper__10O36&quot;]/h1[@class=&quot;styles_title__W84or&quot;]</value>
+      <webElementGuid>ef29ee31-4d56-4e98-bc61-0121e1f0c2fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div/div/h1</value>
+      <webElementGuid>998c3580-d322-481f-905b-f82a1c56e177</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Юридические лица'])[1]/following::h1[1]</value>
+      <webElementGuid>c79da554-d609-4c29-bda8-255456313b77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Врачи клиники'])[1]/following::h1[1]</value>
+      <webElementGuid>4bb5943d-4002-4e30-b494-4fd71509154b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавить пациента'])[1]/preceding::h1[1]</value>
+      <webElementGuid>b0740b33-5e46-4f79-b005-fab7aee28c16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Загрузить базу'])[1]/preceding::h1[1]</value>
+      <webElementGuid>5ab3d70b-589d-47d9-85c9-14cb1336536b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>ac7510c3-f230-41bb-ab45-496ae5c9d762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Пациенты' or . = 'Пациенты')]</value>
+      <webElementGuid>47d995ab-c946-433a-a418-48d5bf43d790</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

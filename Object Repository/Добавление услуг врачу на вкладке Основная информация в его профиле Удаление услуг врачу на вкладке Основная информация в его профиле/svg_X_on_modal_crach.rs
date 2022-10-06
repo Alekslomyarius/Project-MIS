@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_X_on_modal_crach</name>
+   <tag></tag>
+   <elementGuidId>cd965105-668d-4e3b-bb9e-358b3594b85e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Список услуг пуст'])[1]/preceding::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.ico.styles_icon__2cPg8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>64ff803a-09db-4602-91b0-1baf1fa2ee8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 15 15</value>
+      <webElementGuid>a91c2dba-a3ae-4ab3-b79b-64a8c045ebaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>97926834-ed39-40a3-8da5-fcb27ea40c65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>240fc6fb-f65e-4d9a-9805-dddc4f9b6439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ico styles_icon__2cPg8</value>
+      <webElementGuid>9e0f8790-8d78-49a7-8371-845cdd5bb20d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_content__header__1YvS0&quot;]/svg[@class=&quot;ico styles_icon__2cPg8&quot;]</value>
+      <webElementGuid>f4a10d59-bceb-41e3-91ea-e7862082a869</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Добавить данные'])[2]/following::*[name()='svg'][3]</value>
+      <webElementGuid>db08ea5e-6d7e-4313-a9ad-bb25b16dc4cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Услуги'])[2]/following::*[name()='svg'][3]</value>
+      <webElementGuid>8d9769d0-c086-4cf9-928a-9c2f1361140a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Автотест'])[3]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>382350aa-67cd-4646-9848-b7c1ce9bc293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Список услуг пуст'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>a917e8a4-5fac-4862-aa43-3dfb16734f46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

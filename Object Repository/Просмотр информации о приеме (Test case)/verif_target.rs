@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verif_target</name>
+   <tag></tag>
+   <elementGuidId>612fbc87-5c55-4f3f-bc02-db735309dbd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.goal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = 'Автотест. Цель визита' or . = 'Автотест. Цель визита')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>95d3d1d7-ada0-4fce-8236-32e27976534f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>goal</value>
+      <webElementGuid>73c1167e-0676-4c5c-8d55-fc6287a497bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Автотест. Цель визита</value>
+      <webElementGuid>9a74dece-e60e-4fab-b210-0abc2972bd46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__3ivyS&quot;]/div[@class=&quot;styles_container__1zr_3&quot;]/div[@class=&quot;styles_container__2UbMH&quot;]/div[@class=&quot;styles_container__18AaY&quot;]/div[@class=&quot;styles_content__container__1FikG&quot;]/div[@class=&quot;styles_content__1YTzU&quot;]/div[@class=&quot;styles_info__1xIDw&quot;]/p[@class=&quot;goal&quot;]</value>
+      <webElementGuid>364d6b8c-a935-434c-8cf4-905ee10f15fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/div[2]/div/div[2]/div/div/div[4]/div[2]/p</value>
+      <webElementGuid>4d925f02-bedd-4aa5-b5d7-4837dd15051c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Цель визита'])[1]/following::p[1]</value>
+      <webElementGuid>67c0af04-2987-4e7d-93c6-51e6817a9aa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA Avtotest Regressovich'])[1]/following::p[2]</value>
+      <webElementGuid>2aa322d2-3293-4ff2-beef-42c31da75d1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Начать прием'])[1]/preceding::p[1]</value>
+      <webElementGuid>04bf7519-9c0d-4f8f-ba95-d3ea4fc81139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Подтвержден'])[1]/preceding::p[1]</value>
+      <webElementGuid>769f66c0-cb51-4790-b00c-ba0671888391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Автотест. Цель визита']/parent::*</value>
+      <webElementGuid>ced7b8cf-7ba4-472d-82ef-c50df6453cf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/p</value>
+      <webElementGuid>f8b31464-a896-48dd-baf9-c25f2577a5c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Автотест. Цель визита' or . = 'Автотест. Цель визита')]</value>
+      <webElementGuid>0d930f6a-94d7-489a-9983-f865424d5ab0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

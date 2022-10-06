@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tab_redactor_vkladka_usluga</name>
+   <tag></tag>
+   <elementGuidId>e558bbb9-a1e0-47cc-a67d-ee5fd0e3b978</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Редактировать' or . = 'Редактировать')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-primary.styles_button__3pqej.styles_primary__2Afkd.styles_edit__button__3WJ5r > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5b311646-72e9-4edb-a5b2-089fb47c055a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Редактировать</value>
+      <webElementGuid>b4cf67fc-5c36-4d14-b7e3-4da04a3739ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__3ivyS&quot;]/div[@class=&quot;styles_container__1zr_3&quot;]/div[@class=&quot;styles_container__25BHX&quot;]/button[@class=&quot;ant-btn ant-btn-primary styles_button__3pqej styles_primary__2Afkd styles_edit__button__3WJ5r&quot;]/span[1]</value>
+      <webElementGuid>527c6236-ecad-4ba3-b3d8-80c1f4b812bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/div[2]/div/div[3]/button[2]/span</value>
+      <webElementGuid>5c19685b-098c-4e48-8963-816b24ee5c87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Начат визит'])[1]/following::span[2]</value>
+      <webElementGuid>81a32412-e7ee-4ce0-b831-f6304348b8b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Начать прием'])[1]/following::span[3]</value>
+      <webElementGuid>165adfe5-7846-4670-90c8-c64f98cae4d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Редактировать']/parent::*</value>
+      <webElementGuid>bccf17b8-fa42-4a20-898d-4a2eba45fc66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>56a6c3da-cdd2-421f-b458-2742bae41b40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Редактировать' or . = 'Редактировать')]</value>
+      <webElementGuid>956569eb-b9a1-4a7b-b999-2917fa40ec63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

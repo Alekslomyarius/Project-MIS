@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg__people_profile_patienta</name>
+   <tag></tag>
+   <elementGuidId>c1d2c3e5-9ccf-4223-baab-a911c3b850f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Информация о пациенте заполнена не полностью'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.ico.styles_ico__1XSpc.styles_ico__3rll5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>d033cd08-cdba-4e24-bbcd-e207c9e4ed63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 15 17</value>
+      <webElementGuid>c6f28c82-1f5c-480f-8200-2e01e6675703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>ff4eee26-85c1-40f2-ab17-ff81ae11d64c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>a9868002-ea74-44b3-a0ab-57220c21875f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ico styles_ico__1XSpc styles_ico__3rll5</value>
+      <webElementGuid>81bcd191-d16a-4857-aecf-ca3b0b29bfa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__1obJP&quot;]/div[@class=&quot;styles_container__1i6mu&quot;]/div[@class=&quot;styles_content__container__3Lyiu&quot;]/div[@class=&quot;styles_template_list__2uA1o&quot;]/div[@class=&quot;styles_container__3xT-H&quot;]/div[@class=&quot;styles_container__28gCh&quot;]/div[@class=&quot;styles_container__1jy88&quot;]/button[@class=&quot;styles_button__3aqpp styles_button__pR2_7&quot;]/svg[@class=&quot;ico styles_ico__1XSpc styles_ico__3rll5&quot;]</value>
+      <webElementGuid>99f3b0f4-cbe8-448b-952b-31756ef8eb54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Информация о пациенте заполнена не полностью'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>814236ed-4098-4480-a237-c389ca0c5803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Не подтвержден'])[1]/following::*[name()='svg'][4]</value>
+      <webElementGuid>4d27b345-1545-4a3c-8b57-04c0ff66a11c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Информация о пациенте заполнена не полностью'])[2]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>2178e1db-f372-449f-afb8-f46de58d65ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавить'])[1]/preceding::*[name()='svg'][6]</value>
+      <webElementGuid>0a52b3c1-77dc-4f69-a45a-42d98c731525</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

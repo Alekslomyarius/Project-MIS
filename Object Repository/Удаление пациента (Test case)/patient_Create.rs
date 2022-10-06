@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>patient_Create</name>
+   <tag></tag>
+   <elementGuidId>125d86a5-58a4-46a1-a423-a8d8925ab17b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Avtotest QA Regressovich' or . = 'Avtotest QA Regressovich')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.styles_table__row__item__UcN8R</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '${GlobalVariable.Test_patient2_FIO_full}' or . = '${GlobalVariable.Test_patient2_FIO_full}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8eb81c4f-6006-47db-acc5-0b53141d18d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_table__row__item__UcN8R</value>
+      <webElementGuid>4c97f6e0-6ff5-4313-80e6-cbb3ea14e441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${GlobalVariable.Test_patient2_FIO_full}</value>
+      <webElementGuid>6766353f-a486-43f5-b291-8c154c4b9171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;styles_container__1MkwW&quot;]/div[@class=&quot;table-container&quot;]/div[@class=&quot;styles_table-wrapper__3zrY3&quot;]/div[@class=&quot;styles_table-container__inner__3Iilq&quot;]/div[@class=&quot;styles_table__row__1CMXh&quot;]/span[@class=&quot;styles_table__row__item__UcN8R&quot;]</value>
+      <webElementGuid>2acd6033-f6c7-4089-aa43-6ca4b9a4e3dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div/div[3]/div/div[2]/div/span</value>
+      <webElementGuid>4de2a3e5-5a1b-4c32-a0a3-a36874942656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Дата рождения'])[1]/following::span[1]</value>
+      <webElementGuid>a94d5048-0a9e-4260-8c91-05bf679d3c19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Номер телефона'])[1]/following::span[2]</value>
+      <webElementGuid>fe183267-8ddf-4c96-a501-5a87e30d1ed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Avtotest QA Regressovich']/parent::*</value>
+      <webElementGuid>40e00bf8-fd90-488b-85a4-6a21d9fdfc2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span</value>
+      <webElementGuid>3a266da0-9c87-45fd-8cc7-7147e11d4e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Avtotest QA Regressovich' or . = 'Avtotest QA Regressovich')]</value>
+      <webElementGuid>9bde57f1-959f-48ca-9153-be1cc4995165</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

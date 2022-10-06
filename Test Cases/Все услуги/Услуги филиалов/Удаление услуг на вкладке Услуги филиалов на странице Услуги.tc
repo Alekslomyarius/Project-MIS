@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Удаление услуг на вкладке Услуги филиалов на странице Услуги</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6812aae-c837-4def-8808-083e399174a4</testCaseGuid>
+</TestCaseEntity>

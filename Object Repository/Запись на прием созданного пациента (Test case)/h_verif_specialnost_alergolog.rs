@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h_verif_specialnost_alergolog</name>
+   <tag></tag>
+   <elementGuidId>74303f09-efd9-4d18-b62f-773d7579b62d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = ' Аллерголог' or . = ' Аллерголог')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ee9e5cf3-f30a-40d8-8dd0-390a42f1c5ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_doctor__specialization__2SNZo</value>
+      <webElementGuid>f43fc8c0-9347-46a8-a8e8-2dea8cce6d76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Аллерголог</value>
+      <webElementGuid>5c222372-6bb5-463f-90ce-3a81ef6aaeb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;container&quot;]/div[2]/div[@class=&quot;styles_appointmentList__tSlng&quot;]/div[@class=&quot;styles_appointmentList__table__1H_PX&quot;]/div[@class=&quot;styles_day__doctors__1b3VR&quot;]/div[@class=&quot;styles_doctor__3Qv0N&quot;]/div[@class=&quot;styles_doctor__info__1KgFp&quot;]/p[@class=&quot;styles_doctor__specialization__2SNZo&quot;]</value>
+      <webElementGuid>b92faf22-8236-43aa-9aca-bec21dc9c460</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div/div[2]/div[2]/div/div[2]/div[2]/div/p</value>
+      <webElementGuid>419983c2-144e-443b-9a59-c43c4dabecfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Фламинко И. Д.'])[1]/following::p[1]</value>
+      <webElementGuid>bd851f49-6583-46ab-86d5-20b7a0e81093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Доктор П.'])[1]/following::p[2]</value>
+      <webElementGuid>2e7b00c6-b18f-4160-88b2-68975ca72a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[1]/preceding::p[1]</value>
+      <webElementGuid>977b6937-039a-4827-89b4-7eb74c73e927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[2]/preceding::p[1]</value>
+      <webElementGuid>c3a59f6d-d0c6-4171-9163-b81a20e80f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Аллерголог']/parent::*</value>
+      <webElementGuid>e04ed9c9-a3d6-4492-96ed-5345548e4df2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p</value>
+      <webElementGuid>1f74ec63-cd4c-41bb-85b4-5075c215ca11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' Аллерголог' or . = ' Аллерголог')]</value>
+      <webElementGuid>a0b4b639-4bb2-40cc-9200-afeb68899241</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

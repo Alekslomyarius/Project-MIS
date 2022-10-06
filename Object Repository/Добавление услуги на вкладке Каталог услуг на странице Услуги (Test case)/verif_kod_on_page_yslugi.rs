@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verif_kod_on_page_yslugi</name>
+   <tag></tag>
+   <elementGuidId>e6132af1-e007-4a3a-beab-0d847460610f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = '43' or . = '43')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_table__template__KhwMC.styles_table__template__1FcRX.styles_service__item__3o6q3 > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0b7bbeb0-798c-485b-bc36-374cb3a644b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>177</value>
+      <webElementGuid>81c78229-be71-42da-ab1b-e4faf6a5d15f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;styles_container__1bWbk&quot;]/div[@class=&quot;styles_container__1QFmr&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;styles_table__template__KhwMC styles_table__template__1FcRX styles_service__item__3o6q3&quot;]/p[1]</value>
+      <webElementGuid>eb4141fe-ead1-45a6-a778-3065f838b66e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div/div[3]/div[2]/div[2]/div[2]/p</value>
+      <webElementGuid>5dae3166-136b-456c-8ec2-5745b6ff52f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Добавить услугу'])[1]/following::p[4]</value>
+      <webElementGuid>f5f0d16a-c1d4-47b7-a546-9051624943c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Услуги филиалов'])[1]/following::p[4]</value>
+      <webElementGuid>93cf81d5-b861-4431-8441-5f51b8fdb049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='177']/parent::*</value>
+      <webElementGuid>037ba197-74b2-415c-a8d7-dcdc0b6e4857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>919d0406-8d52-4dc3-ab12-08400a1027e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '177' or . = '177')]</value>
+      <webElementGuid>23e787e9-387a-48f3-abe0-7bd727612c3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

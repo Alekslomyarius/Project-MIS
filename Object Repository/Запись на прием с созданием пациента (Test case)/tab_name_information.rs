@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tab_name_information</name>
+   <tag></tag>
+   <elementGuidId>70a9d06c-6a6f-41e0-a417-e743e9d5c3d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Имя*' or . = 'Имя*')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_patientData__firstName__sXdLD > label.styles_inputWrapper__3YFF2 > span.styles_label__1CZ6I</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>973814f9-6e8c-4760-81e3-2927a00504d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_label__1CZ6I</value>
+      <webElementGuid>51074e46-14ba-4b0a-8eed-bc31ab5f403c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Имя*</value>
+      <webElementGuid>39eb1756-a250-4376-9894-a1a4312b6af0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/form[@class=&quot;styles_container__2kCJE&quot;]/div[@class=&quot;styles_content__container__20ZQn&quot;]/div[1]/div[@class=&quot;styles_patientData__container__2dYQk&quot;]/div[@class=&quot;styles_patientData__firstName__sXdLD&quot;]/label[@class=&quot;styles_inputWrapper__3YFF2&quot;]/span[@class=&quot;styles_label__1CZ6I&quot;]</value>
+      <webElementGuid>3dc7047d-fd76-4697-91a0-73acd5e77baa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/form/div/div/div/div[2]/label/span</value>
+      <webElementGuid>e2173ebf-3326-435d-ac73-f497946e6535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[1]</value>
+      <webElementGuid>235f923c-de69-4305-8c99-6e5c3f78f511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Отчество'])[1]/preceding::span[2]</value>
+      <webElementGuid>29258bb6-aa52-43b4-8a51-745e3cb6de19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Имя']/parent::*</value>
+      <webElementGuid>97bb50f3-80b4-4efd-ac7d-c00ef44eae05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/span</value>
+      <webElementGuid>9b001f4c-623e-4252-9504-5985f5cfcfd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Имя*' or . = 'Имя*')]</value>
+      <webElementGuid>c21dbbf1-c1fd-4762-93ce-6896958538c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

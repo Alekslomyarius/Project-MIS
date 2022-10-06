@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Добавление услуг врачу на вкладке Основная информация в его профиле</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2aafdb92-5c6b-419c-a1a1-56f1211b439c</testCaseGuid>
+</TestCaseEntity>

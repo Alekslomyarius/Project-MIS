@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tab_save_uslugi_vkladka</name>
+   <tag></tag>
+   <elementGuidId>5a9128e3-f000-404a-a151-3903a8ecaa10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Сохранить' or . = 'Сохранить')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-primary.styles_button__3pqej.styles_primary__2Afkd.styles_button__3lVzr.styles_edit__button__3WJ5r > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f0e37546-d6d5-4238-8eaa-2ba57b63a2e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Сохранить</value>
+      <webElementGuid>2e260311-771c-4b5f-baed-f348b1459926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__1J0HH&quot;]/div[@class=&quot;styles_actions__container__Z77j2 styles_actions__container__NPpVi&quot;]/button[@class=&quot;ant-btn ant-btn-primary styles_button__3pqej styles_primary__2Afkd styles_button__3lVzr styles_edit__button__3WJ5r&quot;]/span[1]</value>
+      <webElementGuid>e60a604c-9c35-41f4-a57f-0d6a161a90dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div[2]/div/div/div[2]/div[2]/button/span</value>
+      <webElementGuid>7fef3f9f-9d39-4141-9ec9-b31512c6f60a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавить услугу'])[1]/following::span[2]</value>
+      <webElementGuid>8324d74c-7818-475e-84d2-054f320ab72d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Редактировать'])[1]/following::span[3]</value>
+      <webElementGuid>045fc4f1-e6ed-479a-b1d2-8f189e9d4978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Отмена'])[1]/preceding::span[1]</value>
+      <webElementGuid>33ab12c6-69fd-46bd-ad7c-944a96ef869f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Да'])[1]/preceding::span[4]</value>
+      <webElementGuid>5434a35b-32a0-4c6a-8b19-6ae8091bd943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Сохранить']/parent::*</value>
+      <webElementGuid>d529c4d3-5bcf-44b6-80cc-6bf54c101392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>df7f57be-d822-4ec0-9773-c4cd1807ed46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Сохранить' or . = 'Сохранить')]</value>
+      <webElementGuid>59730216-f2c2-4f14-b12c-1f8b969311fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

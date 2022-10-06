@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verif_all_summ_time_uslug_vkladka</name>
+   <tag></tag>
+   <elementGuidId>56de4ec8-e617-44e2-93c2-13b5d15e4671</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_wrapper__37S9J > div.styles_container__1LJOL > p.duration</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = '70 мин.' or . = '70 мин.')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>92415b51-df62-4302-a489-28e27594b98f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>duration</value>
+      <webElementGuid>d5aeef1c-05af-4bcc-bf98-0af978b98237</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>70 мин.</value>
+      <webElementGuid>99feb068-c6bc-4c5d-9bfc-e4d02f65248c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__1J0HH&quot;]/div[@class=&quot;styles_wrapper__37S9J&quot;]/div[@class=&quot;styles_container__1LJOL&quot;]/p[@class=&quot;duration&quot;]</value>
+      <webElementGuid>c44aea5e-2f45-404e-9544-7b8bf1ca2966</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div[2]/div/div/div[2]/div/div[2]/p[2]</value>
+      <webElementGuid>279d8da6-78cf-424f-b8c6-3b529b3506f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавить услугу'])[1]/following::p[8]</value>
+      <webElementGuid>e81c3ced-169a-44b2-a708-773d3a565107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Редактировать'])[1]/following::p[9]</value>
+      <webElementGuid>19ca5d08-50ba-448f-ad81-8e530bce1c54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Сохранить'])[1]/preceding::p[2]</value>
+      <webElementGuid>2f301c54-9a83-4e6b-9876-84020697b878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Отмена'])[1]/preceding::p[2]</value>
+      <webElementGuid>3440a798-8b33-426d-a576-95416c8e737d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='70']/parent::*</value>
+      <webElementGuid>2c63228b-02f9-4e79-a998-d82ddbd3afc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div[2]/p[2]</value>
+      <webElementGuid>717ab184-de98-4fbb-8795-5eab9c69e875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '70 мин.' or . = '70 мин.')]</value>
+      <webElementGuid>7359b781-0aac-4045-87bd-1b17f3b2dee6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

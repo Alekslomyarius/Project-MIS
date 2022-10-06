@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>75dad823-7f96-404a-bd10-a094e66607f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-date-picker.react-date-picker--closed.react-date-picker--disabled.custom_input_3j23dLnd2u9.custom_input_disabled__3j2wKdn3.custom_input_3ffsDKDb72g.calendar_ico_3j2wKdn3.styles_date_input__2LV4r.styles_date_input_disabled__1GeRb > div.react-date-picker__wrapper > button.react-date-picker__clear-button.react-date-picker__button > svg.ico.styles_ico_cross__38HKu > g > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>9dc55be3-663f-4fac-bb02-b2f6d7d0dab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M6.95 2.416 5.137 4.229l-1.81-1.81a.386.386 0 0 0-.542-.004l-.232.232a.386.386 0 0 0 .003.544L4.366 5 2.553 6.813a.382.382 0 0 0-.001.54l.233.233a.38.38 0 0 0 .54-.002l1.812-1.813 1.816 1.816a.378.378 0 0 0 .537-.003l.232-.232a.378.378 0 0 0 .003-.536L5.908 5l1.813-1.813a.381.381 0 0 0 .002-.539l-.234-.233a.382.382 0 0 0-.54 0Z</value>
+      <webElementGuid>3170de08-97ec-49fb-970d-1271fc92ee43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>57e2d069-a90b-405e-8bcd-f01c9a9afff6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/form[@class=&quot;styles_container__2kCJE&quot;]/div[@class=&quot;styles_content__container__20ZQn&quot;]/div[4]/div[@class=&quot;styles_container__db3vq&quot;]/div[@class=&quot;styles_container__4Xrq-&quot;]/div[@class=&quot;react-date-picker react-date-picker--closed react-date-picker--disabled custom_input_3j23dLnd2u9 custom_input_disabled__3j2wKdn3  custom_input_3ffsDKDb72g calendar_ico_3j2wKdn3 styles_date_input__2LV4r styles_date_input_disabled__1GeRb&quot;]/div[@class=&quot;react-date-picker__wrapper&quot;]/button[@class=&quot;react-date-picker__clear-button react-date-picker__button&quot;]/svg[@class=&quot;ico styles_ico_cross__38HKu&quot;]/g[1]/path[1]</value>
+      <webElementGuid>16e2a3eb-2ef9-4a29-829d-c4ecbaab1ff6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

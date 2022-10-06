@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h_page_yslugi</name>
+   <tag></tag>
+   <elementGuidId>786cf9c5-64cb-4719-bdd2-0e7872d7db68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[(text() = 'Услуги' or . = 'Услуги')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.styles_title__W84or</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>15776e34-0cfd-4d3e-b767-53ad39731d75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_title__W84or</value>
+      <webElementGuid>ccc6a738-a748-472a-aeb8-da8476b35dd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Услуги</value>
+      <webElementGuid>8d782d21-71d1-4e85-a0c3-68f4492336b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;styles_container__1bWbk&quot;]/div[@class=&quot;styles_wrapper__10O36&quot;]/h1[@class=&quot;styles_title__W84or&quot;]</value>
+      <webElementGuid>c21b6f99-3e8d-4ac9-876d-5874e61d8d37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div/div/h1</value>
+      <webElementGuid>03e808fc-bd50-4ed1-8b53-5f570815a23d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Шаблоны осмотра'])[1]/following::h1[1]</value>
+      <webElementGuid>dc4c4f8b-056d-4d93-9660-4a3e6932a917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Услуги'])[1]/following::h1[1]</value>
+      <webElementGuid>5d1b6af0-ce2b-4eca-a8e7-e0bd9c032584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Каталог услуг'])[1]/preceding::h1[1]</value>
+      <webElementGuid>dd731ed5-c340-4af0-9611-3d9a4864b675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Услуги филиалов'])[1]/preceding::h1[1]</value>
+      <webElementGuid>e65f9932-594f-427f-98f9-09d55f006f88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>93d255fc-c2c4-451e-be9a-8c753a7a34fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Услуги' or . = 'Услуги')]</value>
+      <webElementGuid>6536ca1a-eeef-4a1e-b07d-5ee91534d170</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

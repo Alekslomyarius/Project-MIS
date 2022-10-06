@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tab_add_yslugi_for_vrach</name>
+   <tag></tag>
+   <elementGuidId>3a45f79b-4c1d-49cb-ab7f-3bfb1b67630a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/main/section/div/div[3]/div[3]/div/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_nodataField__5qyEe > div > button.ant-btn.ant-btn-primary.styles_button__3pqej.styles_primary__2Afkd.styles_button__3pqej > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2307024c-3228-4cfc-8e29-296560cbc024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ Добавить данные</value>
+      <webElementGuid>a4fbb8bb-3659-4ada-bbfe-375d6c58a322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;styles_container__2tAtq&quot;]/div[@class=&quot;styles_container__Rs66p&quot;]/div[@class=&quot;styles_doctorServices__container__qWytP&quot;]/div[@class=&quot;styles_section__container__25VSp&quot;]/div[@class=&quot;styles_nodataField__5qyEe&quot;]/div[1]/button[@class=&quot;ant-btn ant-btn-primary styles_button__3pqej styles_primary__2Afkd styles_button__3pqej&quot;]/span[1]</value>
+      <webElementGuid>a201fa1c-0cae-4cba-a09a-35bee675dbf2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div/div[3]/div[3]/div/div/div/button/span</value>
+      <webElementGuid>a45415dd-4e4c-41ac-8b1d-d18dd3fdaf51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Услуги'])[2]/following::span[1]</value>
+      <webElementGuid>67828009-b622-4a0b-a96b-78d7f6c20be3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Добавить данные'])[1]/following::span[1]</value>
+      <webElementGuid>ade8f527-11b0-4897-ae4f-f3bdbeb98b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/button/span</value>
+      <webElementGuid>2ad4e865-9466-4d9b-964d-7fda94ee6c36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '+ Добавить данные' or . = '+ Добавить данные')]</value>
+      <webElementGuid>f0f6d4fe-c68a-4a83-bdcd-a58f10aa98ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

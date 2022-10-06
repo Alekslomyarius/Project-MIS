@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h_info_priema</name>
+   <tag></tag>
+   <elementGuidId>b5a3002e-e4c8-4e3a-be44-1d2eaeeabb8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.styles_content__header_title__8n163</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = 'Информация о приеме' or . = 'Информация о приеме')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>19a967ee-1eff-4d9a-99bb-792814681654</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_content__header_title__8n163</value>
+      <webElementGuid>99b94afc-b8c8-4ce9-bff5-fa47a855a3be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Информация о приеме</value>
+      <webElementGuid>973582a2-7845-43e1-8bbd-99c5d040c4a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_content__header__1YvS0&quot;]/p[@class=&quot;styles_content__header_title__8n163&quot;]</value>
+      <webElementGuid>1f40ca2a-57b6-40e6-a7ff-64a907e4b885</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/div/p</value>
+      <webElementGuid>54dc3377-54b6-4cf7-ab09-67170d248ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✖'])[1]/following::p[1]</value>
+      <webElementGuid>1831c2b0-0559-4e6d-ba95-aa58e4823eea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Машина М. Б.'])[2]/following::p[1]</value>
+      <webElementGuid>01d48a3f-f1d6-495e-95fb-744f6a047150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Общее'])[1]/preceding::p[1]</value>
+      <webElementGuid>c9538b84-2b37-48ec-9b40-22ebc7b4f380</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Услуги'])[1]/preceding::p[1]</value>
+      <webElementGuid>f8ef34f9-f98f-46d7-9133-8a1372ddc56d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Информация о приеме']/parent::*</value>
+      <webElementGuid>c746cfb4-fb0d-4d2c-9b9f-9288cd2be855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/p</value>
+      <webElementGuid>c37ca477-89f6-4697-bd46-38cbde8be99d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Информация о приеме' or . = 'Информация о приеме')]</value>
+      <webElementGuid>f876bbdd-1479-4c88-a38a-d63076ee7c96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

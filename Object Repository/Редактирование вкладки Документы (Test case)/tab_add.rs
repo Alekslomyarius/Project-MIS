@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tab_add</name>
+   <tag></tag>
+   <elementGuidId>4daab726-dad0-48b5-96c7-8838ecbc408c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Добавить' or . = 'Добавить')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-primary.styles_button__3pqej.styles_primary__2Afkd.styles_button__6ItO- > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>98bbace5-506f-4dba-bb8f-5ffcb66ff228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Добавить</value>
+      <webElementGuid>2c9469cb-1efd-42f2-b0e9-293b76232129</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__1obJP&quot;]/div[@class=&quot;styles_container__1i6mu&quot;]/div[@class=&quot;footer_actions&quot;]/div[@class=&quot;styles_container__1Z81y&quot;]/button[@class=&quot;ant-btn ant-btn-primary styles_button__3pqej styles_primary__2Afkd styles_button__6ItO-&quot;]/span[1]</value>
+      <webElementGuid>20d276be-f796-4d02-a1f2-ba5d9a05da5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div[2]/div/div/div[2]/div/div[2]/div/button/span</value>
+      <webElementGuid>37b40092-4fb6-444f-bc2c-cabb42df1d96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Не подтвержден'])[1]/following::span[11]</value>
+      <webElementGuid>590aff49-7b57-4445-9539-75c88c80f758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Начать прием'])[1]/following::span[12]</value>
+      <webElementGuid>b125c423-0d65-400c-82b5-9c9be374f678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Отмена'])[1]/preceding::span[1]</value>
+      <webElementGuid>ab68615b-c6c5-4c75-b114-f5972063eb62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Добавить']/parent::*</value>
+      <webElementGuid>d477a98b-aa2f-4d82-89db-d452ffc95f30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/span</value>
+      <webElementGuid>cedeeaf4-e66a-45f6-966a-522693bbcfc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Добавить' or . = 'Добавить')]</value>
+      <webElementGuid>bd857460-56ea-4f39-8da4-21d522731ab6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

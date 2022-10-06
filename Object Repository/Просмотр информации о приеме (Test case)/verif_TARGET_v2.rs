@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verif_TARGET_v2</name>
+   <tag></tag>
+   <elementGuidId>a0ceb61b-57a5-468d-95ad-c0b16764bbdd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = 'Автотест. Цель визита. Создание пациента в приеме' or . = 'Автотест. Цель визита. Создание пациента в приеме')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.goal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>cff595a5-61c4-43c8-8da7-68746fddcc9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>goal</value>
+      <webElementGuid>d7bcb028-0884-4f51-8605-ef2e22e20b1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Автотест. Цель визита. Создание пациента в приеме</value>
+      <webElementGuid>c9476baf-4459-477d-9ce7-8cb869b7b554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__3ivyS&quot;]/div[@class=&quot;styles_container__1zr_3&quot;]/div[@class=&quot;styles_container__2UbMH&quot;]/div[@class=&quot;styles_container__18AaY&quot;]/div[@class=&quot;styles_content__container__1FikG&quot;]/div[@class=&quot;styles_content__1YTzU&quot;]/div[@class=&quot;styles_info__1xIDw&quot;]/p[@class=&quot;goal&quot;]</value>
+      <webElementGuid>8d828693-8bf8-4aea-bfd3-cd0d884a4ea9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/div[2]/div/div[2]/div/div/div[4]/div[2]/p</value>
+      <webElementGuid>0484f840-e871-4301-bbdf-7fc8d663e8db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Цель визита'])[1]/following::p[1]</value>
+      <webElementGuid>63c8a603-186d-4c75-bf43-8149c795f4e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient Create Тестович In card'])[1]/following::p[2]</value>
+      <webElementGuid>0a6ea8c1-7f44-4ccd-ab38-5496d387fd5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Начать прием'])[1]/preceding::p[1]</value>
+      <webElementGuid>c40410e2-e25d-4e0d-964b-80f3cbfec034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Не подтвержден'])[1]/preceding::p[1]</value>
+      <webElementGuid>9f4e2c82-2192-4e3e-8761-9fa14b129db2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Автотест. Цель визита. Создание пациента в приеме']/parent::*</value>
+      <webElementGuid>bb22632b-fdb9-46c1-b657-125e90e3bb2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/p</value>
+      <webElementGuid>f0768e10-d30b-4fb1-834d-cf6765c04814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Автотест. Цель визита. Создание пациента в приеме' or . = 'Автотест. Цель визита. Создание пациента в приеме')]</value>
+      <webElementGuid>a76ba1f2-bb9f-4574-b3d8-88972055a35f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

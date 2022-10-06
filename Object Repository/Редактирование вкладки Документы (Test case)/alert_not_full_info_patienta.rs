@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>alert_not_full_info_patienta</name>
+   <tag></tag>
+   <elementGuidId>4f9d531f-6f3c-4988-b1d1-e33b23a9cb7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Информация о пациенте заполнена не полностью' or . = 'Информация о пациенте заполнена не полностью')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.description__text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>afee7b6c-28c9-4eb2-81b5-581899939158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>description__text</value>
+      <webElementGuid>2a2bb9f7-6fc1-49e5-af0a-6380941f487f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Информация о пациенте заполнена не полностью</value>
+      <webElementGuid>28630ede-7fa3-4bc5-8b63-0cfcebf0dc26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__1obJP&quot;]/div[@class=&quot;styles_container__1i6mu&quot;]/div[@class=&quot;styles_content__container__3Lyiu&quot;]/div[@class=&quot;styles_template_list__2uA1o&quot;]/div[@class=&quot;styles_container__3xT-H&quot;]/div[@class=&quot;styles_container__28gCh&quot;]/div[@class=&quot;styles_container__1jy88&quot;]/div[@class=&quot;styles_description__ehn62&quot;]/div[@class=&quot;description__text&quot;]</value>
+      <webElementGuid>3e74056e-f995-4da2-ae12-4ee9806ff2da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div[2]/div/div/div[2]/div/div/div[2]/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>0008c3e2-0609-4ce3-86f7-63d8f3837c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Не подтвержден'])[1]/following::div[19]</value>
+      <webElementGuid>ae202220-531e-45b7-b1d0-bc2d088783f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Начать прием'])[1]/following::div[25]</value>
+      <webElementGuid>b028bed6-fd35-4e1b-a83a-86e5772599e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Информация о пациенте заполнена не полностью'])[2]/preceding::div[4]</value>
+      <webElementGuid>3dcd2ed7-2e5b-4dc9-beab-27547414eddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавить'])[1]/preceding::div[9]</value>
+      <webElementGuid>85d116e1-07c9-422d-aa2c-79a1d024ae4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Информация о пациенте заполнена не полностью']/parent::*</value>
+      <webElementGuid>04df9510-1919-4900-8306-6941a23078f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>a079d93b-b1fd-463a-8aff-02aedebdfb5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Информация о пациенте заполнена не полностью' or . = 'Информация о пациенте заполнена не полностью')]</value>
+      <webElementGuid>6c75aa2c-fd80-42ca-95b0-04043cccd332</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pole_cena_yslugi_filiala</name>
+   <tag></tag>
+   <elementGuidId>2cfd7969-fbed-44af-b770-42eb49e7b521</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Цена' or . = 'Цена')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_price__container__3U0qW > div > label.styles_inputWrapper__3YFF2 > span.styles_label__1CZ6I</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e6865469-e691-474e-bb68-21a70080faf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_label__1CZ6I</value>
+      <webElementGuid>bfebcb73-805a-47de-b761-ba2565bc31cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Цена</value>
+      <webElementGuid>2d904b92-ee12-4c5d-9da2-2363076a97da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[6]/div[@class=&quot;ant-drawer ant-drawer-right drawer-container styles_drawer__2uu-d ant-drawer-open&quot;]/div[@class=&quot;ant-drawer-content-wrapper&quot;]/div[@class=&quot;ant-drawer-content&quot;]/div[@class=&quot;ant-drawer-wrapper-body&quot;]/div[@class=&quot;ant-drawer-body&quot;]/form[@class=&quot;styles_container__3kajN&quot;]/div[@class=&quot;styles_container__PlZVh&quot;]/div[@class=&quot;settings__container&quot;]/div[@class=&quot;styles_settings_content__container__QeIpR&quot;]/div[@class=&quot;styles_price__container__3U0qW&quot;]/div[1]/label[@class=&quot;styles_inputWrapper__3YFF2&quot;]/span[@class=&quot;styles_label__1CZ6I&quot;]</value>
+      <webElementGuid>a9302b24-a017-44de-b624-194528541ccf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Длительность'])[2]/following::span[1]</value>
+      <webElementGuid>e79eb04b-4a1b-432c-9b66-65740b04ccb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Сохранить'])[1]/preceding::span[1]</value>
+      <webElementGuid>1bff7c35-1743-4ce9-9c25-25884d8458ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Отмена'])[1]/preceding::span[2]</value>
+      <webElementGuid>81d82fc7-8be5-40d5-bcc0-7966a98e9bf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label/span</value>
+      <webElementGuid>b8c14681-8838-4d54-b150-0e90d2b2b44a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Цена' or . = 'Цена')]</value>
+      <webElementGuid>20a9b763-a355-4524-91ef-a32bae506dd5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

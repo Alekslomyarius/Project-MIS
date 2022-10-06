@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verif_kod_on_modal_filial_2</name>
+   <tag></tag>
+   <elementGuidId>1f4ad419-7bbd-4337-966a-651026bf3195</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = '577' or . = '577')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_table__template__1hO5d.styles_table__template__1YhBQ.styles_service__item__2ClIM > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e885cd7c-054b-4534-adc7-5a05f6d855b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>577</value>
+      <webElementGuid>f88ddf9c-f66e-476d-a80a-47d9992bbba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__2VOdc&quot;]/div[@class=&quot;styles_table__container__2Xqgx&quot;]/div[@class=&quot;container&quot;]/div[2]/div[@class=&quot;styles_table__template__1hO5d styles_table__template__1YhBQ styles_service__item__2ClIM&quot;]/p[1]</value>
+      <webElementGuid>14e4a381-dece-4ce6-83ae-32cb8df86685</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/div[2]/div[2]/div/div[2]/div/p</value>
+      <webElementGuid>c70e7057-e228-4d7f-8bae-43bfa01b6cf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Автотест'])[1]/following::p[30]</value>
+      <webElementGuid>0ff2218e-6f52-409e-9c83-dd5f1acb0e25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Добавить услугу'])[1]/following::p[30]</value>
+      <webElementGuid>c54245d6-3ed1-44d8-bf59-a5d2816f25b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавлена к филиалу'])[1]/preceding::p[2]</value>
+      <webElementGuid>b76d1962-b0b8-439e-aba7-e9a9039c68a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div/p</value>
+      <webElementGuid>d8c20a42-a6cd-45ed-b76d-0ec0177dfcf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '577' or . = '577')]</value>
+      <webElementGuid>90e5f7fd-ccaf-42e0-bca5-e52c3601f7f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

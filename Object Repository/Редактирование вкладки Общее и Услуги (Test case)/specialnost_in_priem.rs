@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>specialnost_in_priem</name>
+   <tag></tag>
+   <elementGuidId>1e911c93-f2e9-480d-a3bf-daed8adc7afb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_container__3lvxA > div.styles_selectInputContainer__1vEHJ.styles_disabled__2yktP > div.styles_selectInputWrapper__p580E.styles_selector__1gUO1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Акушер-гинеколог' or . = 'Акушер-гинеколог')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0584fc62-5379-46f8-962f-abfd095ea1aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_selectInputWrapper__p580E styles_selector__1gUO1</value>
+      <webElementGuid>cda1855d-a6dc-4385-91a2-a879c423eccc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Акушер-гинеколог</value>
+      <webElementGuid>065546d4-7888-4cf4-94d2-fe944b248f03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__2wFx3&quot;]/div[2]/div[@class=&quot;styles_container__3lvxA&quot;]/div[@class=&quot;styles_selectInputContainer__1vEHJ styles_disabled__2yktP&quot;]/div[@class=&quot;styles_selectInputWrapper__p580E styles_selector__1gUO1&quot;]</value>
+      <webElementGuid>f46f23c1-68e4-4c2d-a7e1-9a1bf64f2ea4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div[2]/div/div/div[2]/div[2]/div/div[2]/div</value>
+      <webElementGuid>565afe2c-e2ca-4c87-903c-be6476d495c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Измайлов Дмитрий Петрович'])[2]/following::div[6]</value>
+      <webElementGuid>f9cb242e-c401-4019-8194-a6dd8f88950f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Данные о враче'])[1]/following::div[13]</value>
+      <webElementGuid>bd47d20a-3813-4d41-9216-170dfff56c72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Прием'])[1]/preceding::div[9]</value>
+      <webElementGuid>48da8ae1-dc7f-44a4-8d47-88dca447d8e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div[2]/div[2]/div/div[2]/div</value>
+      <webElementGuid>23287b54-f95a-461d-bec8-42d5a9d2b459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Акушер-гинеколог' or . = 'Акушер-гинеколог')]</value>
+      <webElementGuid>f50089e3-9ce7-496f-b3c2-e3bf9e60e0c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

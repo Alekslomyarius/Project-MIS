@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FIO_prosmotr_Avtotest QA Regressovich</name>
+   <tag></tag>
+   <elementGuidId>c9de748f-d993-492e-94b2-f16496cbb4ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='drawer']/div/div/div/div[2]/div/div[2]/div/div/div[3]/div[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.styles_patient__name__11BU0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7e6c1d40-d95b-434e-86e5-c2109483ebe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_patient__name__11BU0</value>
+      <webElementGuid>8fd1ccd6-8720-4014-8c7f-a88b2a0f9298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Avtotest QA Regressovich</value>
+      <webElementGuid>d009ad61-5173-4095-9d05-c652df019b62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__3ivyS&quot;]/div[@class=&quot;styles_container__1zr_3&quot;]/div[@class=&quot;styles_container__2L7dy&quot;]/div[@class=&quot;styles_container__18AaY&quot;]/div[@class=&quot;styles_content__container__1FikG&quot;]/div[@class=&quot;styles_content__1YTzU&quot;]/div[@class=&quot;styles_info__1xIDw&quot;]/a[1]/span[@class=&quot;styles_patient__name__11BU0&quot;]</value>
+      <webElementGuid>69b5a4b1-54dc-4f47-9eab-62904de3f850</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/div[2]/div/div[2]/div/div/div[3]/div[2]/a/span</value>
+      <webElementGuid>eed1cad7-462e-45e6-af0e-1294b04416d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Пациент'])[1]/following::span[1]</value>
+      <webElementGuid>e84f215b-dda9-4842-b47f-bf91926e59e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Врач'])[1]/following::span[1]</value>
+      <webElementGuid>c8fe80bc-3a6e-46a8-97d8-0c83d22ca1dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Цель визита'])[1]/preceding::span[2]</value>
+      <webElementGuid>cc06e831-4ea3-478d-92b9-bd2fbad5e2c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Начать прием'])[1]/preceding::span[2]</value>
+      <webElementGuid>43865b18-c227-48d8-a585-4099c3cf6331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Avtotest QA Regressovich']/parent::*</value>
+      <webElementGuid>a9ac5b54-09de-4d61-ba4c-4277e23e9a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/span</value>
+      <webElementGuid>1fececd8-caf9-498e-9860-487f02080ed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Avtotest QA Regressovich' or . = 'Avtotest QA Regressovich')]</value>
+      <webElementGuid>e65b134f-c880-45f4-b829-0ae36a350bfe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

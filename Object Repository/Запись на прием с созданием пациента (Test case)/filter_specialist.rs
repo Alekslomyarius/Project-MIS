@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>filter_specialist</name>
+   <tag></tag>
+   <elementGuidId>ebd67ccf-44d7-4f26-a7b2-97e3314e874e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Специалист' or . = 'Специалист')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6e4cb600-c2a5-4c83-8d3f-d9e46deb9e16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1msvot1-placeholder</value>
+      <webElementGuid>b615066e-6613-4b10-af12-89f93180b469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Специалист</value>
+      <webElementGuid>bc18489d-2cfc-471a-89c2-e4e4c5143625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;container&quot;]/div[2]/div[@class=&quot;styles_appointmentList__tSlng&quot;]/div[@class=&quot;control&quot;]/div[@class=&quot;styles_doctorFilter__hDrSO&quot;]/div[@class=&quot;styles_selectInputContainer__1vEHJ&quot;]/div[@class=&quot;styles_selectInputWrapper__p580E&quot;]/div[@class=&quot;css-dyr6gj-container&quot;]/div[@class=&quot;css-jfh2ty-control&quot;]/div[@class=&quot;css-kw997m&quot;]/div[@class=&quot;css-1msvot1-placeholder&quot;]</value>
+      <webElementGuid>19bc9fb1-d2b2-4141-9086-156099b7c628</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div/div[2]/div[2]/div[2]/div[3]/div/div/div/div/div/div</value>
+      <webElementGuid>e82111d2-61b7-4b31-8238-df54dc1af9cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='option Машина Магович Боевая, selected.'])[1]/following::div[3]</value>
+      <webElementGuid>53a5b73c-7335-4c3d-adcf-fa889f608247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Очистить'])[2]/following::div[6]</value>
+      <webElementGuid>d2503852-fcd1-4f3a-9aea-e6d30e0ffdd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Сергей Викторович Гагулин'])[1]/preceding::div[7]</value>
+      <webElementGuid>d5654307-fe86-46ea-84fc-6dd9bdec057a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Специалист']/parent::*</value>
+      <webElementGuid>da90861c-85ea-4ca7-acb4-b2c8d3486fe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div</value>
+      <webElementGuid>f4ddbea3-c981-46e9-8640-54f7e717fe3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Специалист' or . = 'Специалист')]</value>
+      <webElementGuid>6b3e7a4e-44cb-402a-8846-0061ef790980</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

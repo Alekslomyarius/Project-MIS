@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verif_alert_phone</name>
+   <tag></tag>
+   <elementGuidId>c5ddc536-c5cc-4d9e-8f12-57f40bf0e411</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div/div/div/form/div[1]/div[1]/div/div[6]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_patientData__phone__3BE1D > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>33420a27-7f83-4f3c-8466-a626f342550f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Телефон*PhoneПоле обязательно для заполнения</value>
+      <webElementGuid>e4351560-cb2d-42e5-8f73-c367d25086f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/form[@class=&quot;styles_container__2kCJE&quot;]/div[@class=&quot;styles_content__container__20ZQn&quot;]/div[1]/div[@class=&quot;styles_patientData__container__2dYQk&quot;]/div[@class=&quot;styles_patientData__phone__3BE1D&quot;]/div[1]</value>
+      <webElementGuid>822805f0-1c53-4794-9fc4-1d8ab2a294ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/form/div/div/div/div[6]/div</value>
+      <webElementGuid>0ae43404-6319-4af1-8ea9-9eef0a8f8d0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Пол'])[1]/following::div[6]</value>
+      <webElementGuid>24f8630d-2de9-4ac4-8414-ceb47970590a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Дата рождения'])[1]/following::div[13]</value>
+      <webElementGuid>406a3b84-108e-4a59-b5e4-b6d82b956fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div[6]/div</value>
+      <webElementGuid>1a9fe774-48ba-4f2b-9e37-dcc6631691af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Телефон*PhoneПоле обязательно для заполнения' or . = 'Телефон*PhoneПоле обязательно для заполнения')]</value>
+      <webElementGuid>93d5a7d4-1bee-4c90-a910-bbf7113c81a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

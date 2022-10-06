@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h_add_patient</name>
+   <tag></tag>
+   <elementGuidId>d1acab6f-0ab2-495f-9f4e-43b8998830b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[(text() = 'Регистрация нового пациента' or . = 'Регистрация нового пациента')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.styles_title__W84or</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>da939d1a-fb0d-44b2-9062-92c2746e2df3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_title__W84or</value>
+      <webElementGuid>a95989c6-19cb-421d-a94a-c65499685d10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Регистрация нового пациента</value>
+      <webElementGuid>7bff28b9-c59a-4298-ab37-e9dcdfff7bcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[1]/div[@class=&quot;styles_wrapper__10O36&quot;]/h1[@class=&quot;styles_title__W84or&quot;]</value>
+      <webElementGuid>f3947611-31de-4804-be2a-6d7b78a085e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div/div/h1</value>
+      <webElementGuid>38581825-3ec5-4a63-a505-fca71a6ae07e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Юридические лица'])[1]/following::h1[1]</value>
+      <webElementGuid>bd16b29e-01f7-4fb3-8bd2-375d71bbf9af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ОСНОВНАЯ ИНФОРМАЦИЯ'])[1]/preceding::h1[1]</value>
+      <webElementGuid>281a41fe-cc7e-4178-a49f-a83febc588eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Фамилия'])[1]/preceding::h1[1]</value>
+      <webElementGuid>8a095800-9305-4e31-90f3-556cfc6cb8a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Регистрация нового пациента']/parent::*</value>
+      <webElementGuid>7286011b-71bb-4d96-baea-ca18b63d075f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>6d5d8fd5-5381-403a-87bd-a0d9db8f8fb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Регистрация нового пациента' or . = 'Регистрация нового пациента')]</value>
+      <webElementGuid>522257a6-c2ae-414b-a859-fd4413713bb5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>open_card_Avtotest Q. R</name>
+   <tag></tag>
+   <elementGuidId>dec669f1-4f3e-4ea3-ad4d-cea81808cac4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.styles_consultation__patientName__36dQU</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div[2]/main/section/div/div[2]/div[2]/div[1]/div[2]/div/div[2]/div[1]/div/div/p[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Avtotest Q. R.' or . = 'Avtotest Q. R.')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>68fa3a82-d204-42d7-9e0a-9f78d60c6536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_consultation__patientName__36dQU</value>
+      <webElementGuid>33ff98b1-8029-407e-a12b-f85d5863f16d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Avtotest Q. R.</value>
+      <webElementGuid>5a5d5c68-ef4b-4442-9dcf-dc481bb69176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;container&quot;]/div[2]/div[@class=&quot;styles_appointmentList__tSlng&quot;]/div[@class=&quot;styles_appointmentList__table__1H_PX&quot;]/div[@class=&quot;styles_day__doctors__1b3VR&quot;]/div[@class=&quot;styles_doctor__3Qv0N&quot;]/div[@class=&quot;styles_doctor__times__1lxbJ&quot;]/div[@class=&quot;styles_dayCell__a_pPN&quot;]/div[@class=&quot;styles_container__38FUZ&quot;]/div[@class=&quot;styles_consultation__2XsId&quot;]/p[@class=&quot;styles_consultation__patientName__36dQU&quot;]</value>
+      <webElementGuid>7b810778-26b2-4f20-8226-80b18e1da1c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/p</value>
+      <webElementGuid>8a15f6bd-448b-4ecc-aed5-628281bedb05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Машина М. Б.'])[1]/following::p[2]</value>
+      <webElementGuid>7ac9a5bf-2dee-4c5a-8d09-19def44fe094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Расписание'])[2]/following::p[2]</value>
+      <webElementGuid>ebc5c6ef-b2fd-4b47-9980-716149112fc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[1]/preceding::p[6]</value>
+      <webElementGuid>18090e65-772a-440a-9653-6a5b411a1ee7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[2]/preceding::p[6]</value>
+      <webElementGuid>aecb28b4-d3c1-4f7d-a1e8-223dff24976b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Avtotest Q. R.']/parent::*</value>
+      <webElementGuid>b13a28df-c082-4748-b44a-6f1eb7ad1998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/p</value>
+      <webElementGuid>46d62208-1d64-4f1b-8804-a5f0e53483e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Avtotest Q. R.' or . = 'Avtotest Q. R.')]</value>
+      <webElementGuid>1e75d069-bcbf-412b-883d-0547c76337db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

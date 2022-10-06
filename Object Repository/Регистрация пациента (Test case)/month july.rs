@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>month july</name>
+   <tag></tag>
+   <elementGuidId>675f8700-4d3b-4156-8c2a-da610e7b3978</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//abbr[(text() = 'июль' or . = 'июль')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>abbr</value>
+      <webElementGuid>14f499d9-4478-4f2b-a82b-98ce6aba32ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>июль 2012 г.</value>
+      <webElementGuid>0eac74e5-742a-4694-908b-70ba3f5381ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>июль</value>
+      <webElementGuid>2bd4b4ec-6961-47fe-91ff-fb8b1967a856</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[1]/form[@class=&quot;styles_container__2eYAL&quot;]/div[@class=&quot;styles_container__fields__1O2q5&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;fields&quot;]/div[@class=&quot;styles_container-fields__1PGTD&quot;]/div[@class=&quot;styles_container__4Xrq- styles_container-field-datepicker__iPX9c&quot;]/div[@class=&quot;react-date-picker react-date-picker--open react-date-picker--enabled custom_input_3j23dLnd2u9 custom_input_3j2wKdn3   day_width_3fn123d213dg month_width_3fn12s13dg styles_field-datepicker__1cDbZ&quot;]/span[1]/div[@class=&quot;react-date-picker__calendar react-date-picker__calendar--open&quot;]/div[@class=&quot;react-calendar styles_custom_calendar__3Kusz&quot;]/div[@class=&quot;react-calendar__viewContainer&quot;]/div[@class=&quot;react-calendar__year-view&quot;]/div[@class=&quot;react-calendar__year-view__months&quot;]/button[@class=&quot;react-calendar__tile react-calendar__year-view__months__month&quot;]/abbr[1]</value>
+      <webElementGuid>c4aa750a-61ca-4cdc-98c1-067710c6617b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div/form/div/div[2]/div[2]/div/div/div/span/div/div/div[2]/div/div/button[7]/abbr</value>
+      <webElementGuid>8036ba33-6d30-40a9-b43f-c614e7a29cba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='июнь'])[1]/following::abbr[1]</value>
+      <webElementGuid>041ea69a-f34b-46cf-b9f1-3e2b1a4305de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='май'])[1]/following::abbr[2]</value>
+      <webElementGuid>081b8dd1-1951-4e70-9376-00b29f0d2b39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='август'])[1]/preceding::abbr[1]</value>
+      <webElementGuid>f970be2b-2f99-4e48-aa9f-d507e147b898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='сентябрь'])[1]/preceding::abbr[2]</value>
+      <webElementGuid>f2d0a091-eaa2-4b2c-86c4-0621b31547b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='июль']/parent::*</value>
+      <webElementGuid>b3aa9a7f-0d53-4f05-8a09-ad6eaec7478d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button[7]/abbr</value>
+      <webElementGuid>23f95261-ae28-4d91-a7e3-823dd750f5f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//abbr[(text() = 'июль' or . = 'июль')]</value>
+      <webElementGuid>d3a9f9aa-2514-41f3-8579-019d2b0e6575</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

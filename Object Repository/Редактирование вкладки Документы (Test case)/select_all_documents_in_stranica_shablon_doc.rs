@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_all_documents_in_stranica_shablon_doc</name>
+   <tag></tag>
+   <elementGuidId>b2edc245-28ef-4767-a652-549cb23f496c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='drawer']/div/div/div/div[2]/div/div[2]/div[2]/div[2]/div/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.ant-checkbox-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>0eb96158-00a6-45eb-802e-f9472a19d14b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-checkbox-wrapper</value>
+      <webElementGuid>f7ecda1f-c73a-499f-b924-9b6e0bbdda79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__3ivyS&quot;]/div[@class=&quot;styles_container__1zr_3&quot;]/div[@class=&quot;styles_container__11_St&quot;]/div[@class=&quot;styles_section__1X2a_&quot;]/div[@class=&quot;styles_container__2uL-E&quot;]/div[@class=&quot;styles_container__2uL-E&quot;]/div[@class=&quot;styles_container__ZSx5X&quot;]/div[@class=&quot;styles_action__container__2ALQF&quot;]/label[@class=&quot;ant-checkbox-wrapper&quot;]</value>
+      <webElementGuid>6d11ee31-417e-4b5d-9cc9-caf597302321</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/div[2]/div/div[2]/div[2]/div[2]/div/div/div/label</value>
+      <webElementGuid>937cf3d4-e6e2-414d-9856-98f5889a2cd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Добавить шаблон'])[1]/following::label[1]</value>
+      <webElementGuid>52c7052d-96c3-463a-93e9-dfa5fa5b607c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Документы пациента'])[1]/following::label[1]</value>
+      <webElementGuid>fb0e4248-1327-4735-b94d-9df95e624ccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Начать прием'])[1]/preceding::label[3]</value>
+      <webElementGuid>2b92fbcd-32c4-4f6a-9910-9c04a560d4e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Не подтвержден'])[1]/preceding::label[3]</value>
+      <webElementGuid>875120b3-944d-4363-b6a0-b9c8d55b6b05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>5bd92575-8ee7-44e4-949c-6d266e83a72b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

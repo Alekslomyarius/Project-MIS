@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verif_vrach</name>
+   <tag></tag>
+   <elementGuidId>c5f26fbe-e6ab-4ecf-a4e5-33953a3ad532</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.doctor__name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div/div/div/div[2]/div/div[2]/div/div[1]/div[2]/div[2]/p[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '${GlobalVariable.Test_vrach_full}' or . = '${GlobalVariable.Test_vrach_full}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2355d102-5a43-4167-a31f-390f2739f4d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>doctor__name</value>
+      <webElementGuid>95691816-8377-471f-9849-729ecad973eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${GlobalVariable.Test_vrach_full}</value>
+      <webElementGuid>3449a063-bff5-4257-999c-5412eee775f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__3ivyS&quot;]/div[@class=&quot;styles_container__1zr_3&quot;]/div[@class=&quot;styles_container__2UbMH&quot;]/div[@class=&quot;styles_container__18AaY&quot;]/div[@class=&quot;styles_content__container__1FikG&quot;]/div[@class=&quot;styles_content__1YTzU&quot;]/div[@class=&quot;styles_info__1xIDw&quot;]/p[@class=&quot;doctor__name&quot;]</value>
+      <webElementGuid>3f40ec3f-99c2-4a80-bc07-4106806d68cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/div[2]/div/div[2]/div/div/div[2]/div[2]/p</value>
+      <webElementGuid>54319336-5ede-412b-b5f1-9c4a713a48bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Врач'])[1]/following::p[1]</value>
+      <webElementGuid>da63eb3d-dbf7-45a1-9406-cd32072b54fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Дата и время'])[1]/following::p[1]</value>
+      <webElementGuid>08b36c85-7ade-4e9a-862a-e94d7d41de7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Пациент'])[1]/preceding::p[2]</value>
+      <webElementGuid>a56390cd-3316-4196-b0dd-15d310916737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA Avtotest Regressovich'])[1]/preceding::p[2]</value>
+      <webElementGuid>ae13f96c-ef59-432e-b234-84dcc9d53d67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Боевая Машина Магович']/parent::*</value>
+      <webElementGuid>8f25082e-330e-4198-9191-3e084b439a17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>8269d771-86f7-4e12-b9c4-9374e328c9b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Боевая Машина Магович' or . = 'Боевая Машина Магович')]</value>
+      <webElementGuid>6bb943c8-6c7a-4115-8bb4-f86b47917651</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Kod_ysluga_modal_add</name>
+   <tag></tag>
+   <elementGuidId>466676ed-1942-4099-a2b9-2d5bb1a8ff49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='drawer']/div/div/div/form/div/div/div[2]/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.styles_inputWrapper__3YFF2.styles_code__input__1isIn > span.styles_label__1CZ6I</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7c33f2fe-5fd8-44a5-a2b9-6949d17ddd4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_label__1CZ6I</value>
+      <webElementGuid>7041938f-9ed9-4771-a22c-6c6d81185df8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Код</value>
+      <webElementGuid>c50212c7-5fcd-4561-a0f7-4087d5a2a675</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/form[@class=&quot;styles_container__895wo&quot;]/div[@class=&quot;styles_container__G1opB&quot;]/div[@class=&quot;styles_fields__container__2pnwJ&quot;]/div[2]/label[@class=&quot;styles_inputWrapper__3YFF2 styles_code__input__1isIn&quot;]/span[@class=&quot;styles_label__1CZ6I&quot;]</value>
+      <webElementGuid>9514cf9c-1e4b-4b5c-8a04-f18cc7cddb3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/form/div/div/div[2]/label/span</value>
+      <webElementGuid>fb387399-0e96-4397-a88a-ff3a61346714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Наименование услуги'])[2]/following::span[1]</value>
+      <webElementGuid>d47e4441-a271-434b-9ba3-76aae59f846c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Описание'])[1]/following::span[2]</value>
+      <webElementGuid>45d05896-27f6-4fac-9fa5-bbb06226bfd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Сохранить'])[1]/preceding::span[1]</value>
+      <webElementGuid>54fc06d9-9684-4edb-8908-519f63845d73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Отмена'])[1]/preceding::span[2]</value>
+      <webElementGuid>0bea231e-5c7f-406d-a523-624cc0432f06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/span</value>
+      <webElementGuid>291c6b63-93cf-48b0-aa18-b912001a57be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Код' or . = 'Код')]</value>
+      <webElementGuid>8ddb9313-df28-49c1-8967-4bd3795c19ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

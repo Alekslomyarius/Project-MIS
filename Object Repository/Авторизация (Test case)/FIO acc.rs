@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FIO acc</name>
+   <tag></tag>
+   <elementGuidId>a9ecca7c-eb2d-456b-9415-6a9435387850</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.styles_profile__username__QTKa4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header']/div/div[3]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>aed31e78-2d4e-4985-9fda-e4ce417234a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_profile__username__QTKa4</value>
+      <webElementGuid>6a407dd8-265b-4096-acf9-44090dc68e36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Тестовая клиника Совы  </value>
+      <webElementGuid>b7cc4031-277b-43ab-b23a-6ce4767c643c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;styles_header__container__YCgbf styles_header__container_admin__211f3&quot;]/div[@class=&quot;styles_header__gridElement__3-fjS styles_header__profile__Yq-8e&quot;]/div[@class=&quot;styles_profile__container__Lau6F styles_profile__popover__37-3V&quot;]/div[@class=&quot;styles_profile__username_wrapper__HSI87&quot;]/span[@class=&quot;styles_profile__username__QTKa4&quot;]</value>
+      <webElementGuid>82c10dcc-77c5-4527-91c7-17fccf9c75c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/div/div[3]/div/div/span</value>
+      <webElementGuid>e2788ed8-a5fb-496e-b984-0a4a3c0ad737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Расписание'])[1]/preceding::span[1]</value>
+      <webElementGuid>d09f80af-2453-463e-bf39-52a7812a4838</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Пациенты'])[1]/preceding::span[2]</value>
+      <webElementGuid>d74c2d8b-9335-4de0-a580-253cfe6eb9ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Тестовая клиника Совы']/parent::*</value>
+      <webElementGuid>d0312a6f-d584-4d13-a406-489b21e9bd9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/span</value>
+      <webElementGuid>33af14b7-b761-4ef1-8af6-2d3b7073c83d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Тестовая клиника Совы  ' or . = 'Тестовая клиника Совы  ')]</value>
+      <webElementGuid>7c381651-b524-41ba-a49d-d856cc9c2871</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

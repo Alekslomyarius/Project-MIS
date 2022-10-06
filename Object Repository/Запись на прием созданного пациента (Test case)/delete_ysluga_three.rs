@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>delete_ysluga_three</name>
+   <tag></tag>
+   <elementGuidId>5e0836e2-59e9-41c4-a2b8-d58ecb8514e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>#drawer > div > div > div > form > div.styles_content__container__20ZQn > div.styles_wrapper__37S9J > div.styles_container__A8wTi > div:nth-child(4) > svg</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#drawer > div > div > div > form > div.styles_content__container__20ZQn > div.styles_wrapper__37S9J > div.styles_container__A8wTi > div:nth-child(4) > svg</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>5e3eefdf-9200-4e99-b833-bfabb69b0e9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>c90560f0-f7c6-4edf-95d6-ed945565f88d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>0866c9fe-e152-465c-a005-b49a58220f80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 30 30</value>
+      <webElementGuid>b318a929-1281-41db-894b-4d9c6b184966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>79f8c0a4-aa6e-4252-9253-37b5a84d29b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>dc563809-f0de-4059-8e91-26a3747d1ca3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_ico__17O8r styles_svg__1iCCA</value>
+      <webElementGuid>e194be83-5ca9-42e8-a302-c659301f009d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/form[@class=&quot;styles_container__2kCJE&quot;]/div[@class=&quot;styles_content__container__20ZQn&quot;]/div[5]/div[@class=&quot;styles_wrapper__37S9J&quot;]/div[@class=&quot;styles_container__A8wTi&quot;]/div[@class=&quot;styles_container__2rd2F&quot;]/svg[@class=&quot;styles_ico__17O8r styles_svg__1iCCA&quot;]</value>
+      <webElementGuid>2a5981f4-587d-43a5-8281-c57b0cf8e440</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавить услугу'])[1]/following::*[name()='svg'][4]</value>
+      <webElementGuid>efc1119b-cfea-4dd0-9032-0fc41cf09d3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Услуги'])[1]/following::*[name()='svg'][4]</value>
+      <webElementGuid>99be70c6-9fd7-491d-9c0b-94ec19870a0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Не подтвержден'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ee16c97a-0527-46e7-ab59-0b9a9f5d6639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Назначить'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>c9c813fa-04ee-4422-8ecd-f7d223ac42d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

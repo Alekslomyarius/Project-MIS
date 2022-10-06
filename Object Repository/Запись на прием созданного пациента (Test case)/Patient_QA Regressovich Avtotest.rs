@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Patient_QA Regressovich Avtotest</name>
+   <tag></tag>
+   <elementGuidId>9a1b648d-c0f3-4013-a8f9-a3c85cf666e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-6-option-1</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'QA Regressovich Avtotest, 11.05.1995, +7 (796) 564-46-56' or . = 'QA Regressovich Avtotest, 11.05.1995, +7 (796) 564-46-56')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-6-option-1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cd1637ba-e31a-442c-b0a6-273d7044a3e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1yxc0mn-option</value>
+      <webElementGuid>bf8701c3-38b6-497d-85f1-e64ebc65ffcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-6-option-1</value>
+      <webElementGuid>e93384b7-648c-4359-822c-05f4e6f672e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>2044ac69-e79e-42ec-bc8b-17e8bb1ada27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>QA Regressovich Avtotest, 11.05.1995, +7 (796) 564-46-56</value>
+      <webElementGuid>8685590e-6fbe-4288-a816-888a53980c98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-6-option-1&quot;)</value>
+      <webElementGuid>7ff1c48e-7be9-4c3d-942a-d7618e9383b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-6-option-1']</value>
+      <webElementGuid>1e692cd2-696d-44e7-932c-9be8167d7267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/form/div/div/div/div/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>aa280fb4-0303-4302-92ea-6f0987002db8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавить пациента'])[1]/following::div[1]</value>
+      <webElementGuid>00dec57c-c404-48eb-abb6-374470550719</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='avto'])[1]/following::div[7]</value>
+      <webElementGuid>8463b972-3065-4286-8119-c8cbdf066a1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Имя'])[1]/preceding::div[1]</value>
+      <webElementGuid>f107b4ce-bbba-4a50-92b3-59fa10c953fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Отчество'])[1]/preceding::div[2]</value>
+      <webElementGuid>d4f38395-9433-4b25-bc84-d8921e5da570</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='QA Regressovich Avtotest, 11.05.1995, +7 (796) 564-46-56']/parent::*</value>
+      <webElementGuid>d0dd9a92-1eb2-4ed8-83c1-69ce2f287a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>def3ba37-4bcc-44f0-b448-f3d2a0dd06d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-6-option-1' and (text() = 'QA Regressovich Avtotest, 11.05.1995, +7 (796) 564-46-56' or . = 'QA Regressovich Avtotest, 11.05.1995, +7 (796) 564-46-56')]</value>
+      <webElementGuid>5956fc77-137f-4beb-bae6-06bd3677926c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

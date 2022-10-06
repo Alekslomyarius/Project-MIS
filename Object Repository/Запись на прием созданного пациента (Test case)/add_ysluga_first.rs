@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>add_ysluga_first</name>
+   <tag></tag>
+   <elementGuidId>ce45e119-ef55-44bc-9b12-b7e249ac811d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id = 'react-select-10-option-0' and (text() = 'Тестовая услуга QA' or . = 'Тестовая услуга QA')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-10-option-0</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Тестовая услуга QA' or . = 'Тестовая услуга QA')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fe2c1249-f958-4cd2-8af5-6cff68725dd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1yxc0mn-option</value>
+      <webElementGuid>8f05844d-1461-4127-a86e-45b82dc3fe08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-10-option-0</value>
+      <webElementGuid>3e568862-7044-462c-b7ef-c82c5bfd7535</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>397cfdf6-da1d-4320-94fe-db90d2237612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Тестовая услуга QA</value>
+      <webElementGuid>91e0381f-b91d-4874-99b0-7bf9d4a8d5a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-10-option-0&quot;)</value>
+      <webElementGuid>bc704fd3-2075-4259-a793-e98acc97992f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-10-option-0']</value>
+      <webElementGuid>7985ff38-791e-4781-b35d-bed046974c6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/form/div/div[5]/div/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>d0e7faeb-0d40-4393-b96b-a8564175317b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавить услугу'])[1]/following::div[8]</value>
+      <webElementGuid>dffb5fdc-0c45-4b9a-8bc0-d12073538eeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Услуги'])[1]/following::div[16]</value>
+      <webElementGuid>13059c6d-e8fb-4233-84c6-04d206cc147f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Первчиный приём'])[1]/preceding::div[1]</value>
+      <webElementGuid>398aa560-1ac7-4a62-b206-717b2f6dc1aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Повторный приём'])[1]/preceding::div[2]</value>
+      <webElementGuid>573cc794-2354-4909-afa1-78d2fd7a658b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Тестовая услуга']/parent::*</value>
+      <webElementGuid>89b7f08d-b4cd-43a9-b125-6070eafc97db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>7401d7b8-6539-4ac7-87ad-4e21de528dd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-10-option-0' and (text() = 'Тестовая услуга' or . = 'Тестовая услуга')]</value>
+      <webElementGuid>7fdf4ecf-0d53-46c2-ac68-71c09d485bd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

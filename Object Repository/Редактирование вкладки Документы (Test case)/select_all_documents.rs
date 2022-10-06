@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_all_documents</name>
+   <tag></tag>
+   <elementGuidId>c56a0d3b-c7f2-406f-8202-5d06519589e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = 'Выбрать все документы' or . = 'Выбрать все документы')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.styles_actions__title__3cHe1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9186a1f2-7aad-41c0-9885-b34ebf8d9dd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_actions__title__3cHe1</value>
+      <webElementGuid>5d538a0c-0506-49a0-ab67-313c54348ff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Выбрать все документы</value>
+      <webElementGuid>7f24b8a2-04bf-46a6-aa44-3edde4a93071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__1obJP&quot;]/div[@class=&quot;styles_container__1i6mu&quot;]/div[@class=&quot;styles_content__container__3Lyiu&quot;]/div[@class=&quot;styles_actions__2dLoR&quot;]/div[@class=&quot;styles_checkbox__container__1smlg&quot;]/label[@class=&quot;ant-checkbox-wrapper&quot;]/span[2]/p[@class=&quot;styles_actions__title__3cHe1&quot;]</value>
+      <webElementGuid>82f32674-9f17-4c40-b670-90e3436d0546</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div[2]/div/div/div[2]/div/div/div/div/label/span[2]/p</value>
+      <webElementGuid>8ac4b245-2ebd-4bb3-8f2a-cf2624ba9b89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Не подтвержден'])[1]/following::p[2]</value>
+      <webElementGuid>03564e7c-6561-47b4-86da-377c8da5c671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Начать прием'])[1]/following::p[2]</value>
+      <webElementGuid>da8ffdfa-f46c-49d1-9afa-521925c4ef71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавить'])[1]/preceding::p[3]</value>
+      <webElementGuid>f179dfdc-d552-4df7-b59a-935a075bf2e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Отмена'])[1]/preceding::p[3]</value>
+      <webElementGuid>e58eafe9-cd82-4a45-888e-37276f37ba0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Выбрать все документы']/parent::*</value>
+      <webElementGuid>530914cb-c780-4535-aedc-fe4cb2762eed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/label/span[2]/p</value>
+      <webElementGuid>c07bbb0a-2b8c-45eb-9c45-e137290d5c91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Выбрать все документы' or . = 'Выбрать все документы')]</value>
+      <webElementGuid>afa0f06d-9755-447b-af3a-30900f831307</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

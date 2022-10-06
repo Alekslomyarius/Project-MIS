@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verif_dlitelnost_yslugi_filiala</name>
+   <tag></tag>
+   <elementGuidId>288e94d5-b6cb-45db-9f66-4d612370e038</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = '20 мин.' or . = '20 мин.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.duration.duration</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1374fabe-ddf6-4f09-b9cd-a9912e167805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>duration duration</value>
+      <webElementGuid>f16767a1-e42d-43e2-949f-cf1143a90508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>20 мин.</value>
+      <webElementGuid>c2a7aae4-ded4-4ef0-ad7b-2da1925ff1d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;styles_container__1bWbk&quot;]/div[@class=&quot;styles_container__2d1pT&quot;]/div[@class=&quot;content__container&quot;]/div[1]/div[@class=&quot;container&quot;]/div[2]/div[1]/div[@class=&quot;styles_table__template__3hHJj styles_table__template__wj52o styles_service__item__2yVeB&quot;]/p[@class=&quot;duration duration&quot;]</value>
+      <webElementGuid>3104a73e-7863-4fe6-a81a-d8509568f8d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div/div[3]/div[2]/div/div[2]/div[2]/div/div/p[3]</value>
+      <webElementGuid>1108a628-4951-42d3-a987-d065f93d0d75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Автотест'])[1]/following::p[8]</value>
+      <webElementGuid>5a5075ed-43d4-46a8-b329-4dac620ed6c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Добавить услугу'])[1]/following::p[8]</value>
+      <webElementGuid>feec4c49-650d-45e5-abe8-d22d0a141f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Описание'])[1]/preceding::p[4]</value>
+      <webElementGuid>c5196ee4-9012-4d5c-b85f-6d502467eacb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Наименование услуги'])[2]/preceding::p[4]</value>
+      <webElementGuid>d73b3ee0-75df-4d86-b22c-f77b51742834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='20']/parent::*</value>
+      <webElementGuid>dcf4c178-ccad-4bb5-8326-d9fd570611e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p[3]</value>
+      <webElementGuid>5c6ea980-ecf0-4657-b050-fe7e16f5748d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '20 мин.' or . = '20 мин.')]</value>
+      <webElementGuid>cbabd691-6612-4fd7-89f9-53ac6d60b722</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

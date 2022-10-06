@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Добавление услуги на вкладке Каталог услуг на странице Услуги</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58626c65-d199-47f1-b502-0d11b2644efd</testCaseGuid>
+</TestCaseEntity>

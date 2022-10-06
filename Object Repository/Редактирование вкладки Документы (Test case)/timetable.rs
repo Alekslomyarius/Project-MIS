@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>timetable</name>
+   <tag></tag>
+   <elementGuidId>d84a9e1d-1e92-4f36-b16b-12e4fe3b7e47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Расписание' or . = 'Расписание')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.styles_menuItem__title__n_jC5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2da0786d-39ef-407b-a9b6-5ca05eed11af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_menuItem__title__n_jC5</value>
+      <webElementGuid>8061bdbd-59fb-4127-8dae-f59952fc18b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Расписание</value>
+      <webElementGuid>fa0ff09f-4b23-4ca1-a768-aff2464d935b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/aside[@class=&quot;styles_menu__container__5UHpF&quot;]/ul[@class=&quot;styles_menu__list__2zmXt&quot;]/li[1]/div[1]/a[@class=&quot;styles_menuItem__2Jsx- styles_menuItem__active__1L0Em&quot;]/span[@class=&quot;styles_menuItem__title__n_jC5&quot;]</value>
+      <webElementGuid>f3f5b39f-d601-408d-9fbc-95d2a46ed083</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/aside/ul/li/div/a/span</value>
+      <webElementGuid>01f5c2b4-fb06-48d9-9548-134f1aff3cbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Тестовая клиника Совы'])[1]/following::span[1]</value>
+      <webElementGuid>2b3a1637-e32a-444c-b9d5-c6ef9daf10e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Пациенты'])[1]/preceding::span[1]</value>
+      <webElementGuid>1ba14126-f415-4ace-b140-d7055fbe9d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Врачи клиники'])[1]/preceding::span[2]</value>
+      <webElementGuid>475673fd-c67a-4158-b9c5-8bc444b607b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Расписание']/parent::*</value>
+      <webElementGuid>0a15e605-0d87-4c96-bdab-12400feb01af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>8a110656-81ab-4dee-b2d3-49113962d5b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Расписание' or . = 'Расписание')]</value>
+      <webElementGuid>4411d5ce-d845-4d9b-8882-f1b6a574dff4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

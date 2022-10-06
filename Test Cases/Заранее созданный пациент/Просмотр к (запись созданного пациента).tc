@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Просмотр к (запись созданного пациента)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92f26655-f42d-4586-a0eb-8edf593bb8ca</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sabloni_verif</name>
+   <tag></tag>
+   <elementGuidId>415b5475-ffcf-45a6-b9a8-6bd6339e3b3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='drawer']/div[2]/div/div/div[2]/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_container__3xT-H</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e8c19d57-0bab-4533-93b3-d3199e19a9d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_container__3xT-H</value>
+      <webElementGuid>1c764e80-8a56-4665-83fa-737586523ae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Шаблон договор пациента тестовый</value>
+      <webElementGuid>46c46956-1ff1-415b-ae40-ee91b8453ade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__1obJP&quot;]/div[@class=&quot;styles_container__1i6mu&quot;]/div[@class=&quot;styles_content__container__3Lyiu&quot;]/div[@class=&quot;styles_template_list__2uA1o&quot;]/div[@class=&quot;styles_container__3xT-H&quot;]</value>
+      <webElementGuid>dae3a3bb-f9a6-4cee-a9c9-9c5cfa482090</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div[2]/div/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>cfae1766-7834-4c81-8101-27f5352d9e12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Не подтвержден'])[1]/following::div[12]</value>
+      <webElementGuid>7c2a9cd1-4e08-4947-ae21-af0900718c32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Начать прием'])[1]/following::div[18]</value>
+      <webElementGuid>e6ff5ecc-b992-486e-833f-7e5f1769a08c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавить'])[1]/preceding::div[8]</value>
+      <webElementGuid>695ca675-8e21-4328-aa58-1db5324a0a6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Отмена'])[1]/preceding::div[8]</value>
+      <webElementGuid>22d3c33a-3357-4945-94f1-77ba50558958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>68b3df1a-d0e8-4946-a7cf-6bea4bfabe52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Шаблон договор пациента тестовый' or . = 'Шаблон договор пациента тестовый')]</value>
+      <webElementGuid>cd8efce8-1698-4f22-9905-e06e06913d2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

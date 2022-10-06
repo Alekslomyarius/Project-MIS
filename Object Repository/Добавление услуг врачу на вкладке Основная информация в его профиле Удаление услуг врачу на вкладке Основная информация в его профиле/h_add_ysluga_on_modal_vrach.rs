@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h_add_ysluga_on_modal_vrach</name>
+   <tag></tag>
+   <elementGuidId>a27e2a64-790f-4981-ba0d-c92c277ed7fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = 'Добавить услугу' or . = 'Добавить услугу')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.styles_content__header_title__8n163</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b2261841-de6f-4caa-8c43-87b86135d45e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_content__header_title__8n163</value>
+      <webElementGuid>8ac263ff-6295-48a1-a5bc-d5df13c3bcc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Добавить услугу</value>
+      <webElementGuid>fa8c7749-139e-4329-8561-14f3c5262947</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_content__header__1YvS0&quot;]/p[@class=&quot;styles_content__header_title__8n163&quot;]</value>
+      <webElementGuid>cc23e3d7-374c-41c1-ad48-33d2f6c68b18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/div/p</value>
+      <webElementGuid>4d2ad2c6-0688-4624-9f60-bc80c438df9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Добавить данные'])[2]/following::p[1]</value>
+      <webElementGuid>b867137b-a844-45c5-886c-c0897ba481e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Услуги'])[2]/following::p[2]</value>
+      <webElementGuid>1ab5a92b-b4e1-454e-aac4-0b4042c84951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Филиал'])[1]/preceding::p[1]</value>
+      <webElementGuid>70f91392-042e-4962-9cec-7720e8961c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Выбрать все услуги'])[1]/preceding::p[1]</value>
+      <webElementGuid>4fe97191-3e9b-47a1-bbd3-e75bafcd2149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Добавить услугу']/parent::*</value>
+      <webElementGuid>bfd8c5ce-40ac-42ab-a2f7-6c3ef50297ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/p</value>
+      <webElementGuid>d48acfad-05b2-4eb8-a18f-2136cd57015d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Добавить услугу' or . = 'Добавить услугу')]</value>
+      <webElementGuid>fa514a53-4558-4df2-ab32-ed654e5dcf6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

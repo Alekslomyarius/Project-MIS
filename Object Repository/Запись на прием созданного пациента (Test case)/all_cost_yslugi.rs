@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>all_cost_yslugi</name>
+   <tag></tag>
+   <elementGuidId>cb5661e1-84b4-4650-b9ab-81fe9589f5d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div/div/div/form/div[2]/div/p[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.total__value</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '3 100 ₽' or . = '3 100 ₽')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b7731b3c-f6a8-4893-adba-a5dc8b3063d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>total__value</value>
+      <webElementGuid>477f0399-a3ed-4613-b5d2-da7373e0eac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3 100 ₽</value>
+      <webElementGuid>edb315d1-c725-4da3-a4e1-a95dec30503f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/form[@class=&quot;styles_container__2kCJE&quot;]/div[@class=&quot;styles_content__container__20ZQn&quot;]/div[5]/div[@class=&quot;styles_wrapper__37S9J&quot;]/div[@class=&quot;styles_total__price__xRIZ2&quot;]/p[@class=&quot;total__value&quot;]</value>
+      <webElementGuid>d85e63ae-fe5b-41f1-a6f8-ef263df83f08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/form/div/div[5]/div/div[2]/p[2]</value>
+      <webElementGuid>967adf40-715a-444d-991f-67fe3f4e7add</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавить услугу'])[1]/following::p[6]</value>
+      <webElementGuid>96ae334c-8988-44ad-9d3a-cc50aa4035f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Услуги'])[1]/following::p[6]</value>
+      <webElementGuid>3c9a08ed-1986-4aea-97e8-9d74dfa947d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Не подтвержден'])[1]/preceding::p[1]</value>
+      <webElementGuid>0b352f9c-5dcb-4944-adc1-a5ca66c1d2a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Назначить'])[1]/preceding::p[1]</value>
+      <webElementGuid>e56cb2c2-92dc-4d47-b2bb-479ef1d0ee0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1 200 ₽']/parent::*</value>
+      <webElementGuid>00e3b9d8-a176-4069-b4ee-dc30d5b16aca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p[2]</value>
+      <webElementGuid>251c7a7c-c93b-4eb6-b85a-8c79d9179705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '1 000 ₽' or . = '1 000 ₽')]</value>
+      <webElementGuid>756ef2ab-c79a-4fd6-b3a6-14faa87a39bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

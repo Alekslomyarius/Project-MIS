@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>placeholder_no_yslog_on_modal_vrach</name>
+   <tag></tag>
+   <elementGuidId>c2e90924-2ec8-43e1-b1be-acd8bf6e3f41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Список услуг пуст' or . = 'Список услуг пуст')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_container__167JG</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b3e035a5-b6d0-4d19-8359-5f02e6582e8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_container__167JG</value>
+      <webElementGuid>0a718bd9-5d2f-40e7-8af9-1ba8de78a5d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Список услуг пуст</value>
+      <webElementGuid>e73d06bd-ca52-4054-a4ed-e345e6928d22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__1AGz1&quot;]/div[@class=&quot;styles_container__167JG&quot;]</value>
+      <webElementGuid>881f8d3a-3e6d-4242-b50e-264676ec7bfb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>f6b3bfaa-350e-4d35-bca0-33fd5e26fd64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Автотест'])[3]/following::div[6]</value>
+      <webElementGuid>e60c5669-af0b-4fcf-8f93-413bd7e6dea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Добавить данные'])[2]/following::div[28]</value>
+      <webElementGuid>46996f4a-5412-40c7-9a17-667f76350924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Тестовая услуга QA'])[2]/preceding::div[5]</value>
+      <webElementGuid>bb3fdaa4-de41-4522-9d0b-3bd8f675da00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Список услуг пуст']/parent::*</value>
+      <webElementGuid>bd33a44a-3313-4da2-996a-b8aeaad24b7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>af32a193-0fb7-4630-b78e-aa8b0836d2ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Список услуг пуст' or . = 'Список услуг пуст')]</value>
+      <webElementGuid>a079ac0b-eee2-40a9-8fa1-e37600c650f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

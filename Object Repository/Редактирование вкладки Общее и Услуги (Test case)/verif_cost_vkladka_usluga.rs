@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verif_cost_vkladka_usluga</name>
+   <tag></tag>
+   <elementGuidId>bcb67b40-25bb-4946-8c89-1e6da389a279</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.styles_price__EcoRu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = '1 600 ₽' or . = '1 600 ₽')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '1 600 ₽' or . = '1 600 ₽')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>54fb3897-332f-4363-882c-6bd4d2e31211</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_price__EcoRu</value>
+      <webElementGuid>b61775bc-8567-4da8-8716-fa6aefc7cea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 600 ₽</value>
+      <webElementGuid>49109d6f-e22a-43b1-9ef0-2c51926aa2ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__3ivyS&quot;]/div[@class=&quot;styles_container__1zr_3&quot;]/div[@class=&quot;styles_container__n00Dv&quot;]/div[@class=&quot;styles_wrapper__2QDXn&quot;]/div[@class=&quot;styles_container__3YE9m&quot;]/p[@class=&quot;styles_price__EcoRu&quot;]</value>
+      <webElementGuid>8c9373ea-6e04-4806-8fee-b787ed9a3f87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/div[2]/div/div[2]/div/div/p[3]</value>
+      <webElementGuid>c5146c21-8ee5-4bb2-98f5-ef98fccc82da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Документы'])[1]/following::p[3]</value>
+      <webElementGuid>d18c6ce6-1fca-4f26-8ef6-6b66df33a6f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Услуги'])[1]/following::p[3]</value>
+      <webElementGuid>188e0905-e8e2-4dbf-bd0b-a918aa6b5f35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Начать прием'])[1]/preceding::p[7]</value>
+      <webElementGuid>f0134231-80dc-4560-8bf4-f15e48365f00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Начат визит'])[1]/preceding::p[7]</value>
+      <webElementGuid>42d1edfa-75fc-4ae6-a338-0bfa18f79689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1 600 ₽']/parent::*</value>
+      <webElementGuid>f0734ebb-1c22-4a05-91f8-1f20859e65c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]</value>
+      <webElementGuid>95b0b6b1-8073-4bb6-bb67-1682ae3cdcac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '1 000 ₽' or . = '1 000 ₽')]</value>
+      <webElementGuid>679655ed-c19a-4649-91e5-090c709efc9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

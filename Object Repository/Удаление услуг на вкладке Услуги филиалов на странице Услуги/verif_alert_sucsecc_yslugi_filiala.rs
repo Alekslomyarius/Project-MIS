@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verif_alert_sucsecc_yslugi_filiala</name>
+   <tag></tag>
+   <elementGuidId>11ac1ad4-40e4-47a0-9e76-1f7dfcea86d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = 'Успешно' or . = 'Успешно')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e8291e62-4a1f-4b21-a0fa-87cf58057ced</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>524d0ae0-01c8-4c8c-97fa-fa14152f9d0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Успешно</value>
+      <webElementGuid>33c072ed-0db7-43a7-90df-fce0eff98eea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[5]/div[@class=&quot;ant-message&quot;]/div[1]/div[@class=&quot;ant-message-notice&quot;]/div[@class=&quot;ant-message-notice-content&quot;]/div[@class=&quot;ant-message-custom-content ant-message-success&quot;]/span[1]/div[@class=&quot;styles_container__3Xmpa&quot;]/p[@class=&quot;text&quot;]</value>
+      <webElementGuid>df7ad52c-9308-4dda-a012-c71a305c1739</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Список услуг пуст'])[1]/following::p[1]</value>
+      <webElementGuid>861846fb-fa8f-4161-97f1-e5884cbaa3e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Автотест'])[1]/following::p[6]</value>
+      <webElementGuid>c10e11e4-2859-4d26-abc7-4861c6db2980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Успешно']/parent::*</value>
+      <webElementGuid>1991b2c9-1bc3-45ff-b810-29e2302fb31d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/p</value>
+      <webElementGuid>42a19dfa-40a5-44aa-9d29-64ebea6c375d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Успешно' or . = 'Успешно')]</value>
+      <webElementGuid>cde84c6b-d4fe-4163-b1c2-31696de451f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tab_save</name>
+   <tag></tag>
+   <elementGuidId>ace86961-d2c9-448b-b5fb-6fa93e143ea4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Сохранить' or . = 'Сохранить')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_button__content_container__VXvS6 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e2bd42fd-6c1d-480a-af20-8a6686110b2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Сохранить</value>
+      <webElementGuid>e47581db-f454-49f0-b86b-259c4fbfe9d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/form[@class=&quot;container&quot;]/button[@class=&quot;ant-btn ant-btn-primary styles_button__3pqej styles_secondary__1duz8 styles_actions__buttons_button_addPatient__3o6qe&quot;]/div[@class=&quot;styles_button__content_container__VXvS6&quot;]/span[1]</value>
+      <webElementGuid>d5df33b2-0ed8-4fbd-aa2b-65ec6f0b04f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/form/button/div/span</value>
+      <webElementGuid>1bb60a37-9abf-463d-895b-aba96e661935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Комментарий о пациенте (в свободной форме)'])[1]/following::span[1]</value>
+      <webElementGuid>c96cfb1e-7b2f-490b-8ed8-d0391dbd402e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Тест регресс'])[1]/following::span[1]</value>
+      <webElementGuid>3c50effe-7ae8-4592-a94c-dbabfc3d4b12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Сохранить']/parent::*</value>
+      <webElementGuid>22429866-2bf6-42b0-a6ab-e05e9471eaa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/span</value>
+      <webElementGuid>4c2cd40d-4b03-4191-8178-ec105e928f6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Сохранить' or . = 'Сохранить')]</value>
+      <webElementGuid>4f008063-a6c4-4f28-9873-42be9f0a15ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

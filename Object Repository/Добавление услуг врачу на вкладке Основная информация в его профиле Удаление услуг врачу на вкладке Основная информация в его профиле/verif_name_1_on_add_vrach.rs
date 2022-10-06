@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verif_name_1_on_add_vrach</name>
+   <tag></tag>
+   <elementGuidId>6d6f7232-1686-4532-9c5a-5fd3343841d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = 'Тестовая услуга QA' or . = 'Тестовая услуга QA')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.styles_name__21UOF</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e6de42c9-6361-4e18-90ce-3e142b893788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_name__21UOF</value>
+      <webElementGuid>49b397db-79e5-456d-9bf9-6a5cc00a6c6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Тестовая услуга QA</value>
+      <webElementGuid>6fbaddb2-c1cf-4f29-a2f0-22b050e47471</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;styles_container__2tAtq&quot;]/div[@class=&quot;styles_container__Rs66p&quot;]/div[@class=&quot;styles_doctorServices__container__qWytP&quot;]/div[@class=&quot;styles_section__container__25VSp&quot;]/div[@class=&quot;styles_container__bVkl3&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;styles_table__template__H22RW styles_table__template__2iWsf styles_service__item__2eOGz&quot;]/p[@class=&quot;styles_name__21UOF&quot;]</value>
+      <webElementGuid>589f6335-dda4-40f5-86cb-a4f0d28fc3b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div/div[3]/div[3]/div/div/div[2]/div[2]/p[2]</value>
+      <webElementGuid>ee7c1d14-faf9-42bb-8326-d87950f7d361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Добавить данные'])[2]/following::p[8]</value>
+      <webElementGuid>42f4bccc-c993-4b55-ae6f-1d9f841881c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Услуги'])[2]/following::p[8]</value>
+      <webElementGuid>92283728-dc57-4803-9acd-e0fc5138fd26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Тестовая услуга QA']/parent::*</value>
+      <webElementGuid>3777e9e9-5a7b-4f1c-9497-6d9e7e975c08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p[2]</value>
+      <webElementGuid>a25734bc-ef20-437b-9e92-5c2d24cf70c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Тестовая услуга QA' or . = 'Тестовая услуга QA')]</value>
+      <webElementGuid>c5a052ad-fd6a-4741-9e7b-e5fc01336956</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

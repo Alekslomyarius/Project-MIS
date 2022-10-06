@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pole__dlitelnost_yslugi_filiala</name>
+   <tag></tag>
+   <elementGuidId>3bd57dbf-a1aa-42fc-a8a1-480e914d72f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Длительность' or . = 'Длительность')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_duration__container__13ABx > div > label.styles_inputWrapper__3YFF2 > span.styles_label__1CZ6I</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3d03680a-5e1a-4930-a598-44e33e5ad664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_label__1CZ6I</value>
+      <webElementGuid>6f752e9c-b3e0-45c8-9e40-387105047ff4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Длительность</value>
+      <webElementGuid>4fb055f9-182d-4ffc-ac18-4cb77d458425</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[6]/div[@class=&quot;ant-drawer ant-drawer-right drawer-container styles_drawer__2uu-d ant-drawer-open&quot;]/div[@class=&quot;ant-drawer-content-wrapper&quot;]/div[@class=&quot;ant-drawer-content&quot;]/div[@class=&quot;ant-drawer-wrapper-body&quot;]/div[@class=&quot;ant-drawer-body&quot;]/form[@class=&quot;styles_container__3kajN&quot;]/div[@class=&quot;styles_container__PlZVh&quot;]/div[@class=&quot;settings__container&quot;]/div[@class=&quot;styles_settings_content__container__QeIpR&quot;]/div[@class=&quot;styles_duration__container__13ABx&quot;]/div[1]/label[@class=&quot;styles_inputWrapper__3YFF2&quot;]/span[@class=&quot;styles_label__1CZ6I&quot;]</value>
+      <webElementGuid>3993e749-fc0a-477e-aeac-2a7192dd7de4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Параметры'])[1]/following::span[1]</value>
+      <webElementGuid>52fa4476-3c7b-46aa-8aa7-20d0cdb37964</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Цена'])[2]/preceding::span[1]</value>
+      <webElementGuid>d257f639-b4e5-4d77-9e0e-4bf698b93203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/label/span</value>
+      <webElementGuid>99e35c62-8485-4494-92bc-8b27fa77e4bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Длительность' or . = 'Длительность')]</value>
+      <webElementGuid>3d5e1f53-59fa-4346-ba9e-7b10f1be2eb1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

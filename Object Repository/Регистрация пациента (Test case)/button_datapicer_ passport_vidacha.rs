@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_datapicer_ passport_vidacha</name>
+   <tag></tag>
+   <elementGuidId>3dad2cc0-ff30-4e2d-84e6-57af9f8ca29e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div[2]/main/section/div/form/div/div[2]/div[2]/div/div/div/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-date-picker.react-date-picker--closed.react-date-picker--enabled.custom_input_3j23dLnd2u9.custom_input_3j2wKdn3.day_width_3fn123d213dg.month_width_3fn12s13dg.styles_field-datepicker__1cDbZ > div.react-date-picker__wrapper > button.react-date-picker__calendar-button.react-date-picker__button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4eb59b79-3715-40b8-80f6-0f423fce2c74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-date-picker__calendar-button react-date-picker__button</value>
+      <webElementGuid>681966df-b561-4298-9b66-6da808ed60e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c7b3ab4c-aa1f-426f-8e64-6c529919e914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[1]/form[@class=&quot;styles_container__2eYAL&quot;]/div[@class=&quot;styles_container__fields__1O2q5&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;fields&quot;]/div[@class=&quot;styles_container-fields__1PGTD&quot;]/div[@class=&quot;styles_container__4Xrq- styles_container-field-datepicker__iPX9c&quot;]/div[@class=&quot;react-date-picker react-date-picker--closed react-date-picker--enabled custom_input_3j23dLnd2u9 custom_input_3j2wKdn3   day_width_3fn123d213dg month_width_3fn12s13dg styles_field-datepicker__1cDbZ&quot;]/div[@class=&quot;react-date-picker__wrapper&quot;]/button[@class=&quot;react-date-picker__calendar-button react-date-picker__button&quot;]</value>
+      <webElementGuid>be84b2cf-f9a8-4a0c-8865-d2bf76bfc3f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>d41fe76e-2cc5-4a7d-8b35-a1ee00998405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div/form/div/div[2]/div[2]/div/div/div/div/button[2]</value>
+      <webElementGuid>c1bdbded-5944-4759-9f6a-eee3e8473243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[4]/following::button[2]</value>
+      <webElementGuid>41523683-a3db-4c21-b31d-07f334a493cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[3]/following::button[2]</value>
+      <webElementGuid>6f65734a-900c-4d75-afc5-9390ce553ced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='«'])[1]/preceding::button[1]</value>
+      <webElementGuid>12f30d0a-3a01-48f0-b7dc-a79e496ba67a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‹'])[1]/preceding::button[2]</value>
+      <webElementGuid>48961eb5-c49a-4576-8219-bb59f030e5dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/button[2]</value>
+      <webElementGuid>2abfd710-6df2-4c8d-8236-7cf710c80534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>3d34bbc0-9693-4be4-baae-cee6bca31e90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

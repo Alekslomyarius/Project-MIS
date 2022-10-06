@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verif_namber_zapisi</name>
+   <tag></tag>
+   <elementGuidId>955d56b3-4701-4d88-adee-98e846a4efbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_patient__phone__fSW96</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='drawer']/div/div/div/div[2]/div/div[2]/div/div/div[3]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '${GlobalVariable.Test_phone}' or . = '${GlobalVariable.Test_phone}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5d5c0148-05b6-424b-89f6-283086d4f4ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_patient__phone__fSW96</value>
+      <webElementGuid>5bf9d648-8c72-49cc-b7be-0ec94ca9c606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${GlobalVariable.Test_phone}</value>
+      <webElementGuid>cb938c60-2ec7-4470-8184-4093009b9b08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__3ivyS&quot;]/div[@class=&quot;styles_container__1zr_3&quot;]/div[@class=&quot;styles_container__2UbMH&quot;]/div[@class=&quot;styles_container__18AaY&quot;]/div[@class=&quot;styles_content__container__1FikG&quot;]/div[@class=&quot;styles_content__1YTzU&quot;]/div[@class=&quot;styles_info__1xIDw&quot;]/div[@class=&quot;styles_patient__phone__fSW96&quot;]</value>
+      <webElementGuid>2f1c48a0-cf6f-4c30-a93d-f886aa606c11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/div[2]/div/div[2]/div/div/div[3]/div[2]/div</value>
+      <webElementGuid>584766e7-31a1-494a-aa50-63e4099acdbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA Avtotest Regressovich'])[1]/following::div[1]</value>
+      <webElementGuid>e2c43697-04f4-4685-af2f-840aa7499d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Пациент'])[1]/following::div[2]</value>
+      <webElementGuid>e4a33e00-fe23-4de1-ba3d-427cb97ca410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Цель визита'])[1]/preceding::div[1]</value>
+      <webElementGuid>00c72d6a-2d3f-4dea-8196-bd88c10fbf7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Начать прием'])[1]/preceding::div[4]</value>
+      <webElementGuid>f0a3a791-9462-4797-9d1b-84f20d84d8bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+7 (965) 644-65-66']/parent::*</value>
+      <webElementGuid>d1b72591-09b6-46fc-801a-dd23541e4f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>f4d724af-6536-45b6-8da6-2d987dc3b8e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '+7 (965) 644-65-66' or . = '+7 (965) 644-65-66')]</value>
+      <webElementGuid>f305b783-07fe-4b93-ac3f-78f90c9deb68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verif_kod_on_modal_filial_1</name>
+   <tag></tag>
+   <elementGuidId>0bc1f681-b901-4751-8791-94571749e842</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = '43' or . = '43')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_table__template__1hO5d.styles_table__template__1YhBQ.styles_service__item__2ClIM > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>686bb85b-598d-4c5d-95be-e6225c5924a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>577</value>
+      <webElementGuid>5757acd4-8baf-4fd3-8ddf-f24d325f50e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__2VOdc&quot;]/div[@class=&quot;styles_table__container__2Xqgx&quot;]/div[@class=&quot;container&quot;]/div[2]/div[@class=&quot;styles_table__template__1hO5d styles_table__template__1YhBQ styles_service__item__2ClIM&quot;]/p[1]</value>
+      <webElementGuid>d874f8f5-29d3-4671-805e-990becc12c27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/div[2]/div[2]/div/div[2]/div/p</value>
+      <webElementGuid>5316a53b-4001-4167-afa2-ae5314a5116e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Автотест'])[1]/following::p[30]</value>
+      <webElementGuid>9817a535-cd87-42fb-964a-e9f07e23bd05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Добавить услугу'])[1]/following::p[30]</value>
+      <webElementGuid>c713ef51-1c16-438c-a55e-f9ec1a124844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавлена к филиалу'])[1]/preceding::p[2]</value>
+      <webElementGuid>41c2436d-7959-4a12-871d-fca3879dc440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div/p</value>
+      <webElementGuid>e8275540-b634-4227-970c-05f01d53885c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '43' or . = '43')]</value>
+      <webElementGuid>8c322056-8a50-464d-97c8-919230a26b34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>day 3</name>
+   <tag></tag>
+   <elementGuidId>7ac31a86-320e-4627-852b-f8058349274f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '3' or . = '3')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div[2]/main/section/div/form/div/div[2]/div[2]/div/div/div/span/div/div/div[2]/div/div/div/div[2]/button[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>da553ee0-4c0d-4fc7-8655-13fb9ee5dc3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-calendar__tile react-calendar__month-view__days__day</value>
+      <webElementGuid>ddc7bf29-79f6-4a1b-96af-31b48210f071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1af66087-5608-4d97-a5d4-73605f8cf46b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>2c2560e8-fb2d-4870-9f70-994c74ac126d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[1]/form[@class=&quot;styles_container__2eYAL&quot;]/div[@class=&quot;styles_container__fields__1O2q5&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;fields&quot;]/div[@class=&quot;styles_container-fields__1PGTD&quot;]/div[@class=&quot;styles_container__4Xrq- styles_container-field-datepicker__iPX9c&quot;]/div[@class=&quot;react-date-picker react-date-picker--open react-date-picker--enabled custom_input_3j23dLnd2u9 custom_input_3j2wKdn3   day_width_3fn123d213dg month_width_3fn12s13dg styles_field-datepicker__1cDbZ&quot;]/span[1]/div[@class=&quot;react-date-picker__calendar react-date-picker__calendar--open&quot;]/div[@class=&quot;react-calendar styles_custom_calendar__3Kusz&quot;]/div[@class=&quot;react-calendar__viewContainer&quot;]/div[@class=&quot;react-calendar__month-view&quot;]/div[1]/div[1]/div[@class=&quot;react-calendar__month-view__days&quot;]/button[@class=&quot;react-calendar__tile react-calendar__month-view__days__day&quot;]</value>
+      <webElementGuid>363db741-af27-4a02-8a73-3b9684eb9f4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[67]</value>
+      <webElementGuid>26de4a07-e348-4dc0-a35f-a5bb7e1377f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div/form/div/div[2]/div[2]/div/div/div/span/div/div/div[2]/div/div/div/div[2]/button[9]</value>
+      <webElementGuid>545685de-0244-4d96-8d4b-7f670687a5b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='вс'])[2]/following::button[9]</value>
+      <webElementGuid>1d3d639f-b12e-42fc-9e0c-2afdb2e32d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='сб'])[2]/following::button[9]</value>
+      <webElementGuid>2bbb5564-45aa-438e-ae94-ccdc8a59c792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Дата выдачи'])[1]/preceding::button[34]</value>
+      <webElementGuid>90dc9ee0-f7ec-4093-adde-4084b6b002ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Кем выдан'])[1]/preceding::button[34]</value>
+      <webElementGuid>ccf310b6-da9e-4fc2-ab81-f788915a616a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/span/div/div/div[2]/div/div/div/div[2]/button[9]</value>
+      <webElementGuid>8a46af80-2db4-4a48-97da-72df47f2224c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '3' or . = '3')]</value>
+      <webElementGuid>af1349b9-c03a-4d95-bd41-56964212b81c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

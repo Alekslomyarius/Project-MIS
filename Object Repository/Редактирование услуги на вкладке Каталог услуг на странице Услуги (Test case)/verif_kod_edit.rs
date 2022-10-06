@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verif_kod_edit</name>
+   <tag></tag>
+   <elementGuidId>b60b88ab-9329-4bce-b13d-c2d14457a2a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = '577' or . = '577')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_table__template__KhwMC.styles_table__template__1FcRX.styles_service__item__3o6q3 > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>bb97d38d-c3aa-4a8e-bcf8-e4f1f92be3d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>577</value>
+      <webElementGuid>67535b99-de3f-4898-ba47-366ab2fa1af0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;styles_container__1bWbk&quot;]/div[@class=&quot;styles_container__1QFmr&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;styles_table__template__KhwMC styles_table__template__1FcRX styles_service__item__3o6q3&quot;]/p[1]</value>
+      <webElementGuid>00279999-8350-4d00-b2b3-67c6af26a676</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div/div[3]/div[2]/div[2]/div[2]/p</value>
+      <webElementGuid>58665b5b-4baf-4fee-a41c-55e7f116a8e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Добавить услугу'])[1]/following::p[4]</value>
+      <webElementGuid>3e803a19-24f4-4c84-a848-d4525eae3b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Услуги филиалов'])[1]/following::p[4]</value>
+      <webElementGuid>be2a0977-b579-4da6-bb9c-5c134f9b1559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Описание'])[1]/preceding::p[3]</value>
+      <webElementGuid>1318132e-f728-4fab-ba21-4caf0961ae81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Наименование услуги'])[2]/preceding::p[3]</value>
+      <webElementGuid>adfa342e-b862-45d4-b1ef-2fd64d3567c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='577']/parent::*</value>
+      <webElementGuid>01a36f39-c3b4-4a20-a477-3f99d4d2f9fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>23c5fe5d-2b04-40c5-9052-cecd6e2a080d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '577' or . = '577')]</value>
+      <webElementGuid>74fabdfc-c9f8-4bee-becf-acb0ddc76605</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

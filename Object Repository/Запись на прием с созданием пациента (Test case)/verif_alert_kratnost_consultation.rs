@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verif_alert_kratnost_consultation</name>
+   <tag></tag>
+   <elementGuidId>96a74812-2da9-4bb3-b3c5-f66251de51dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.styles_error__hp9mi</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Длительность консультации должно быть кратно 5 минутам' or . = 'Длительность консультации должно быть кратно 5 минутам')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c0dceffe-7b90-4377-8e0c-7366ae609c65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_error__hp9mi</value>
+      <webElementGuid>e1092fb5-665c-4a7f-bca7-158859092a21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Длительность консультации должно быть кратно 5 минутам</value>
+      <webElementGuid>50cf2206-8df3-4606-93fe-f0aac7bf0093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/form[@class=&quot;styles_container__2kCJE&quot;]/div[@class=&quot;styles_content__container__20ZQn&quot;]/div[4]/div[@class=&quot;styles_container__db3vq&quot;]/div[2]/span[@class=&quot;styles_error__hp9mi&quot;]</value>
+      <webElementGuid>d787d9e0-5e9c-488b-8dce-cdb2c8af31b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/form/div/div[4]/div/div[2]/span</value>
+      <webElementGuid>0e984049-fd25-49a8-979e-614bf688dc03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='С'])[1]/following::span[1]</value>
+      <webElementGuid>1323520d-74ba-47da-a02c-98144ed49904</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Дата приема'])[1]/following::span[2]</value>
+      <webElementGuid>db9a4c01-62fd-40bf-9298-cd0e9ac7c53c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='По'])[1]/preceding::span[1]</value>
+      <webElementGuid>364cb86e-9d78-4bcf-a9f7-5c12a1e2273d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Другое'])[1]/preceding::span[2]</value>
+      <webElementGuid>4d85154b-02ae-445e-8bfc-11d11af4af1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Длительность консультации должно быть кратно 5 минутам']/parent::*</value>
+      <webElementGuid>3229f42c-20cc-475d-91c0-311f1b05db0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/span</value>
+      <webElementGuid>daac2e23-caa5-47b5-aa13-e14cf51832d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Длительность консультации должно быть кратно 5 минутам' or . = 'Длительность консультации должно быть кратно 5 минутам')]</value>
+      <webElementGuid>34c22a02-392f-4a82-859a-e60701da991f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

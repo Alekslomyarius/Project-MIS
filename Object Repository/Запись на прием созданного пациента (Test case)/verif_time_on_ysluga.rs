@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verif_time_on_ysluga</name>
+   <tag></tag>
+   <elementGuidId>cdca9c23-6e68-4c18-b115-6582e1efedf1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = '20 мин.' or . = '20 мин.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.duration.styles_duration__MsgXm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a8c8f2bf-cae9-4e4c-9b40-3a57a475a175</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>duration styles_duration__MsgXm</value>
+      <webElementGuid>0f1e095d-78dd-495b-a0f8-d60bad6aa886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>20 мин.</value>
+      <webElementGuid>fd721761-dcb7-44bc-8679-208adecc2074</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/form[@class=&quot;styles_container__2kCJE&quot;]/div[@class=&quot;styles_content__container__20ZQn&quot;]/div[@class=&quot;styles_wrapper__12tXl&quot;]/div[@class=&quot;styles_container__2gakB&quot;]/div[@class=&quot;styles_service__container__1ffnN&quot;]/div[@class=&quot;styles_service_list__container__GaJV_&quot;]/p[@class=&quot;duration styles_duration__MsgXm&quot;]</value>
+      <webElementGuid>5339cf7c-4fe6-4151-9992-49305ad0c6d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drawer']/div/div/div/form/div/div[6]/div/div[2]/div/p[2]</value>
+      <webElementGuid>87554e8c-0948-4490-9847-b9f2db107144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавить услугу'])[1]/following::p[2]</value>
+      <webElementGuid>ea8eecfd-a07f-49d9-90bc-b9b08073cedf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Услуги'])[2]/following::p[2]</value>
+      <webElementGuid>265b82ae-d175-4da2-9514-3c51ba13e708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Не подтвержден'])[1]/preceding::p[8]</value>
+      <webElementGuid>409905fd-33b0-4749-90f6-25380e4a829f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Назначить'])[1]/preceding::p[8]</value>
+      <webElementGuid>bca9c9f6-7403-4eb6-919e-095824d551b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='20']/parent::*</value>
+      <webElementGuid>47dc2595-d3e9-4d10-b761-9e061978f213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/p[2]</value>
+      <webElementGuid>02f65b2f-64e8-4bbf-9cf7-7922e9d2d1d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '20 мин.' or . = '20 мин.')]</value>
+      <webElementGuid>019d1234-378c-45b7-9c45-054e05b45829</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
