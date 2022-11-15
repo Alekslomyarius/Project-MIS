@@ -6,12 +6,12 @@
    <elementGuidId>7328f98d-98f1-4c69-83e4-ded29bf585e4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//p[(text() = 'Договора пациента' or . = 'Договора пациента')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>p.document__name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[text() = 'Договор об оказании платных медицинских услуг']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>c4dce4a5-084d-4afe-8c94-210fa91d66d2</webElementGuid>
+      <webElementGuid>51c9179b-5ff2-462c-9342-612d76a57339</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>document__name</value>
-      <webElementGuid>d872b691-ee30-4faa-bd2d-0e771f2d2fbb</webElementGuid>
+      <webElementGuid>ef253faa-0e5f-4b84-b66b-28a4b6956119</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Договора пациента</value>
-      <webElementGuid>62afc90d-02db-46fb-8c02-874916ac6ae0</webElementGuid>
+      <webElementGuid>29defde2-21e5-4bc5-95c0-de1ff7a913ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__3ivyS&quot;]/div[@class=&quot;styles_container__1zr_3&quot;]/div[@class=&quot;styles_container__11_St&quot;]/div[@class=&quot;styles_section__1X2a_&quot;]/div[@class=&quot;styles_container__2uL-E&quot;]/div[@class=&quot;styles_container__2uL-E&quot;]/div[@class=&quot;styles_container__ZSx5X&quot;]/div[@class=&quot;styles_documents__list__CFPGJ styles_template_list__2uA1o&quot;]/div[@class=&quot;styles_container__3xT-H styles_container__idQum&quot;]/div[1]/label[@class=&quot;ant-checkbox-wrapper&quot;]/span[2]/p[@class=&quot;document__name&quot;]</value>
-      <webElementGuid>a59abcb3-3e80-4b57-a4fd-c472d5f9a0ec</webElementGuid>
+      <webElementGuid>895505de-7e8a-491e-8afa-520b7c8ed869</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='drawer']/div/div/div/div[2]/div/div[2]/div[2]/div[2]/div/div/div[2]/div/div/label/span[2]/p</value>
-      <webElementGuid>0c86ba6a-4ec8-4695-9161-73afd8d75d1f</webElementGuid>
+      <webElementGuid>79c5cb43-4439-44fe-bdec-2c0e05d124ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Добавить шаблон'])[1]/following::p[1]</value>
-      <webElementGuid>59af2f35-dc47-4f4b-8951-ce879f2b08e4</webElementGuid>
+      <webElementGuid>e045c462-e97d-48bb-a747-4a307318574c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Документы пациента'])[1]/following::p[1]</value>
-      <webElementGuid>3f5edbe7-ebe2-4702-a97e-0234cfc45caa</webElementGuid>
+      <webElementGuid>e184bb97-a583-4668-9b22-e98520a9ae55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Начать прием'])[1]/preceding::p[1]</value>
-      <webElementGuid>c4f258a3-76dd-46a2-b8a5-18ef1033f8b8</webElementGuid>
+      <webElementGuid>fb2a6ec2-5c1c-4100-8a5f-1aa4559732f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Не подтвержден'])[1]/preceding::p[1]</value>
-      <webElementGuid>4fa2b2a5-4da2-4ce7-8927-c98f7895046c</webElementGuid>
+      <webElementGuid>b3fe7c1d-0ccb-4334-92dd-c791c2a84a90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Договора пациента']/parent::*</value>
-      <webElementGuid>adade18c-d88b-4b49-8e1e-b1c8c04feda7</webElementGuid>
+      <webElementGuid>1d5b0b39-b909-4d51-b231-c90fba69975e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/p</value>
-      <webElementGuid>08c04fcb-ed7f-4dcf-a59b-51e1812a43c5</webElementGuid>
+      <webElementGuid>96f4959e-23af-43d5-9d67-e31ebd7301e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Договора пациента' or . = 'Договора пациента')]</value>
-      <webElementGuid>f15429a9-0f73-4d2b-8739-947f5c23cde1</webElementGuid>
+      <webElementGuid>a74ef146-adfc-4333-917e-84387133d036</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

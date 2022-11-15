@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>multiselect_vrachei_in_priem</name>
+   <name>vibor_vracha_2</name>
    <tag></tag>
-   <elementGuidId>1885cba2-77c6-4479-9f9b-43da35248b26</elementGuidId>
+   <elementGuidId>70d0a20f-27a0-469e-857d-90d0ccf97f3a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#react-select-8-input</value>
+         <value>#react-select-16-input</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[3]/div[2]/div/div/div[2]/div[1]/div[2]/div/div[1]/div/div/div/div[1]/div[2]/div/input</value>
+         <value> //div[contains(@class , '-option') and text()='Боевая Машина Магович']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7f9c3944-f43f-4545-8439-2c143d9bbf51</webElementGuid>
+      <webElementGuid>1211a02a-4e80-48d1-b9a5-3cef3b7cf953</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>082373f3-37f1-4353-8803-e3ca22cf6720</webElementGuid>
+      <webElementGuid>d7969fdf-a5ed-4e1c-8df9-c98fadb5ba09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>85c30ce7-a8ec-4781-afd1-7df1b5a504a3</webElementGuid>
+      <webElementGuid>0fa33eff-8ae8-488f-ac34-18ff86100450</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>573360d0-9c96-48fe-bc0e-7779367fd978</webElementGuid>
+      <webElementGuid>455aa8ac-0140-42a7-a92e-c86c7533fc85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>react-select-8-input</value>
-      <webElementGuid>7240da4b-1187-4ead-a57d-3d294ef3ebea</webElementGuid>
+      <value>react-select-16-input</value>
+      <webElementGuid>5ee1a97d-a7ad-449a-9062-9c106ee02bdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>9a04589c-8fca-4cbc-b1d2-1b347c5be32f</webElementGuid>
+      <webElementGuid>4e8eba47-785b-498a-aa46-9a366170a854</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>cd1fbbe7-3d3f-4c64-a64d-67ca5d2f7dba</webElementGuid>
+      <webElementGuid>81b82863-231e-47e8-b907-a7cc377c5c72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>bff33766-eb97-477d-b8f4-6a0546b825ba</webElementGuid>
+      <webElementGuid>58e27519-b9ea-42bf-96f8-92d5c03e5624</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,31 +86,31 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>c7ecced2-2a6b-44d4-9b3a-a7e0f828a4ac</webElementGuid>
+      <webElementGuid>d6f5e400-0a6e-44b1-b91e-c0cbcf5e4c21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>И</value>
-      <webElementGuid>0aa4e8b5-0333-4b1d-acac-51fefb84da26</webElementGuid>
+      <value>М</value>
+      <webElementGuid>b968f6a5-f32c-4056-809e-bd9cde25cafd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;react-select-8-input&quot;)</value>
-      <webElementGuid>5328ea80-cd7f-4a09-8383-511043535465</webElementGuid>
+      <value>id(&quot;react-select-16-input&quot;)</value>
+      <webElementGuid>ab4ed113-50ed-4775-8892-142f1e7a1404</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='react-select-8-input']</value>
-      <webElementGuid>14530121-2805-4bcf-a484-bb24d3a22fc0</webElementGuid>
+      <value>//input[@id='react-select-16-input']</value>
+      <webElementGuid>6d84cc53-ae1e-42be-925b-2f98c34ae114</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='drawer']/div[2]/div/div/div[2]/div[2]/div/div/div/div/div/div/div/div/input</value>
-      <webElementGuid>76d92d9c-41d8-461c-900a-381f66045521</webElementGuid>
+      <webElementGuid>0a92db08-0a90-434c-8358-3c2db3bf6a81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,14 +126,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div[2]/div/div/div/div/div/div/div/div/input</value>
-      <webElementGuid>d123b944-38fc-4926-bf2b-adab6d4700c3</webElementGuid>
+      <webElementGuid>9bf9d141-0c93-4839-a3af-76a59d2efa1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'react-select-8-input' and @type = 'text']</value>
-      <webElementGuid>01763814-b871-4d7b-9f95-06adaded028b</webElementGuid>
+      <value>//input[@id = 'react-select-16-input' and @type = 'text']</value>
+      <webElementGuid>25b44ec8-29b8-42b2-905c-bb1cf23db4ec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

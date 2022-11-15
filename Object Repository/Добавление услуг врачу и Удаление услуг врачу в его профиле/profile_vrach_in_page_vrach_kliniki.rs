@@ -6,16 +6,16 @@
    <elementGuidId>a82873b0-b400-4773-b668-dd9626c5f964</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div[2]/main/section/div/div[3]/div[2]/span/a/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.ant-popover-open</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//*[(text() = '${GlobalVariable.Test_vrach_full}' or . = '${GlobalVariable.Test_vrach_full}')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text() = 'Боевая Машина Магович']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ce855dfa-bee0-4032-a5bc-af6558855123</webElementGuid>
+      <webElementGuid>1fb58966-9a87-4820-9cce-22c094ba4b6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-popover-open</value>
-      <webElementGuid>e8fe60de-812e-457f-9874-6ee2d6cc5d15</webElementGuid>
+      <webElementGuid>e289806f-b64e-489e-ada0-31ea9ea2dabe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>${GlobalVariable.Test_vrach_full}</value>
-      <webElementGuid>5f89a71e-8c13-4f55-9ca1-ca8d32602377</webElementGuid>
+      <webElementGuid>158249ce-a15b-4e30-a4a3-0985a20f4543</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;styles_container__1PndP&quot;]/div[@class=&quot;styles_table__wrapper__3VcQm&quot;]/div[@class=&quot;styles_table__row__5Gwmm&quot;]/span[@class=&quot;styles_table__row__item-shortened__1yU3K&quot;]/a[1]/span[@class=&quot;ant-popover-open&quot;]</value>
-      <webElementGuid>e61efa0c-5c81-4dce-9102-e449e492dbd8</webElementGuid>
+      <webElementGuid>e5766c99-2573-4a75-a76d-97cae920a917</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/main/section/div/div[3]/div[2]/span/a/span</value>
-      <webElementGuid>7ba4ef1a-9ec7-48b3-8b5e-886a0d8fa659</webElementGuid>
+      <webElementGuid>ea0e263e-0070-4a30-b392-103070e68143</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Статус'])[1]/following::span[2]</value>
-      <webElementGuid>2d83c61d-962d-4a2b-a50d-22f2486c1d4a</webElementGuid>
+      <webElementGuid>c18cbc73-6f18-4c6a-b972-3b65afd7122d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Контактные данные'])[1]/following::span[3]</value>
-      <webElementGuid>a57dd424-5121-4b49-9044-3359347d6bfb</webElementGuid>
+      <webElementGuid>c6dfcc87-12ca-4d63-8789-19084d98c733</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Акушер-гинеколог'])[1]/preceding::span[1]</value>
-      <webElementGuid>43331a85-63bb-4f6f-8715-506ad1345e90</webElementGuid>
+      <webElementGuid>5f54ce02-f25f-4d4e-9358-229e7016c769</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Андролог'])[1]/preceding::span[2]</value>
-      <webElementGuid>7d1015cb-0c40-446b-97d5-cf09395fd085</webElementGuid>
+      <webElementGuid>687709df-768f-4620-af5d-996215f444ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Боевая Машина Магович']/parent::*</value>
-      <webElementGuid>4ab00996-fa55-4cbc-b9e0-da5b9d95cf39</webElementGuid>
+      <webElementGuid>dad166ce-1bc7-4b93-ad4f-a7da2f0a30db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/a/span</value>
-      <webElementGuid>682e14f0-c3c4-407f-8013-d4567065539f</webElementGuid>
+      <webElementGuid>97c016be-1a9f-423c-9bdb-03f49d034b10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Боевая Машина Магович' or . = 'Боевая Машина Магович')]</value>
-      <webElementGuid>ce42ec24-ce5b-4067-90d8-2621308dfe4d</webElementGuid>
+      <webElementGuid>81415b78-4a92-4ff8-a9a4-6569a0ed93ac</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>verif_add_documents_2</name>
+   <name>button_plus_minute</name>
    <tag></tag>
-   <elementGuidId>1bd21be0-1871-4945-bcb7-6be09ae1fd06</elementGuidId>
+   <elementGuidId>7d7fc6da-301f-4e1c-9c57-f0114b0a718b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>p.document__name</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//p[text() = 'Договора пациента']</value>
+         <value>//span[@class = 'boldText' and text() ='минут']/preceding-sibling::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,40 +20,56 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>p</value>
-      <webElementGuid>2d68babf-0405-4e2f-b892-056aa6a2d552</webElementGuid>
+      <value>button</value>
+      <webElementGuid>6a9a91e7-6c73-4ae7-b257-b34959abaf9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6a1cc79d-2c13-4b48-b3a3-18e81bf309dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>document__name</value>
-      <webElementGuid>57ef8caa-6042-4408-88cd-b4c9f6afe50f</webElementGuid>
+      <value>styles_action__button__2c5Mk</value>
+      <webElementGuid>3eeaf883-500e-4880-bf19-56e285c8cdbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Договор пациента тестовый</value>
-      <webElementGuid>7f747f17-ceb5-4b13-badc-60c1b96df806</webElementGuid>
+      <value>+</value>
+      <webElementGuid>02d4db84-bc2f-44bd-8d62-9b1ee044db4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__3ivyS&quot;]/div[@class=&quot;styles_container__1zr_3&quot;]/div[@class=&quot;styles_container__11_St&quot;]/div[@class=&quot;styles_section__1X2a_&quot;]/div[@class=&quot;styles_container__2uL-E&quot;]/div[@class=&quot;styles_container__2uL-E&quot;]/div[@class=&quot;styles_container__ZSx5X&quot;]/div[@class=&quot;styles_documents__list__CFPGJ styles_template_list__2uA1o&quot;]/div[@class=&quot;styles_container__3xT-H styles_container__idQum&quot;]/div[1]/label[@class=&quot;ant-checkbox-wrapper&quot;]/span[2]/p[@class=&quot;document__name&quot;]</value>
-      <webElementGuid>d7da6a3d-1dd3-4811-a1f2-7883b4a432f6</webElementGuid>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__2wFx3&quot;]/div[@class=&quot;styles_content_container__3lD53&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;styles_container__2m6Fl&quot;]/div[@class=&quot;styles_container__1H_Vn&quot;]/div[@class=&quot;styles_counters__wrapper__11fqz&quot;]/div[@class=&quot;styles_counter__3p0Y9&quot;]/button[@class=&quot;styles_action__button__2c5Mk&quot;]</value>
+      <webElementGuid>454672c6-ea1b-4489-b4a9-a8e4cf5bb4f4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[59]</value>
+      <webElementGuid>dcbdda05-6005-4e36-836c-e799af26081d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value></value>
-      <webElementGuid>4ba3a162-2b83-4d7c-a933-ffc6d9be0475</webElementGuid>
+      <value>//div[@id='drawer']/div[2]/div/div/div[2]/div/div[4]/div/div[2]/div/div[2]/button[2]</value>
+      <webElementGuid>97d588ca-3da8-4ce2-a8bd-7e9478538c90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>299577ef-41bd-4f73-b8d7-344adb836b7c</webElementGuid>
+      <webElementGuid>444573be-1c24-4936-8988-877ed9320a9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>08bb8c69-df7c-412c-82bf-f80a78e9abe8</webElementGuid>
+      <webElementGuid>dc871dde-2470-49a1-96f0-caeeb9ee812c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>82e87aea-fd74-4647-9204-1aede484bbd9</webElementGuid>
+      <webElementGuid>fbc8752a-0a96-404d-936b-1f62fd760392</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,15 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>ec87beb0-2d4b-4adc-9e2d-508c4904abbb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value></value>
-      <webElementGuid>203c0673-b7b5-4992-aa8f-8a275276ba7a</webElementGuid>
+      <webElementGuid>25331dce-a6c4-421b-9401-6f64d0aaa02b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>7291ca88-76b1-43a4-8f3e-becc1232aae0</webElementGuid>
+      <webElementGuid>7ac51ea8-21f0-4620-954a-f6a0743c5ce0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>644e4f9e-ab14-47dd-b1f3-39ad0e0f1798</webElementGuid>
+      <webElementGuid>707c3410-b8ff-48cf-9dc0-45ed4d2885c3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

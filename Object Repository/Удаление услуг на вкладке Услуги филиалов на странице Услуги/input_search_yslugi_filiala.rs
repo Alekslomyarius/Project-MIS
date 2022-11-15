@@ -6,12 +6,12 @@
    <elementGuidId>cdfc55cd-bd15-4edc-8481-f0ac5f5053d1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div[2]/main/section/div/div[3]/div[2]/div/div/div/div[2]/input</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input[type=&quot;search&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'style_searchInput')]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a9fe48df-3fe6-4081-aabe-e2b44c28f601</webElementGuid>
+      <webElementGuid>4114042a-b545-457c-8062-b517fb1edcf2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>cc4173fd-311d-4716-a089-b474b3edd1b5</webElementGuid>
+      <webElementGuid>52ff8dc7-b7ce-4bfb-bfde-d5a2a7448f76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Поиск</value>
-      <webElementGuid>c117b510-aec9-41de-901a-0c19fc63cc9a</webElementGuid>
+      <webElementGuid>257a9583-1817-4e72-b9b5-4c6f6659a1ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Q</value>
-      <webElementGuid>fae58465-5739-4d99-b0a1-07c1cd3d1961</webElementGuid>
+      <webElementGuid>7f7921f6-8eca-40d7-9d12-2348b943d6cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;styles_container__1bWbk&quot;]/div[@class=&quot;styles_container__2d1pT&quot;]/div[@class=&quot;content__container&quot;]/div[1]/div[@class=&quot;style_searcherWrapper__2AM9Y&quot;]/div[@class=&quot;style_searchContainer__2NR0t&quot;]/div[@class=&quot;style_searchInput__3iwOf&quot;]/input[1]</value>
-      <webElementGuid>8d66782d-cf9a-4db5-819f-a08dd4b58a65</webElementGuid>
+      <webElementGuid>a95c62c2-3a43-4c43-86a9-44d7f7330184</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='Q']</value>
-      <webElementGuid>aa811e5b-c91e-4a99-b085-5734d741b867</webElementGuid>
+      <webElementGuid>732b1be2-4415-4ba0-8917-682d64bef573</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/main/section/div/div[3]/div[2]/div/div/div/div[2]/input</value>
-      <webElementGuid>2044d1d5-65ea-4770-a89b-1be6e4e56033</webElementGuid>
+      <webElementGuid>9b41982a-1378-419a-aff1-58bb0e5b6c5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>3e509a61-81bd-4e57-a844-0901d88df451</webElementGuid>
+      <webElementGuid>1df03fab-f175-4b44-b180-65c4911a50f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'search' and @placeholder = 'Поиск']</value>
-      <webElementGuid>1dfc791a-f1a8-4ad0-8dbd-eb07a869612f</webElementGuid>
+      <webElementGuid>9bd7315f-03f4-4379-bd3f-2aaf371336be</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -57,7 +57,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Запись на пр
     GlobalVariable.Test_vrach_abbreviaturoi)
 
 'Нажать на ячейку в расписании'
-WebUI.click(findTestObject('Object Repository/Запись на прием созданного пациента (Test case)/cell_in_timetable'))
+WebUI.click(findTestObject('Просмотр информации о приеме (Test case)/open_card_Avtotest Q. R'))
 
 'Проверка что номер телефона отображается'
 WebUI.verifyElementText(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/Verif_number_in_prosmotr'), 
@@ -65,6 +65,8 @@ WebUI.verifyElementText(findTestObject('Object Repository/Редактирова
 
 'Таб редактировать'
 WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/tab_redactor_obshee'))
+
+WebUI.delay(5)
 
 'Проверка, что открыто то окно'
 WebUI.verifyElementText(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/verif_h_redactor'), 
@@ -116,6 +118,8 @@ WebUI.verifyElementText(findTestObject('Object Repository/Редактирова
 'Таб редактировать'
 WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/tab_redactor_obshee'))
 
+WebUI.delay(5)
+
 'Открываем мультиселект врачей\r\n'
 WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/open_multiselect_vrachei_in_priem'))
 
@@ -123,17 +127,35 @@ WebUI.click(findTestObject('Object Repository/Редактирование вк�
 WebUI.setText(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/multiselect_vrachei_in_priem'), 
     'Измайлов')
 
+'Вводим фамилию врача'
+WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/vibor_vracha'), FailureHandling.STOP_ON_FAILURE)
+
 'Подтверждаем выбор'
-WebUI.sendKeys(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/multiselect_vrachei_in_priem'), 
+not_run: WebUI.sendKeys(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/multiselect_vrachei_in_priem'), 
     Keys.chord(Keys.ENTER))
 
 'Проверяет что выбрался тот врач'
-WebUI.verifyElementText(findTestObject('Редактирование вкладки Общее и Услуги (Test case)/FIO_vracha_in_multiselect_in_priem'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/FIO_vracha_in_multiselect_in_priem'), 
     'Измайлов Дмитрий Петрович')
 
 'Проверка специальности'
 WebUI.verifyElementText(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/specialnost_in_priem'), 
     'Акушер-гинеколог')
+
+WebUI.delay(5)
+
+'Повторно нажимает на день в календаре (пока не починят баг)'
+WebUI.click(findTestObject('Редактирование вкладки Общее и Услуги (Test case)/button_data_current'))
+
+'Увеличивает прием на 5 минут'
+WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/button_plus_minute'))
+
+'Выделяет первый таб со свободные временем'
+WebUI.scrollToElement(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/button_first_time_in_kalendar'), 
+    0)
+
+'Выделяет первый таб со свободные временем'
+WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/button_first_time_in_kalendar'))
 
 'Кнопка сохранить'
 WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/save_button'))
@@ -154,11 +176,11 @@ not_run: WebUI.sendKeys(findTestObject('Object Repository/Запись на пр
     Keys.chord(Keys.ENTER))
 
 'Проверка, что вывелся тот специалист'
-not_run: WebUI.verifyElementText(findTestObject('Запись на прием созданного пациента (Test case)/h_specialist_name_2_vrach'), 
+not_run: WebUI.verifyElementText(findTestObject('Object Repository/Запись на прием созданного пациента (Test case)/h_specialist_name_2_vrach'), 
     'Измайлов Д. П.')
 
 'Нажать на ячейку в расписании'
-not_run: WebUI.click(findTestObject('Запись на прием созданного пациента (Test case)/cell_in_timetable_find_po_family_patienta'))
+not_run: WebUI.click(findTestObject('Object Repository/Запись на прием созданного пациента (Test case)/cell_in_timetable_find_po_family_patienta'))
 
 'Таб редактировать'
 not_run: WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/tab_redactor_obshee'))
@@ -170,16 +192,29 @@ WebUI.verifyElementText(findTestObject('Object Repository/Редактирова
 'Таб редактировать'
 WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/tab_redactor_obshee'))
 
-'Еще раз нажать на список врачей'
-WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/FIO_vracha_in_multiselect_in_priem'))
+'Открываем мультиселект врачей\r\n'
+WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/open_multiselect_vrachei_in_priem'))
 
 'Вводим врача Машину'
 WebUI.setText(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/input__in_multiselect_in_priem'), 
     GlobalVariable.Test_vrach_familia)
 
+'Подтверждает выбор врача Машину'
+WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/vibor_vracha_2'), FailureHandling.STOP_ON_FAILURE)
+
 'Подтверждаем'
-WebUI.sendKeys(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/input__in_multiselect_in_priem'), 
+not_run: WebUI.sendKeys(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/input__in_multiselect_in_priem'), 
     Keys.chord(Keys.ENTER))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Редактирование вкладки Общее и Услуги (Test case)/button_data_current'))
+
+'Уменьшаем время консультации на 5 мин'
+WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/button_minus_minut'))
+
+'Выбираем первый свободный слот времени'
+WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/button_first_time_in_kalendar'))
 
 'Кнопка сохранить'
 WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/save_button'))

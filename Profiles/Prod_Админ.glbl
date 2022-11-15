@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>Stage_Админ</name>
+   <name>Prod_Админ</name>
    <tag></tag>
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Тестовая клиника Совы'</initValue>
+      <initValue>'Клиника Совы'</initValue>
       <name>Name_clinic</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Savin.qa@yandex.ru'</initValue>
+      <initValue>'domayonkray@gmail.com'</initValue>
       <name>Admin_mail</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'BA3upiWNJNXY702DodOXug=='</initValue>
+      <initValue>'7TYPZTpRaIT1o1Uv13olqA=='</initValue>
       <name>Admin_password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://stage-clinic.todayme.ru'</initValue>
+      <initValue>'https://clinic.antiage-expert.com'</initValue>
       <name>URL</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -56,7 +56,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'+7 (930) 084-32-38'</initValue>
+      <initValue>'+7 (955) 744-31-01'</initValue>
       <name>Test_phone</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -101,7 +101,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'+7 (933) 700-31-38'</initValue>
+      <initValue>'+7 (950) 739-31-11'</initValue>
       <name>Test_2_phone</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -126,12 +126,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'t7q3q4l8n8'</initValue>
+      <initValue>'b9k4l2x8h7'</initValue>
       <name>Auth_password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://stage-clinic.todayme.ru'</initValue>
+      <initValue>'https://clinic.antiage-expert.com'</initValue>
       <name>Api_url</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

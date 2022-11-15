@@ -41,22 +41,22 @@ WebUI.verifyElementText(findTestObject('Object Repository/Запись на пр
     'Автотест')
 
 'Нажать на фильтр специалист'
-WebUI.click(findTestObject('Object Repository/Редактирование вкладки Документы (Test case)/filter_specialist'))
+not_run: WebUI.click(findTestObject('Object Repository/Редактирование вкладки Документы (Test case)/filter_specialist'))
 
 'Ввод специалиста'
-WebUI.setText(findTestObject('Object Repository/Редактирование вкладки Документы (Test case)/input_filter_specialist'), 
+not_run: WebUI.setText(findTestObject('Object Repository/Редактирование вкладки Документы (Test case)/input_filter_specialist'), 
     GlobalVariable.Test_vrach_familia)
 
 'Подтверждение выбора специалиста\r\n'
-WebUI.sendKeys(findTestObject('Object Repository/Редактирование вкладки Документы (Test case)/input_filter_specialist'), 
+not_run: WebUI.sendKeys(findTestObject('Object Repository/Редактирование вкладки Документы (Test case)/input_filter_specialist'), 
     Keys.chord(Keys.ENTER))
 
 'Проверка, что вывелся тот специалист'
-WebUI.verifyElementText(findTestObject('Object Repository/Редактирование вкладки Документы (Test case)/h_specialist_name'), 
+not_run: WebUI.verifyElementText(findTestObject('Object Repository/Редактирование вкладки Документы (Test case)/h_specialist_name'), 
     GlobalVariable.Test_vrach_abbreviaturoi)
 
 'Нажать на ячейку в расписании'
-WebUI.click(findTestObject('Object Repository/Редактирование вкладки Документы (Test case)/cell_in_timetable'))
+WebUI.click(findTestObject('Просмотр информации о приеме (Test case)/open_card_Avtotest Q. R'))
 
 'Таб документы'
 WebUI.click(findTestObject('Object Repository/Редактирование вкладки Документы (Test case)/tab_documents_ib_priem'))
@@ -108,7 +108,7 @@ WebUI.click(findTestObject('Object Repository/Редактирование вк�
 
 'Проверка что документ добавился'
 WebUI.verifyElementText(findTestObject('Object Repository/Редактирование вкладки Документы (Test case)/verif_add_documents_2'), 
-    'Договор пациента тестовый')
+    'Договора пациента')
 
 'Таб добавить шаблон'
 WebUI.click(findTestObject('Object Repository/Редактирование вкладки Документы (Test case)/button_add_shablon'))
@@ -121,7 +121,7 @@ WebUI.click(findTestObject('Object Repository/Редактирование вк�
 
 'Проверка что добавился шаблон документа'
 WebUI.verifyElementText(findTestObject('Object Repository/Редактирование вкладки Документы (Test case)/verif_add_shablon'), 
-    'Договора пациента')
+    'Договор об оказании платных медицинских услуг')
 
 'Кликабельность печати'
 WebUI.verifyElementClickable(findTestObject('Object Repository/Редактирование вкладки Документы (Test case)/pechat_docs'))

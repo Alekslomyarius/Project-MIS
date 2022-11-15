@@ -42,21 +42,21 @@
    <testCaseLink>
       <guid>47afa287-e91c-4d53-8367-563d26ed42b3</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Все услуги/Услуги врача/Добавление услуг врачу на вкладке Основная информация в его профиле</testCaseId>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Все услуги/Услуги врача/Добавление услуг врачу в его профиле</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>d5c657c7-b1af-4ed3-a65b-e024323d0eac</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Все услуги/Услуги филиалов/Удаление услуг на вкладке Услуги филиалов на странице Услуги</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>f5827189-6534-4ddf-8706-2d3bbefc3084</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Все услуги/Услуги клиники/Удаление услуг на вкладке Каталог услуг на странице Услуги</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

@@ -106,7 +106,7 @@
       <guid>c5f894bb-b077-4068-88ca-f174be129aa8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Все услуги/Услуги врача/Добавление услуг врачу на вкладке Основная информация в его профиле</testCaseId>
+      <testCaseId>Test Cases/Все услуги/Услуги врача/Добавление услуг врачу в его профиле</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

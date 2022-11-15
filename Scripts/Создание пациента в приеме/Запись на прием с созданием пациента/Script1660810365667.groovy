@@ -144,7 +144,10 @@ WebUI.verifyElementText(findTestObject('Object Repository/Запись на пр
     GlobalVariable.Test_vrach_full)
 
 'Установка начала консультации'
-WebUI.setText(findTestObject('Запись на прием созданного пациента (Test case)/input__nachalo_priema'), '08:10')
+WebUI.setText(findTestObject('Запись на прием созданного пациента (Test case)/input__nachalo_priema'), '08:05')
+
+'Установка начала консультации'
+WebUI.setText(findTestObject('Запись на прием созданного пациента (Test case)/input__okonchanie_priema'), '08:15')
 
 'Указание цели визита'
 WebUI.setText(findTestObject('Object Repository/Запись на прием с созданием пациента (Test case)/input_cel_vizita'), 'Автотест. Цель визита. Создание пациента в приеме')
@@ -164,6 +167,10 @@ WebUI.verifyElementText(findTestObject('Запись на прием созда�
 'Проверка суммы услуг'
 WebUI.verifyElementText(findTestObject('Object Repository/Запись на прием созданного пациента (Test case)/all_cost_yslugi'), 
     '1 600 ₽')
+
+'Назначает прием'
+WebUI.scrollToElement(findTestObject('Object Repository/Запись на прием с созданием пациента (Test case)/tab_naznachit'), 
+    0)
 
 'Назначает прием'
 WebUI.click(findTestObject('Object Repository/Запись на прием с созданием пациента (Test case)/tab_naznachit'))

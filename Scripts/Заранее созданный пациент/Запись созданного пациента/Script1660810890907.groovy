@@ -109,7 +109,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Запись на пр
     GlobalVariable.Test_vrach_full)
 
 'Установка окончания приема'
-WebUI.setText(findTestObject('Object Repository/Запись на прием созданного пациента (Test case)/input__okonchanie_priema'), 
+not_run: WebUI.setText(findTestObject('Object Repository/Запись на прием созданного пациента (Test case)/input__okonchanie_priema'), 
     '08:10')
 
 'Указание цели визита'

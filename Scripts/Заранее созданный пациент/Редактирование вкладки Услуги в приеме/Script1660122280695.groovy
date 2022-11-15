@@ -42,22 +42,22 @@ WebUI.verifyElementText(findTestObject('Object Repository/Запись на пр
     'Автотест')
 
 'Нажать на фильтр специалист'
-WebUI.click(findTestObject('Object Repository/Запись на прием созданного пациента (Test case)/filter_specialist'))
+not_run: WebUI.click(findTestObject('Object Repository/Запись на прием созданного пациента (Test case)/filter_specialist'))
 
 'Ввод специалиста'
-WebUI.setText(findTestObject('Object Repository/Запись на прием созданного пациента (Test case)/input_filter_specialist'), 
+not_run: WebUI.setText(findTestObject('Object Repository/Запись на прием созданного пациента (Test case)/input_filter_specialist'), 
     GlobalVariable.Test_vrach_familia)
 
 'Подтверждение выбора специалиста\r\n'
-WebUI.sendKeys(findTestObject('Object Repository/Запись на прием созданного пациента (Test case)/input_filter_specialist'), 
+not_run: WebUI.sendKeys(findTestObject('Object Repository/Запись на прием созданного пациента (Test case)/input_filter_specialist'), 
     Keys.chord(Keys.ENTER))
 
 'Проверка, что вывелся тот специалист'
-WebUI.verifyElementText(findTestObject('Object Repository/Запись на прием созданного пациента (Test case)/h_specialist_name'), 
+not_run: WebUI.verifyElementText(findTestObject('Object Repository/Запись на прием созданного пациента (Test case)/h_specialist_name'), 
     GlobalVariable.Test_vrach_abbreviaturoi)
 
 'Нажать на ячейку в расписании'
-WebUI.click(findTestObject('Object Repository/Запись на прием созданного пациента (Test case)/cell_in_timetable'))
+WebUI.click(findTestObject('Просмотр информации о приеме (Test case)/open_card_Avtotest Q. R'))
 
 'Переход на вкладку Услуги'
 WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/yslugi_button'))
@@ -81,7 +81,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Редактирова
 'Нажать на таб редактировать'
 WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/tab_redactor_vkladka_usluga'))
 
-'Удаление услуги Тестовая услуга'
+'Удаление услуги Тестовая услуга QA'
 WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/delete_1_usluga_vkladka'))
 
 'Нажать отмена'
@@ -117,14 +117,14 @@ WebUI.click(findTestObject('Object Repository/Редактирование вк�
 
 'Проверка что в мультиселекте есть цена'
 WebUI.verifyElementText(findTestObject('Object Repository/Добавление услуги на вкладке Услуги филиалов на странице Услуги (Test case)/cena_in_multiselect_yslugi'), 
-    '1 500 ₽')
+    '1 500 ₽')
 
 'Проверка что в мультиселекте есть длительность услуги'
 WebUI.verifyElementText(findTestObject('Object Repository/Добавление услуги на вкладке Услуги филиалов на странице Услуги (Test case)/dlitelnost_in_multiselect_yslugi'), 
-    '50 мин.\'')
+    '50 мин.')
 
 'Выбор той же самой услуги которая уже добавлена'
-WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/2_usluga_vkladka_v2'))
+WebUI.click(findTestObject('Редактирование вкладки Общее и Услуги (Test case)/2_usluga_vkladka_v2 first'))
 
 'Проверка алерта, что такая услуга уже была добавлена'
 WebUI.verifyElementText(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/verif_usluga_yzhe_add_vkladka'), 
@@ -159,8 +159,4 @@ WebUI.verifyElementText(findTestObject('Object Repository/Редактирова
     '3 100 ₽')
 
 WebUI.closeBrowser()
-
-WebUI.click(findTestObject('Object Repository/Добавление услуги на вкладке Услуги филиалов на странице Услуги (Test case)/cena_in_multiselect_yslugi'))
-
-WebUI.click(findTestObject('Object Repository/Добавление услуги на вкладке Услуги филиалов на странице Услуги (Test case)/dlitelnost_in_multiselect_yslugi'))
 

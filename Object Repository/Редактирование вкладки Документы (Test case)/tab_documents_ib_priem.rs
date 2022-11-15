@@ -6,12 +6,12 @@
    <elementGuidId>62eeb34a-0022-4491-8ca4-043d2c9849af</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id = 'rc-tabs-0-tab-documents' and (text() = 'Документы' or . = 'Документы')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#rc-tabs-0-tab-documents</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@role = 'tab' and (text() = 'Документы')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>54679200-3af0-4155-8362-966f63e802d4</webElementGuid>
+      <webElementGuid>7b7f7bf4-8450-4482-a8e7-84dd6c8141c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>2ced726d-a143-47e1-9461-d6f3399603d7</webElementGuid>
+      <webElementGuid>9a6234bc-2a84-428f-85b2-92a0138699e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5d780b60-e1db-4f7d-815b-13243ccd6cc2</webElementGuid>
+      <webElementGuid>926f3e8a-7917-4c59-b61b-47abcbbe8181</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-tabs-tab-btn</value>
-      <webElementGuid>5525c4ec-326e-4f4d-ba34-572c148271cc</webElementGuid>
+      <webElementGuid>61a6659d-8553-4ef8-bc42-89c61ce352d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>640d29fb-3edb-42ce-baeb-29ff973bf7c0</webElementGuid>
+      <webElementGuid>6d8dedf1-1444-498f-b1cc-86daa5230194</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>rc-tabs-0-tab-documents</value>
-      <webElementGuid>f1434abe-84d8-499a-a1c1-bdbed9f5a56b</webElementGuid>
+      <webElementGuid>ea1da08f-e30a-40fd-8bfa-5d3562f1a00f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>rc-tabs-0-panel-documents</value>
-      <webElementGuid>72d44a5c-f79e-411f-a90a-c082a25bb895</webElementGuid>
+      <webElementGuid>2a497007-4a04-46de-8b80-1bbe961d8b57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Документы</value>
-      <webElementGuid>50e2c1ef-0385-481a-a582-1f1e82c57ad1</webElementGuid>
+      <webElementGuid>90b11be8-b7eb-4b27-a5b3-ad9c968ac83d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,78 +86,14 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;rc-tabs-0-tab-documents&quot;)</value>
-      <webElementGuid>67a5e820-d7d6-4bd2-a188-d3084de93edc</webElementGuid>
+      <webElementGuid>81d1eb8c-7729-49e1-aa29-3ed683c6ba51</webElementGuid>
    </webElementProperties>
-   <webElementXpaths>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//div[@id='rc-tabs-0-tab-documents']</value>
-      <webElementGuid>b2a8e31d-1359-4625-be3e-91350467ff6a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='drawer']/div/div/div/div[2]/div/div/div/div/div/div[3]/div</value>
-      <webElementGuid>a3e3c9f5-1c72-4d48-9064-53e6e644ae2b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Услуги'])[1]/following::div[2]</value>
-      <webElementGuid>01d5b6c6-49ca-430b-8035-97f51f33e594</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Общее'])[1]/following::div[4]</value>
-      <webElementGuid>5a367b56-2fee-4116-a557-736032f5af5d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Дата и время'])[1]/preceding::div[8]</value>
-      <webElementGuid>2da1bc79-887c-436e-912d-4ad10fc4226d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Врач'])[1]/preceding::div[11]</value>
-      <webElementGuid>f4e84775-b07f-45db-b525-1c6909f0f2d9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Документы']/parent::*</value>
-      <webElementGuid>be8756e1-1789-4926-89c1-e15abb109559</webElementGuid>
-   </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div[2]/div/div/div/div/div/div[3]/div</value>
-      <webElementGuid>790b3e35-7b13-4f57-8030-85f8df098899</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[@id = 'rc-tabs-0-tab-documents' and (text() = 'Документы' or . = 'Документы')]</value>
-      <webElementGuid>5daf1682-5a1f-442c-8bdf-1a8ee666b310</webElementGuid>
+      <value></value>
+      <webElementGuid>35c8ff9c-0005-48f1-ad29-c51285c58d11</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

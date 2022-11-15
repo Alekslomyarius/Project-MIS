@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='drawer']/div[2]/div/div/div[2]/div[2]/div/div/div/div/div/div/div/div/input</value>
+         <value>/html/body/div[3]/div[2]/div/div/div[2]/div[1]/div[2]/div/div[1]/div/div/div/div[1]/div[2]/div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c9b8c861-8b4e-4851-9e89-cfdd657bc082</webElementGuid>
+      <webElementGuid>9ab99ed1-77d7-43fc-bba4-a8732df534ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>3394011a-e51f-490e-912d-f50a74eac297</webElementGuid>
+      <webElementGuid>8ae6e76a-0c46-4f25-9400-5f167091551d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>6f0816b9-0fdb-49ad-b044-ec7237d71215</webElementGuid>
+      <webElementGuid>d06f0cde-0efe-4a0c-b05a-6329f284e64d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>0cdb7bd1-2c62-4a69-9867-a90fe3b0e57f</webElementGuid>
+      <webElementGuid>14781a55-79ec-4275-8846-d937a8a2c924</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>react-select-16-input</value>
-      <webElementGuid>323537e2-e50e-4f5b-ab84-9256d6dbabc1</webElementGuid>
+      <webElementGuid>5b2e52ee-2a7b-40e4-ab3d-47f477461497</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2073ab79-33dd-4802-9e89-68030e8d0267</webElementGuid>
+      <webElementGuid>2c73d498-a413-479f-9f5e-c019c6a3655a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>d55c3f8d-b5d6-4793-b385-5484d435152a</webElementGuid>
+      <webElementGuid>be3cc6a9-0d30-442d-ab61-495925dc73e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>20ca10f6-3d59-4bab-a8f1-566831d6f2bf</webElementGuid>
+      <webElementGuid>a90a84af-7319-481e-a557-848e843a4433</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>51dd2558-f561-4e96-aef6-b44898ea54f8</webElementGuid>
+      <webElementGuid>ad5039ca-6240-4974-90b7-046866230046</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>value</name>
       <type>Main</type>
       <value>М</value>
-      <webElementGuid>19653504-263b-4558-a11c-452ecb862a6d</webElementGuid>
+      <webElementGuid>561cd604-bca0-4b69-a9f8-eda3b1eb3331</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;react-select-16-input&quot;)</value>
-      <webElementGuid>f5d5e928-55b3-4930-a594-ae4b29bc6333</webElementGuid>
+      <webElementGuid>0e886ebd-a578-4ef0-a06b-bf042d25c01b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='react-select-16-input']</value>
-      <webElementGuid>09d63b93-7161-422a-84cb-3c07130acd70</webElementGuid>
+      <webElementGuid>4d6e9e67-95d2-4a2b-92e9-ff537abcba8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='drawer']/div[2]/div/div/div[2]/div[2]/div/div/div/div/div/div/div/div/input</value>
-      <webElementGuid>34e94d21-b051-4a36-a891-c872075d0c0c</webElementGuid>
+      <webElementGuid>2de3b50d-06f1-4ec9-9c6f-81123b68ba36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div[2]/div/div/div/div/div/div/div/div/input</value>
-      <webElementGuid>446f3d41-d9ab-4b8d-8ad0-a47a7ac0ce1c</webElementGuid>
+      <webElementGuid>d5b4e2e5-057c-433c-9c33-5547b914844c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'react-select-16-input' and @type = 'text']</value>
-      <webElementGuid>d21f2d1d-944a-4ad2-954c-16dfa7fb0646</webElementGuid>
+      <webElementGuid>c37acbe2-6e48-4b1d-be51-4e9fcacdfc2a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

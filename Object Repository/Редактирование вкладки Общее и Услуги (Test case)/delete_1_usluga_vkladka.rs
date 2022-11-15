@@ -6,12 +6,12 @@
    <elementGuidId>5241ed7e-abcb-4b4c-9554-75c3be73efa7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавить услугу'])[1]/following::*[name()='svg'][2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>svg.styles_ico__17O8r.styles_svg__1iCCA</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@class='price' and text()='1 500 ₽']/following-sibling::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>2d609c75-a657-4dc3-8585-0990204429c6</webElementGuid>
+      <webElementGuid>30c91890-d4f4-4267-9083-1584850c3544</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>width</name>
       <type>Main</type>
       <value>30</value>
-      <webElementGuid>9b3c1a70-7c05-4dd5-8a1e-1ef599b67279</webElementGuid>
+      <webElementGuid>d86157e9-8793-4ff3-b7c8-bdf0663216c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>height</name>
       <type>Main</type>
       <value>30</value>
-      <webElementGuid>55986662-d7f5-4341-af0d-9f2d75709dec</webElementGuid>
+      <webElementGuid>9dfa1efa-9399-4e64-b528-02eae65366e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 30 30</value>
-      <webElementGuid>7c5782b0-d464-42f7-950d-738f88ead1c2</webElementGuid>
+      <webElementGuid>4587164d-9855-4be5-814c-16c258727a12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>5e10399f-77da-4ea3-a47e-a917284c82fe</webElementGuid>
+      <webElementGuid>696732a9-aed3-4726-b585-a83a0ec60320</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>2cb5503d-0030-459e-8e26-075d66312da7</webElementGuid>
+      <webElementGuid>8742e57c-94d2-4776-b78c-f35ba0362d2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>styles_ico__17O8r styles_svg__1iCCA</value>
-      <webElementGuid>5f30218c-18aa-44f6-b94f-970f4a69e414</webElementGuid>
+      <webElementGuid>4e231f5c-f398-45d2-85c3-7f8cac9c7082</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,38 +78,38 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__1J0HH&quot;]/div[@class=&quot;styles_wrapper__37S9J&quot;]/div[@class=&quot;styles_container__A8wTi&quot;]/div[@class=&quot;styles_container__2rd2F&quot;]/svg[@class=&quot;styles_ico__17O8r styles_svg__1iCCA&quot;]</value>
-      <webElementGuid>19c267ee-c432-440c-bb95-21ca0922353b</webElementGuid>
+      <webElementGuid>60749e37-5fd6-482d-9b11-39b3fce1252e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавить услугу'])[1]/following::*[name()='svg'][2]</value>
-      <webElementGuid>f7e24838-c88c-4328-951e-17e6c3cbda5c</webElementGuid>
+      <value></value>
+      <webElementGuid>957af7d9-a33d-4219-ae29-21f3ae23bccb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Редактировать'])[1]/following::*[name()='svg'][3]</value>
-      <webElementGuid>95e45a19-2a76-43ad-9832-1aa566558206</webElementGuid>
+      <value></value>
+      <webElementGuid>aa02933c-eb23-49be-ac4d-31fca924055d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Сохранить'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>df168223-f057-4bcd-b80d-4e2922128057</webElementGuid>
+      <value></value>
+      <webElementGuid>872def78-0016-4ff6-aca8-fb588a5cc5b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Отмена'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>66c47cb5-5423-408f-9929-ece57f763a2e</webElementGuid>
+      <value></value>
+      <webElementGuid>a013c96f-ee54-42b4-b618-26b6ede0baad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -36,8 +36,8 @@ WebUI.verifyElementText(findTestObject('Авторизация (Test case)/langu
 'Вводим логин'
 WebUI.setText(findTestObject('Авторизация (Test case)/input_E-mail'), GlobalVariable.Admin_mail)
 
-'Вводим пароль'
-WebUI.setEncryptedText(findTestObject('Авторизация (Test case)/input__password'), 'BA3upiWNJNXY702DodOXug==')
+'Вводим пароль Prod'
+WebUI.setEncryptedText(findTestObject('Авторизация (Test case)/input__password'), GlobalVariable.Admin_password)
 
 'Проверяем, что лого видно'
 WebUI.verifyElementVisible(findTestObject('Object Repository/Авторизация (Test case)/img___logo_in'))
@@ -46,5 +46,5 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/Авторизац�
 WebUI.click(findTestObject('Object Repository/Авторизация (Test case)/button_enter'))
 
 'Проверяем, что совпадает ФИО'
-WebUI.verifyElementText(findTestObject('Object Repository/Авторизация (Test case)/FIO acc'), 'Тестовая клиника Совы')
+WebUI.verifyElementText(findTestObject('Object Repository/Авторизация (Test case)/FIO acc'), GlobalVariable.Name_clinic)
 

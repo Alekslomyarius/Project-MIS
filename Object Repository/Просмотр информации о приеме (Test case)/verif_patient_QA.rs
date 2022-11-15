@@ -6,27 +6,27 @@
    <elementGuidId>535b7bc9-c4e0-4646-bf72-b64a55534644</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.styles_patient__name__11BU0</value>
+         <key>BASIC</key>
+         <value>//span[(text() = '${GlobalVariable.Test_patient_FIO_full}' or . = '${GlobalVariable.Test_patient_FIO_full}')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[(text() = 'QA Avtotest Regressovich' or . = 'QA Avtotest Regressovich')]</value>
+         <value>//span[text()='Avtotest Qa Regressovich']</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = '${GlobalVariable.Test_patient_FIO_full}' or . = '${GlobalVariable.Test_patient_FIO_full}')]</value>
+         <key>CSS</key>
+         <value>span.styles_patient__name__11BU0</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e7cd3e79-0bb0-4cff-a6f7-ae2bc7bb8e1f</webElementGuid>
+      <webElementGuid>9ea43310-fc86-436b-948e-5bf92c4119b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>styles_patient__name__11BU0</value>
-      <webElementGuid>82ddc074-4fb9-4795-8bbe-e55a074ba9e0</webElementGuid>
+      <webElementGuid>42eafcd3-ee71-4e84-b406-f46ad5e7719f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>${GlobalVariable.Test_patient_FIO_full}</value>
-      <webElementGuid>b11988cd-bb4f-4042-bde8-28b16f3db3ae</webElementGuid>
+      <webElementGuid>13776e43-c97d-48e9-a2e5-13ff98ca0001</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__3ivyS&quot;]/div[@class=&quot;styles_container__1zr_3&quot;]/div[@class=&quot;styles_container__2UbMH&quot;]/div[@class=&quot;styles_container__18AaY&quot;]/div[@class=&quot;styles_content__container__1FikG&quot;]/div[@class=&quot;styles_content__1YTzU&quot;]/div[@class=&quot;styles_info__1xIDw&quot;]/span[@class=&quot;styles_patient__name__11BU0&quot;]</value>
-      <webElementGuid>88da4d53-3daf-4743-82b1-0cb12d328456</webElementGuid>
+      <webElementGuid>ed673402-7ec6-44df-a320-dc1f0ecd0ae1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='drawer']/div/div/div/div[2]/div/div[2]/div/div/div[3]/div[2]/span</value>
-      <webElementGuid>101a0077-91a9-48b7-898d-7476a7a1a8bc</webElementGuid>
+      <webElementGuid>d416c6c1-8c2f-487e-baac-79ff80e9c987</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Пациент'])[1]/following::span[1]</value>
-      <webElementGuid>49937af7-a878-4ec2-af1d-7d0b10bf2647</webElementGuid>
+      <webElementGuid>882a8f47-ddb6-4296-bf69-da1d1cfa89bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Врач'])[1]/following::span[1]</value>
-      <webElementGuid>3ef56e62-8490-4c9f-860b-5a4c6f1ee021</webElementGuid>
+      <webElementGuid>5e49f594-1930-4a0e-baee-ba1ee95470e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Цель визита'])[1]/preceding::span[1]</value>
-      <webElementGuid>51c442a4-d64c-4bf3-8dfd-c7a365ac6320</webElementGuid>
+      <webElementGuid>ee8fb0ae-2207-48d8-9890-7290faaa7e3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Начать прием'])[1]/preceding::span[1]</value>
-      <webElementGuid>57d5d235-5c17-4df5-b2ce-b1418e15c127</webElementGuid>
+      <webElementGuid>6349490e-911d-4d4c-a9b2-be2eeb381169</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Avtotest QA Regressovich']/parent::*</value>
-      <webElementGuid>a935ea15-8ff5-4798-b93e-9436cdf36037</webElementGuid>
+      <webElementGuid>7f34bef2-1412-42de-9b32-6e607ca90dbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/span</value>
-      <webElementGuid>6c9f0d3f-746f-4602-9712-0bdcd66e2b51</webElementGuid>
+      <webElementGuid>65581198-3cfa-4351-8699-87f50668aa49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Avtotest QA Regressovich' or . = ' Avtotest QA Regressovich')]</value>
-      <webElementGuid>5e5a4d55-671b-4a09-b460-de37ae37a1d4</webElementGuid>
+      <webElementGuid>d898bee2-0942-4e9f-b1b2-72477f7154af</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

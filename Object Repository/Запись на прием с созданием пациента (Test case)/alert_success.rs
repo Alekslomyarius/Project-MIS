@@ -7,6 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
+         <value>//p[@class ='text' and text()='Успешно']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
          <value>//p[(text() = 'Успешно' or . = 'Успешно')]</value>
       </entry>
       <entry>
@@ -17,12 +21,12 @@
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>b10c60e0-d165-4c86-baf8-3034714ab8c6</webElementGuid>
+      <webElementGuid>7763242c-3801-4d34-a6c8-885481528eb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>7086f929-917a-43a8-838e-6f0842775f31</webElementGuid>
+      <webElementGuid>844c8e2b-57db-49df-af8e-443d4262aa8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Успешно</value>
-      <webElementGuid>6c3d2cf0-8ef7-4390-a162-4f8899b35c9a</webElementGuid>
+      <webElementGuid>f459b197-4d97-41af-8296-4864aab21ed5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[5]/div[@class=&quot;ant-message&quot;]/div[1]/div[@class=&quot;ant-message-notice&quot;]/div[@class=&quot;ant-message-notice-content&quot;]/div[@class=&quot;ant-message-custom-content ant-message-success&quot;]/span[1]/div[@class=&quot;styles_container__3Xmpa&quot;]/p[@class=&quot;text&quot;]</value>
-      <webElementGuid>04c95d21-cf9e-4f09-9c41-21d2e4653550</webElementGuid>
+      <webElementGuid>4cc1ac87-6c5a-4b1c-b675-4609ab09d68c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Специалист'])[1]/following::p[1]</value>
-      <webElementGuid>d3b112b0-9c65-4300-b89f-e8a2013a5096</webElementGuid>
+      <webElementGuid>d94fb345-4456-466b-8559-96c27dfece51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Очистить'])[2]/following::p[1]</value>
-      <webElementGuid>13368f40-759f-43e8-aea3-ddb2eb7194f6</webElementGuid>
+      <webElementGuid>54598c80-9238-4432-accf-93235c8f1d0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Успешно']/parent::*</value>
-      <webElementGuid>bcb58329-04e5-442e-b0ed-65d0da8efb44</webElementGuid>
+      <webElementGuid>5c7d36b3-e0b2-4cdd-9ff1-fdd37870b65d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/div/p</value>
-      <webElementGuid>4b029bf6-84e9-42a2-9dc9-3de4b71d4964</webElementGuid>
+      <webElementGuid>b4f887ef-ddd4-4fa4-b986-b311ff6123eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Успешно' or . = 'Успешно')]</value>
-      <webElementGuid>f0e0aaa1-f083-47cf-be99-ee84a59210c5</webElementGuid>
+      <webElementGuid>5be3fb16-7e22-4e2e-abe9-988c1eb042ab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

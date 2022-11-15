@@ -7,18 +7,18 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*/text()[normalize-space(.)='Отменен']/parent::*</value>
+         <value>//div[text() = 'Отменен']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'Отменен' or . = 'Отменен')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#react-select-26-option-3</value>
       </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//div[@class = ' css-1d0biql-option' and (text() = 'Отменен' or . = 'Отменен')]</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,15 +26,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>98b5ab6c-0b3d-4416-b870-b01b9c267239</webElementGuid>
+      <webElementGuid>3ea0f057-5b9b-45b0-917d-e9e627c66918</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value> css-1d0biql-option</value>
-      <webElementGuid>a9b324f1-80be-4f7a-9861-4352813aea2f</webElementGuid>
+      <webElementGuid>eebea237-ccda-4171-90eb-6929e4afc23f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>react-select-26-option-3</value>
-      <webElementGuid>be671597-a208-4327-8f5b-aaf8ce244e68</webElementGuid>
+      <webElementGuid>52c55be5-48ac-416e-a8e8-1a4399a97259</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>af49f5d1-91e0-4abb-b10d-5c9c3a2ea633</webElementGuid>
+      <webElementGuid>d505712b-cc97-4bf4-94cb-5fcb57a08a8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Отменен</value>
-      <webElementGuid>ff900346-da48-421e-b04a-1120822685d0</webElementGuid>
+      <webElementGuid>7d817ff2-d1f8-4cf7-ae60-5b5b8f04a2ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;react-select-26-option-3&quot;)</value>
-      <webElementGuid>b5bce81c-afec-47bf-ae23-ec1fd4761600</webElementGuid>
+      <webElementGuid>f42af807-9020-4182-bf15-cc2f0751d83e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='react-select-26-option-3']</value>
-      <webElementGuid>cf9d1ab3-e78d-4831-9943-e79592ac6fa6</webElementGuid>
+      <webElementGuid>71750ba8-6505-496d-8ed0-8deb9a993af5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='drawer']/div/div/div/div[2]/div/div[3]/div/div/div/div[2]/div/div[4]</value>
-      <webElementGuid>24030304-e5af-4be0-b7e3-f23e1a0be205</webElementGuid>
+      <webElementGuid>acf43ca7-4c91-404f-8e14-d6707f5f7d75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Выполнен'])[1]/following::div[1]</value>
-      <webElementGuid>59e872a3-5016-41cf-a76c-2fa51b4855b1</webElementGuid>
+      <webElementGuid>a4848fe5-30e7-41c4-9f8f-9461225e939c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Подтвержден'])[1]/following::div[2]</value>
-      <webElementGuid>69e3749c-f0da-4c72-ba98-d116839678cb</webElementGuid>
+      <webElementGuid>33dbd0f4-5061-4348-a990-2154ad32133c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Редактировать'])[1]/preceding::div[1]</value>
-      <webElementGuid>f67d775e-ec81-49f1-a728-2f4d4e65475c</webElementGuid>
+      <webElementGuid>bf2d6fd8-1799-4dbc-804d-234bae8abc42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Выйти'])[1]/preceding::div[2]</value>
-      <webElementGuid>5fd20a95-e4d6-4cca-8892-37c95543988e</webElementGuid>
+      <webElementGuid>4938c77c-19ef-48c5-b09c-e0af04d15d76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Отменен']/parent::*</value>
-      <webElementGuid>0a49b9fc-bc0e-4d5c-ab34-819b79b1d189</webElementGuid>
+      <webElementGuid>d5155982-2661-4cc4-b0ed-08c860eb086c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[4]</value>
-      <webElementGuid>5896c227-622d-4605-b21f-0e0a88fcd6a0</webElementGuid>
+      <webElementGuid>3c49266a-22de-4130-9998-2d12128c8f06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,6 +138,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'react-select-26-option-3' and (text() = 'Отменен' or . = 'Отменен')]</value>
-      <webElementGuid>ae96e236-7254-4846-9d84-2d1ac877a16c</webElementGuid>
+      <webElementGuid>cafc6865-67d8-42e8-a131-4da49888466b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

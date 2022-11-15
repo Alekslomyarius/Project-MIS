@@ -6,12 +6,12 @@
    <elementGuidId>9aa2ee9a-ff02-4d06-9160-b0dd8277c8fd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.styles_wrapper__37S9J > div.styles_container__1LJOL > p.price</value>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[2]/div/div/div[2]/div[1]/div[3]/p[3]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[3]/div[2]/div/div/div[2]/div[1]/div[2]/p[3]</value>
+         <key>CSS</key>
+         <value>div.styles_wrapper__37S9J > div.styles_container__1LJOL > p.price</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>ab512a72-6e2b-4c16-84cc-4002e576458b</webElementGuid>
+      <webElementGuid>b42c5e98-f655-4ed9-922d-c90a9d6b7526</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>price</value>
-      <webElementGuid>0d2c400d-91fd-44e7-999a-49556ea553cd</webElementGuid>
+      <webElementGuid>51d90dab-d307-4bae-9684-e50860117c23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>200 ₽</value>
-      <webElementGuid>0a13be90-bb74-403e-adf1-00a7279aec2f</webElementGuid>
+      <webElementGuid>d3d0ae40-ff2b-4e89-ad49-4e97c5e9f685</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__1J0HH&quot;]/div[@class=&quot;styles_wrapper__37S9J&quot;]/div[@class=&quot;styles_container__1LJOL&quot;]/p[@class=&quot;price&quot;]</value>
-      <webElementGuid>64207ebd-1f6c-4e9f-9250-bb438baebc45</webElementGuid>
+      <webElementGuid>275d3522-d09c-4e58-b8cc-a74ceb1d4b95</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='drawer']/div[2]/div/div/div[2]/div/div[2]/p[3]</value>
-      <webElementGuid>1775fa67-bdd4-475c-b5b9-72d331b2ee77</webElementGuid>
+      <webElementGuid>f10f79cd-aabe-4e40-816c-c75cb3aea09e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавить услугу'])[1]/following::p[6]</value>
-      <webElementGuid>18f8e337-e107-4c8e-8e7c-e5804ea56f07</webElementGuid>
+      <webElementGuid>a40ad096-7bee-4bf1-b4c5-cb8927b8c4c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Редактировать'])[1]/following::p[7]</value>
-      <webElementGuid>8fa62ea8-be9b-4b9d-acaf-1f4c2acbe8f0</webElementGuid>
+      <webElementGuid>76e51975-12c4-40d5-b003-87d290de049b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Сохранить'])[1]/preceding::p[1]</value>
-      <webElementGuid>6b5d0c92-4a96-4a27-aaef-d6f80a6c9aac</webElementGuid>
+      <webElementGuid>c3ad395c-e542-40a9-88c2-043f4d723308</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Отмена'])[1]/preceding::p[1]</value>
-      <webElementGuid>8e56c67a-2ff7-4780-907a-eb5ab3814df7</webElementGuid>
+      <webElementGuid>42845363-3874-43d5-be99-3b24bee7f9fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,14 +94,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div/div[2]/p[3]</value>
-      <webElementGuid>ff788fed-dd8e-41cf-9426-92d0544a898d</webElementGuid>
+      <webElementGuid>fac67cc6-6949-4fd7-9655-18575c2caa5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//p[(text() = '1 500 ₽' or . = '1 500 ₽')]</value>
-      <webElementGuid>7ec60539-ff6f-46dd-a0fa-ef5fc594bdc8</webElementGuid>
+      <value>//p[(text() = '1 600 ₽' or . = '1 600 ₽')]</value>
+      <webElementGuid>832016a5-24a7-411d-add4-f97c37406128</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

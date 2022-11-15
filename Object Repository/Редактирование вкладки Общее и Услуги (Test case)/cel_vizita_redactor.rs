@@ -6,12 +6,12 @@
    <elementGuidId>60663e99-6ff8-45c6-bf0f-ff70c3be3dab</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='drawer']/div[2]/div/div/div[2]/div[5]/div/textarea</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#ivnlC-9rC41PeJYAJo3jr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[2]/div/div/div[2]/div[1]/div[5]/div/textarea</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>fc687c2b-ec57-4852-ba2d-3d66a0ee2079</webElementGuid>
+      <webElementGuid>8280ca14-f0d4-4f4b-9562-baff4c8996b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>bf592916-5754-4eef-a171-983bf42ba0e9</webElementGuid>
+      <webElementGuid>af0d1d7d-f1ef-491e-8c8d-f22c7e7a0386</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ivnlC-9rC41PeJYAJo3jr</value>
-      <webElementGuid>ed595442-9aa9-4cd9-b29b-de83e36235ea</webElementGuid>
+      <webElementGuid>e32f4026-729b-497d-bb1a-2f43f845a62a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>4e9154aa-ab44-4498-8ca5-269cb7e1146c</webElementGuid>
+      <webElementGuid>1ce6ba9c-1975-40be-b3b8-f30cb6320053</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-input styles_textarea__3FuFL</value>
-      <webElementGuid>6ce0d89c-4569-4ba2-8027-5438e06399f3</webElementGuid>
+      <webElementGuid>5df4babb-a94b-4b22-a547-475cbc7b520a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Автотест. Цель визита редактирование</value>
-      <webElementGuid>306cf388-8227-4e42-9a15-1e39acfd7f9a</webElementGuid>
+      <webElementGuid>20bf26fe-5dcc-4907-966c-49532602c347</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ivnlC-9rC41PeJYAJo3jr&quot;)</value>
-      <webElementGuid>f2f3dc38-e682-4e3d-b442-2010965ac1b8</webElementGuid>
+      <webElementGuid>df244209-649e-43ec-98e4-7a352dc0e4a4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='ivnlC-9rC41PeJYAJo3jr']</value>
-      <webElementGuid>469b8568-7483-4af2-a78f-a18243e269cf</webElementGuid>
+      <webElementGuid>8a995b81-eaeb-409e-b25c-490a5ed9214b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='drawer']/div[2]/div/div/div[2]/div[4]/div/textarea</value>
-      <webElementGuid>1339ce07-5c62-422f-b37f-182fc4b26082</webElementGuid>
+      <webElementGuid>9343b3df-b526-4b8a-8d0c-4684f0e9375f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Другое'])[1]/following::textarea[1]</value>
-      <webElementGuid>a9c21cb3-81bd-4139-b240-8b76bbca83ed</webElementGuid>
+      <webElementGuid>f42c631f-2c95-4817-9a59-51b58a9648d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='По'])[1]/following::textarea[1]</value>
-      <webElementGuid>637ae71c-0fa2-4658-b7af-fec9cd8c8a1a</webElementGuid>
+      <webElementGuid>8ae531bb-a713-41a8-835d-91d7ea9c9b97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Цель визита'])[2]/preceding::textarea[1]</value>
-      <webElementGuid>98a933be-a6b5-4deb-8990-e6f464a29ffb</webElementGuid>
+      <webElementGuid>71f9bba2-b963-439a-b319-f949ec20eb37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Отмена'])[1]/preceding::textarea[1]</value>
-      <webElementGuid>652a25a6-2bdc-432b-80f5-c0025a848389</webElementGuid>
+      <webElementGuid>42e73cb4-4002-485d-870b-a18a1e29f43d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Автотест. Цель визита редактирование']/parent::*</value>
-      <webElementGuid>00dc1b72-2524-4785-a78a-583622263eff</webElementGuid>
+      <webElementGuid>aee15902-8339-43d6-8422-ce58e8fa5332</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>2f50c25c-dc63-4c38-8fc6-e8a780780052</webElementGuid>
+      <webElementGuid>adf8c368-8bbc-4bb6-b0d4-45154a2040bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@id = 'ivnlC-9rC41PeJYAJo3jr' and (text() = 'Автотест. Цель визита редактирование' or . = 'Автотест. Цель визита редактирование')]</value>
-      <webElementGuid>4571b82b-6dc1-40f6-8ea6-d97018e505bf</webElementGuid>
+      <webElementGuid>1a6e4891-463a-41c4-ba54-6226332ef3bc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

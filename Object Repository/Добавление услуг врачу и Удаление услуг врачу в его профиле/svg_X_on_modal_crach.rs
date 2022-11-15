@@ -6,12 +6,12 @@
    <elementGuidId>cd965105-668d-4e3b-bb9e-358b3594b85e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Список услуг пуст'])[1]/preceding::*[name()='svg'][2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>svg.ico.styles_icon__2cPg8</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'styles_content__header__')]//self::*[name()='svg']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>64ff803a-09db-4602-91b0-1baf1fa2ee8e</webElementGuid>
+      <webElementGuid>58e289f3-e926-426b-936c-c345a7bcfad3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 15 15</value>
-      <webElementGuid>a91c2dba-a3ae-4ab3-b79b-64a8c045ebaa</webElementGuid>
+      <webElementGuid>dcd1e443-69a8-42e5-a62c-919591e8871d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>97926834-ed39-40a3-8da5-fcb27ea40c65</webElementGuid>
+      <webElementGuid>ef8f25a1-bdcf-49d9-af9d-fa386b6b1fc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>240fc6fb-f65e-4d9a-9805-dddc4f9b6439</webElementGuid>
+      <webElementGuid>b4af76e2-cd1a-4093-8321-3e428a0f4c46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ico styles_icon__2cPg8</value>
-      <webElementGuid>9e0f8790-8d78-49a7-8371-845cdd5bb20d</webElementGuid>
+      <webElementGuid>7141215e-95dd-4e3f-b331-c0a91672d97b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_content__header__1YvS0&quot;]/svg[@class=&quot;ico styles_icon__2cPg8&quot;]</value>
-      <webElementGuid>f4a10d59-bceb-41e3-91ea-e7862082a869</webElementGuid>
+      <webElementGuid>17f83ae6-6f35-4d81-b2a6-d792a67a19e7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Добавить данные'])[2]/following::*[name()='svg'][3]</value>
-      <webElementGuid>db08ea5e-6d7e-4313-a9ad-bb25b16dc4cd</webElementGuid>
+      <webElementGuid>3df53a14-2733-4d0e-a9b8-e3311487ceb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Услуги'])[2]/following::*[name()='svg'][3]</value>
-      <webElementGuid>8d9769d0-c086-4cf9-928a-9c2f1361140a</webElementGuid>
+      <webElementGuid>9fab54f0-3420-40b0-a959-4db0cad035a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Автотест'])[3]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>382350aa-67cd-4646-9848-b7c1ce9bc293</webElementGuid>
+      <webElementGuid>65102e19-9ad2-4f44-bd04-901ac6c4b4b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Список услуг пуст'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>a917e8a4-5fac-4862-aa43-3dfb16734f46</webElementGuid>
+      <webElementGuid>ec41fa3b-f556-49d1-b203-a7b343c58e9f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -10,11 +10,14 @@
          <value>//p[(text() = 'Create P. Т.' or . = 'Create P. Т.')]</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Create P. Т.' or . = 'Create P. Т.')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>bba340a1-123c-4f57-b27d-538ccc30ab97</webElementGuid>
+      <webElementGuid>5ca18305-9af4-421f-82eb-fa217b4613c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +33,15 @@
       <name>class</name>
       <type>Main</type>
       <value>styles_consultation__patientName__36dQU</value>
-      <webElementGuid>f5ef83cb-5470-4bb0-97a4-4f6269eebacc</webElementGuid>
+      <webElementGuid>dcaa8dae-401b-449b-9870-7c32295ae6c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Create P. Т.</value>
-      <webElementGuid>a6fb030c-95c0-4034-8cf1-e380252ae643</webElementGuid>
+      <value>${GlobalVariable.Test_patient2_abbreviaturoi}</value>
+      <webElementGuid>73b27367-a89c-4b07-aa21-c6e2761dc4f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;styles_list__container__3bBbr&quot;]/div[@class=&quot;styles_appointment__list__d9aOV&quot;]/div[1]/div[@class=&quot;styles_appointmentList__table__1H_PX&quot;]/div[@class=&quot;styles_day__doctors__1b3VR&quot;]/div[@class=&quot;styles_doctor__3Qv0N&quot;]/div[@class=&quot;styles_doctor__times__1enyM&quot;]/div[@class=&quot;styles_day_cell__1DIJw&quot;]/div[@class=&quot;styles_dayCell__a_pPN&quot;]/div[@class=&quot;styles_consult__cell_container__3ib-Y&quot;]/div[@class=&quot;styles_consultation__2XsId&quot;]/p[@class=&quot;styles_consultation__patientName__36dQU&quot;]</value>
-      <webElementGuid>73cb2313-3f9e-48ec-976d-040b6efa8f8d</webElementGuid>
+      <webElementGuid>33dba37d-c342-4955-ba26-1301e27c5e10</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/main/section/div/div[2]/div[2]/div/div/div[2]/div[3]/div[2]/div[2]/div/div/div/p</value>
-      <webElementGuid>128793e8-b102-4a83-83db-1d0e4cebca3c</webElementGuid>
+      <webElementGuid>46a8d1da-de24-4ef1-ae93-da4c67a2c964</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Боевая М. М.'])[1]/following::p[4]</value>
-      <webElementGuid>1acb5fd3-94ef-4911-be7e-e7572301316c</webElementGuid>
+      <webElementGuid>f5d34a25-c25d-49bc-b3ee-7f2d08c03a35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Абульев С. В.'])[1]/following::p[5]</value>
-      <webElementGuid>03cdbe54-2d07-4fc8-b5ed-3ee530e1b571</webElementGuid>
+      <webElementGuid>ff29db85-9394-4566-99f9-cb5b7dfab0e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Доктор А. М.'])[1]/preceding::p[2]</value>
-      <webElementGuid>7d96b615-e08d-471a-abde-b24b47bb49f7</webElementGuid>
+      <webElementGuid>2ee98590-1d0d-461f-9370-cccac1dbeb4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Доктор П. П.'])[1]/preceding::p[3]</value>
-      <webElementGuid>93ac1cb1-eed2-4efe-85cf-73a41d0b255c</webElementGuid>
+      <webElementGuid>8d9c83c3-f52f-485e-b1de-158e523248f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Create P. Т.']/parent::*</value>
-      <webElementGuid>efcd917a-fd34-4976-a58b-8b8404b48d08</webElementGuid>
+      <webElementGuid>e3fc433a-09ca-409f-9c1f-3ca71506cfe6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +105,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/p</value>
-      <webElementGuid>51452375-c1db-4d11-8a3c-eedfbc5f28fc</webElementGuid>
+      <webElementGuid>a0b9d608-d742-4016-86e9-f4b501f73cb6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +113,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Create P. Т.' or . = 'Create P. Т.')]</value>
-      <webElementGuid>fa36d07c-f461-4cc6-97af-b0c9c3ed814c</webElementGuid>
+      <webElementGuid>ce9d0a3e-4995-4ef3-a433-1b261bda8a3d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

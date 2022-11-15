@@ -6,12 +6,12 @@
    <elementGuidId>a2d85cb9-38c0-4c29-ac71-ced8c3aef415</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[(text() = 'Назначить' or . = 'Назначить')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.ant-btn.ant-btn-primary.ant-btn-lg.styles_button__3pqej.styles_large__1J0A5.styles_primary__2Afkd.styles_button__1OfyD > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Назначить' or . = 'Назначить')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>9d70adec-dd82-48fe-97fc-67324b11bed1</webElementGuid>
+      <webElementGuid>73cdc90a-9eeb-4607-92bb-279c934ce30a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Назначить</value>
-      <webElementGuid>3eb157ad-5465-4ad4-86da-d21d4b1915fc</webElementGuid>
+      <webElementGuid>9398dbbb-b6c1-4188-8dca-f968935a27bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/form[@class=&quot;styles_container__2kCJE&quot;]/div[@class=&quot;actions__container&quot;]/div[@class=&quot;styles_actions__3Oxx_&quot;]/button[@class=&quot;ant-btn ant-btn-primary ant-btn-lg styles_button__3pqej styles_large__1J0A5 styles_primary__2Afkd styles_button__1OfyD&quot;]/span[1]</value>
-      <webElementGuid>05e4aad1-c6c9-4bab-a42a-26707770dc4b</webElementGuid>
+      <webElementGuid>f7f30930-1731-4e5b-a5eb-4fcff24106b2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='drawer']/div/div/div/form/div[2]/div/button/span</value>
-      <webElementGuid>bb896bf8-800e-461d-8aa7-421413edd9e2</webElementGuid>
+      <webElementGuid>b2e590e1-1c10-420b-8498-1a8209ce6fd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Подтвержден'])[1]/following::span[2]</value>
-      <webElementGuid>160a6499-83ac-441e-ad32-d3f7362d8a0c</webElementGuid>
+      <webElementGuid>a967fd1d-28d2-4aa4-9acc-827f6b4a54cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавить услугу'])[1]/following::span[4]</value>
-      <webElementGuid>bf6fffc4-3ed5-46d0-bff4-26a280216918</webElementGuid>
+      <webElementGuid>45b44c74-43ad-4749-bf7e-7990ad4ae430</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Назначить']/parent::*</value>
-      <webElementGuid>9b47569c-747e-43c4-9ae5-90d3e96296c0</webElementGuid>
+      <webElementGuid>a7964036-518d-4814-8188-5f860eb9367f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/span</value>
-      <webElementGuid>091b2c62-74c0-4f29-a8eb-f7b51b48f053</webElementGuid>
+      <webElementGuid>da375c49-a151-46e0-800c-3da2f1af6869</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Назначить' or . = 'Назначить')]</value>
-      <webElementGuid>f835a5fa-77ff-4f84-95a8-5c4717823fba</webElementGuid>
+      <webElementGuid>3c07c652-7229-4960-93b7-75547a81933f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

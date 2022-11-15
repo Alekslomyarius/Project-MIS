@@ -6,12 +6,17 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
+      <initValue>'Тестовая клиника Совы'</initValue>
+      <name>Name_clinic</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
       <initValue>'Savin.qa@yandex.ru'</initValue>
       <name>Admin_mail</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'t7q3q4l8n8'</initValue>
+      <initValue>'BA3upiWNJNXY702DodOXug=='</initValue>
       <name>Admin_password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -36,13 +41,18 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Avtotest QA Regressovich'</initValue>
+      <initValue>'Avtotest Qa Regressovich'</initValue>
       <name>Test_patient_FIO_full</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'AvtotestQA@mail.ru'</initValue>
       <name>Test_email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Avtotest Q. R.'</initValue>
+      <name>Test_patient_abbreviaturoi</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
@@ -81,8 +91,13 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Create Patient Тестович In card'</initValue>
+      <initValue>'Create Patient Тестович In Card'</initValue>
       <name>Test_patient2_FIO_full</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Create P. Т.'</initValue>
+      <name>Test_patient2_abbreviaturoi</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>

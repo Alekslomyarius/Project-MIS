@@ -6,16 +6,16 @@
    <elementGuidId>b9d2c36c-fd85-4229-9ecd-300b4df1cafb</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '${GlobalVariable.Test_patient2_FIO_full}' or . = '${GlobalVariable.Test_patient2_FIO_full}')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//span[(text() = 'Patient Create Тестович In card' or . = 'Patient Create Тестович In card')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>span.styles_patient__name__11BU0</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = '${GlobalVariable.Test_patient2_FIO_full}' or . = '${GlobalVariable.Test_patient2_FIO_full}')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>239584f6-2063-4bfd-813b-315db603506a</webElementGuid>
+      <webElementGuid>d1408238-2df6-4bc9-8557-022003a2b3a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>styles_patient__name__11BU0</value>
-      <webElementGuid>540e2373-b1fa-4fc8-a871-31b712f0678f</webElementGuid>
+      <webElementGuid>0bfd36ca-d468-44fb-a26b-77548e7af926</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>${GlobalVariable.Test_patient2_FIO_full}</value>
-      <webElementGuid>a05df8b0-72f9-429b-bf0a-7a5081e4d4b7</webElementGuid>
+      <webElementGuid>29a657c8-53a3-4993-b463-047fd8821083</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__3ivyS&quot;]/div[@class=&quot;styles_container__1zr_3&quot;]/div[@class=&quot;styles_container__2UbMH&quot;]/div[@class=&quot;styles_container__18AaY&quot;]/div[@class=&quot;styles_content__container__1FikG&quot;]/div[@class=&quot;styles_content__1YTzU&quot;]/div[@class=&quot;styles_info__1xIDw&quot;]/span[@class=&quot;styles_patient__name__11BU0&quot;]</value>
-      <webElementGuid>e64d6181-78da-4721-8dc2-4604bbe817d4</webElementGuid>
+      <webElementGuid>05c616cf-8692-409f-9889-8b4ad2739872</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='drawer']/div/div/div/div[2]/div/div[2]/div/div/div[3]/div[2]/span</value>
-      <webElementGuid>8598d782-fe49-415e-8ff7-9ebd5b6d0122</webElementGuid>
+      <webElementGuid>958f51ed-3f2b-4f87-bc54-e32a3ba14751</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Пациент'])[1]/following::span[1]</value>
-      <webElementGuid>a664fb5a-72fb-4485-8484-0200534542b6</webElementGuid>
+      <webElementGuid>cf126b43-817a-4744-8b21-f542ec71fce9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Врач'])[1]/following::span[1]</value>
-      <webElementGuid>f8e0f322-7fb6-459c-b6e4-f4f3b8cd94a0</webElementGuid>
+      <webElementGuid>de0b55d0-2a40-4493-a1d7-29118b2c82f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Цель визита'])[1]/preceding::span[2]</value>
-      <webElementGuid>83cfaf7b-f70c-4149-a57f-0eb8bc303838</webElementGuid>
+      <webElementGuid>fd9165e4-883b-469d-ad64-5de939a51656</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Начать прием'])[1]/preceding::span[2]</value>
-      <webElementGuid>4bbc2f2a-4af9-4157-a1ad-2304ced299eb</webElementGuid>
+      <webElementGuid>a718d775-b458-435f-bf35-bed307ec2ef3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Patient Create Тестович In card']/parent::*</value>
-      <webElementGuid>3ac84584-dced-4eca-b334-190f325098c8</webElementGuid>
+      <webElementGuid>a4266e65-d51e-4a67-a365-0fb8d2f5e985</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/span</value>
-      <webElementGuid>f58f3143-0332-4f0b-b95b-6310cb1c8a6f</webElementGuid>
+      <webElementGuid>2f56dbe0-9fe1-4c90-b8ce-1fb2b5960669</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Patient Create Тестович In card' or . = 'Patient Create Тестович In card')]</value>
-      <webElementGuid>61f61c8e-5c32-484e-9201-7e98e3471b53</webElementGuid>
+      <webElementGuid>1db6a6d7-5f4a-402b-bef8-be4d802c7312</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

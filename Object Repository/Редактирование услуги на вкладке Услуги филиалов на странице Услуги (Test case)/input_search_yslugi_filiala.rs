@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/div[2]/main/section/div/div[3]/div[2]/div/div/div/div[2]/input</value>
+         <value>//div[contains(@class, 'style_searchInput')]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a9fe48df-3fe6-4081-aabe-e2b44c28f601</webElementGuid>
+      <webElementGuid>c0c03ec8-6ab3-4360-9670-5f0e0f9e43be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>cc4173fd-311d-4716-a089-b474b3edd1b5</webElementGuid>
+      <webElementGuid>bf75b33d-e770-4b35-a626-4d40e05b0b95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Поиск</value>
-      <webElementGuid>c117b510-aec9-41de-901a-0c19fc63cc9a</webElementGuid>
+      <webElementGuid>fd0dae6f-e68e-4a5d-a15c-047d593e9e59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Q</value>
-      <webElementGuid>fae58465-5739-4d99-b0a1-07c1cd3d1961</webElementGuid>
+      <webElementGuid>e9cbb4ee-a9b0-4104-b3b0-0e26f6bd34ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;styles_container__1bWbk&quot;]/div[@class=&quot;styles_container__2d1pT&quot;]/div[@class=&quot;content__container&quot;]/div[1]/div[@class=&quot;style_searcherWrapper__2AM9Y&quot;]/div[@class=&quot;style_searchContainer__2NR0t&quot;]/div[@class=&quot;style_searchInput__3iwOf&quot;]/input[1]</value>
-      <webElementGuid>8d66782d-cf9a-4db5-819f-a08dd4b58a65</webElementGuid>
+      <webElementGuid>5d65dc04-402c-4ea2-a922-be307557de0b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='Q']</value>
-      <webElementGuid>aa811e5b-c91e-4a99-b085-5734d741b867</webElementGuid>
+      <webElementGuid>d8d3b0e6-55a4-4d73-841e-7a6826363300</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/main/section/div/div[3]/div[2]/div/div/div/div[2]/input</value>
-      <webElementGuid>2044d1d5-65ea-4770-a89b-1be6e4e56033</webElementGuid>
+      <webElementGuid>90bed6a7-0f06-4280-aa8e-d6e7789f89da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>3e509a61-81bd-4e57-a844-0901d88df451</webElementGuid>
+      <webElementGuid>05ba5c52-a7c9-49b5-98cf-2ffbdef55464</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'search' and @placeholder = 'Поиск']</value>
-      <webElementGuid>1dfc791a-f1a8-4ad0-8dbd-eb07a869612f</webElementGuid>
+      <webElementGuid>ff198336-7cdc-433f-83ef-071910c14297</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
