@@ -70,7 +70,7 @@ for (def index : (0..1)) {
     WebUI.click(findTestObject('Object Repository/Отмена приема (Test case)/tab_yes_otmena_priema'))
 
     'Закрыть модальное окно'
-    WebUI.click(findTestObject('Object Repository/Отмена приема (Test case)/svg__X_tab'))
+    WebUI.click(findTestObject('Object Repository/Отмена приема (Test case)/svg__X_tab_info_o_prieme'))
 
     'Выбор ячейки в расписании'
     WebUI.click(findTestObject('Object Repository/Отмена приема (Test case)/tab_priem_in_timtable', [('Priem') : Priem]))
@@ -80,7 +80,7 @@ for (def index : (0..1)) {
         'Запись на прием')
 
     'Закрыть модальное окно'
-    WebUI.click(findTestObject('Object Repository/Отмена приема (Test case)/svg__X_tab'))
+    WebUI.click(findTestObject('Отмена приема (Test case)/svg__X_tab_zapis_on_priem'))
 }
 
 WebUI.closeBrowser()

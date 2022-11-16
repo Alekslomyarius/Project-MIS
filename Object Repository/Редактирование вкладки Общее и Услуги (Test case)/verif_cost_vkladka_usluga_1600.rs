@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>verif_cost_vkladka_usluga</name>
+   <name>verif_cost_vkladka_usluga_1600</name>
    <tag></tag>
    <elementGuidId>bcb67b40-25bb-4946-8c89-1e6da389a279</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>p.styles_price__EcoRu</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//p[(text() = '1 600 ₽' or . = '1 600 ₽')]</value>
@@ -16,6 +12,10 @@
       <entry>
          <key>BASIC</key>
          <value>//*[(text() = '1 600 ₽' or . = '1 600 ₽')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.styles_price__EcoRu</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

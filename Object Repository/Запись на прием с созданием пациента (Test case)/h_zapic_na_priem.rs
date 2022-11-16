@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//p[(text() = 'Запись на прием' or . = 'Запись на прием')]</value>
+         <value>//p[text() = 'Запись на прием']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>b7013569-943e-47eb-ae8a-f022966c03b2</webElementGuid>
+      <webElementGuid>caf83ffa-8458-456a-b5c3-557c8c208c63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>styles_content__header_title__8n163</value>
-      <webElementGuid>5fd1bec1-a57c-41d2-b30a-d70b812be836</webElementGuid>
+      <webElementGuid>6212d639-643d-4c1a-b2d7-92bab45efaf7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Запись на прием</value>
-      <webElementGuid>0e408707-75e3-4263-9c37-fe62ec3107ac</webElementGuid>
+      <webElementGuid>5a89b816-e587-474e-93d1-a4b31f1aa775</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_content__header__1YvS0&quot;]/p[@class=&quot;styles_content__header_title__8n163&quot;]</value>
-      <webElementGuid>45c0c75e-2094-4082-93e7-34b28de73748</webElementGuid>
+      <webElementGuid>7ee5b8be-ee95-40cf-84a2-51fc49e12603</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='drawer']/div/div/div/div/p</value>
-      <webElementGuid>4148cc3f-f788-4f3b-9828-de1a41f4beb1</webElementGuid>
+      <webElementGuid>61e69c36-5b57-485d-a733-5e39240857e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='✖'])[1]/following::p[1]</value>
-      <webElementGuid>9b70cdce-3228-49a9-9b54-70f323b38b47</webElementGuid>
+      <webElementGuid>4d8c9825-e431-4be5-a39a-4bd8de5cf62e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Машина М. Б.'])[2]/following::p[1]</value>
-      <webElementGuid>7bd0a666-984a-484e-be0e-d687d4bf3028</webElementGuid>
+      <webElementGuid>411a3e7e-d0e8-470f-b829-1a92db6afa01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Данные пациента'])[1]/preceding::p[1]</value>
-      <webElementGuid>068d66d0-27a0-41a6-9813-f3aaf12a0f7c</webElementGuid>
+      <webElementGuid>80225e22-c38d-4599-806f-d9ce7ac2ecf0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Фамилия или номер телефона'])[1]/preceding::p[1]</value>
-      <webElementGuid>9f0d9a6a-2229-4ca8-b5fc-9a9f7bd3299b</webElementGuid>
+      <webElementGuid>8e7230c1-5f15-4ce1-a199-55fcdfdfb7f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Запись на прием']/parent::*</value>
-      <webElementGuid>79ab8aa5-deb1-444b-a161-5ae9bc61c18b</webElementGuid>
+      <webElementGuid>50526bf3-8ab3-4997-8946-6a599207ae58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/div/p</value>
-      <webElementGuid>9ab7df67-7d39-44af-9d56-a0fa0a6960ad</webElementGuid>
+      <webElementGuid>f5e3de5f-15b6-4a82-bd8d-aa2906e28e2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Запись на прием' or . = 'Запись на прием')]</value>
-      <webElementGuid>985ef335-1970-4f41-bab1-6fc17639c7fa</webElementGuid>
+      <webElementGuid>0d4c621c-567e-46d9-b76d-1124635e6d11</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

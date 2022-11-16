@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//p[(text() = 'Успешно' or . = 'Успешно')]</value>
+         <value>//p[text() = 'Успешно']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>46dd5773-5d10-47cf-b2c3-fff7ed3ac350</webElementGuid>
+      <webElementGuid>e3578d08-eeda-40ff-aade-96a421258247</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>803a1897-edba-4a46-92b6-e25963e7a59c</webElementGuid>
+      <webElementGuid>25ff93f1-42d7-48e3-8d9d-8e15a4d83c2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Успешно</value>
-      <webElementGuid>56139ead-12d5-484a-ab42-06854df43c3d</webElementGuid>
+      <webElementGuid>b970e2dd-b7e4-4bef-9d9e-d3f9fba0428d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[5]/div[@class=&quot;ant-message&quot;]/div[1]/div[@class=&quot;ant-message-notice&quot;]/div[@class=&quot;ant-message-notice-content&quot;]/div[@class=&quot;ant-message-custom-content ant-message-success&quot;]/span[1]/div[@class=&quot;styles_container__3Xmpa&quot;]/p[@class=&quot;text&quot;]</value>
-      <webElementGuid>9707e38d-7518-4db4-b706-85824b1e7019</webElementGuid>
+      <webElementGuid>04a9ceb0-7e4c-4233-b317-a2fa4d4b3a14</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Специалист'])[1]/following::p[1]</value>
-      <webElementGuid>093a7965-67b0-4da0-8478-c84e44df3dda</webElementGuid>
+      <webElementGuid>e0f02f83-02f4-4eb2-b99c-1ef99acfe559</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Очистить'])[2]/following::p[1]</value>
-      <webElementGuid>7ff43b44-b226-4dc8-acf0-96ccd77ac1a5</webElementGuid>
+      <webElementGuid>3f4fb2a1-b529-45c0-8451-69da5b2cba35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Успешно']/parent::*</value>
-      <webElementGuid>67cdeb15-3294-467d-a46e-125cc71dca69</webElementGuid>
+      <webElementGuid>0dfebe96-a782-4eac-bdfe-23e60e4916f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/div/p</value>
-      <webElementGuid>539296ca-a504-4427-87c1-baa3a60596f2</webElementGuid>
+      <webElementGuid>88e74683-b5c0-415e-b31a-483a5e38991a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Успешно' or . = 'Успешно')]</value>
-      <webElementGuid>bbb418ff-b0cb-4945-8207-48a97ff82088</webElementGuid>
+      <webElementGuid>6179de67-8075-476c-8d34-de832589afc3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

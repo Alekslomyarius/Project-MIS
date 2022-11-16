@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>svg__X_piktogramma_close</name>
+   <name>svg__X_tab_zapis_on_priem</name>
    <tag></tag>
-   <elementGuidId>f3a975fd-e4ff-43f1-9ae7-3250bf2270d0</elementGuidId>
+   <elementGuidId>d4629f4d-f175-49a6-b8b6-0a7db88c6dd0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//p[contains(@class, 'styles_content__header_title') and text()='Информация о приеме']//following-sibling::*[name()='svg'][1]</value>
+         <value>//p[contains(@class, 'styles_content__header_title') and text()='Запись на прием']//following-sibling::*[name()='svg'][1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>svg.ico.styles_icon__2cPg8</value>
+         <value>svg.styles_ico__17O8r.styles_icon__2cPg8</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>a68ba636-ac6a-40b6-906a-9f3802ea3091</webElementGuid>
+      <webElementGuid>0e5370a0-b843-448a-8d82-03619bf0f1d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 15 15</value>
-      <webElementGuid>228c3fe3-e6b3-48e6-a7c4-15f25358507e</webElementGuid>
+      <webElementGuid>235ff078-dce5-4cc1-94b5-5715ef82534b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>1e8e8df9-dacd-4b10-9a12-560c835b86e1</webElementGuid>
+      <webElementGuid>8a569baa-32bc-49f5-b6c4-5ef6462f696a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,54 +46,54 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>5b0cb76e-7ce6-46b8-91ee-3ba0bce9dd7e</webElementGuid>
+      <webElementGuid>d920328b-d421-4453-83ed-bbbead7029fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ico styles_icon__2cPg8</value>
-      <webElementGuid>65fc0f0d-94c8-4c07-8d27-4d685806a08b</webElementGuid>
+      <value>styles_ico__17O8r styles_icon__2cPg8</value>
+      <webElementGuid>acaab6be-9912-471e-bb46-04750f05f582</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_content__header__1YvS0&quot;]/svg[@class=&quot;ico styles_icon__2cPg8&quot;]</value>
-      <webElementGuid>31c949e3-be94-402a-bf65-4b80f2658859</webElementGuid>
+      <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_content__header__1YvS0&quot;]/svg[@class=&quot;styles_ico__17O8r styles_icon__2cPg8&quot;]</value>
+      <webElementGuid>03d196aa-548d-45ad-bdfc-ac4dbfe51f82</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Специалист'])[1]/following::*[name()='svg'][3]</value>
-      <webElementGuid>b702e227-c4e6-4677-9a4e-3469392be650</webElementGuid>
+      <value></value>
+      <webElementGuid>0dea6bdd-68f3-4b5e-9eaf-27b86440279e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Очистить'])[2]/following::*[name()='svg'][3]</value>
-      <webElementGuid>6772940f-a357-4424-82c6-020349bbcc3a</webElementGuid>
+      <value></value>
+      <webElementGuid>900c5795-299d-4a7e-b937-17a173f87c69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Общее'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>a67a3153-2e8d-432f-a7ef-9831134c045b</webElementGuid>
+      <value></value>
+      <webElementGuid>e683b753-8af4-4b4f-a532-ff4b0e8c48bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Услуги'])[2]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>45100bfb-3b40-427f-9736-7b5281ebaa16</webElementGuid>
+      <value></value>
+      <webElementGuid>7dd2647c-f63a-4764-985b-f368d9e4db0d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

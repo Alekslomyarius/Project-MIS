@@ -67,7 +67,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Редактирова
     'Тестовая услуга два')
 
 'Проверка цены услуги'
-WebUI.verifyElementText(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/verif_cost_vkladka_usluga'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/verif_cost_vkladka_usluga_1600'), 
     '1 600 ₽')
 
 'Проверка второй услуги'
@@ -109,7 +109,7 @@ not_run: WebUI.verifyElementNotPresent(findTestObject('Object Repository/Ред�
     0)
 
 'Проверка что сумма изменилась'
-WebUI.verifyElementText(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/Verif_200_cost_usluga_vkladka_200'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/Verif_summ_cost_usluga_vkladka_1600'), 
     '1 600 ₽')
 
 'Открытие мультиселекта'
@@ -155,7 +155,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Редактирова
     'Успешно')
 
 'Проверка, что сумма верная'
-WebUI.verifyElementText(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/Verif_all_summ_600'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/Verif_all_summ_3100'), 
     '3 100 ₽')
 
 WebUI.closeBrowser()

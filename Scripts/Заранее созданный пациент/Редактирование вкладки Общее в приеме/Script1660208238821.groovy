@@ -150,11 +150,11 @@ WebUI.click(findTestObject('Редактирование вкладки Обще
 'Увеличивает прием на 5 минут'
 WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/button_plus_minute'))
 
-'Выделяет первый таб со свободные временем'
+'Выделяет таб со свободные временем'
 WebUI.scrollToElement(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/button_first_time_in_kalendar'), 
     0)
 
-'Выделяет первый таб со свободные временем'
+'Выделяет таб со свободные временем'
 WebUI.click(findTestObject('Object Repository/Редактирование вкладки Общее и Услуги (Test case)/button_first_time_in_kalendar'))
 
 'Кнопка сохранить'

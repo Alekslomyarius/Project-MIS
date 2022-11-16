@@ -6,12 +6,12 @@
    <elementGuidId>1d101157-a978-4530-9bda-4d2c2856991c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.styles_time_button__s6QKa.styles_active__K9hl1</value>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and text() = '19:00']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@type = 'button' and text() = '08:00']</value>
+         <key>CSS</key>
+         <value>button.styles_time_button__s6QKa.styles_active__K9hl1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>af5fd39e-8526-47e7-a321-4588fb46b9c8</webElementGuid>
+      <webElementGuid>1d7936f4-d935-415b-8cd1-587598f2b346</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>styles_time_button__s6QKa styles_active__K9hl1</value>
-      <webElementGuid>135d05e1-75c0-47ae-94ee-c517f597df4d</webElementGuid>
+      <webElementGuid>1f43ec18-8e91-4a63-8b23-18f440c40ba1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d2ad464e-1710-4e60-b7be-4f1cf389a9b8</webElementGuid>
+      <webElementGuid>322fe531-bbc8-41b8-bab5-d23963ffb8cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>08:00</value>
-      <webElementGuid>5b365f6d-f9f9-4466-9ce8-dca126feb631</webElementGuid>
+      <webElementGuid>80841d3e-9e07-4e81-a75c-e3607df4b9aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__2wFx3&quot;]/div[@class=&quot;styles_content_container__3lD53&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;styles_container__2m6Fl&quot;]/div[@class=&quot;styles_container__1H_Vn&quot;]/div[@class=&quot;styles_hours_list__11YBr&quot;]/button[@class=&quot;styles_time_button__s6QKa styles_active__K9hl1&quot;]</value>
-      <webElementGuid>fa56fac6-7ec6-4794-9fe7-1a53187dfccb</webElementGuid>
+      <webElementGuid>e5e6a144-ebff-4e4b-8d3f-e324b17d7be5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>6e3d2129-fdf3-4956-81db-96e81a313a35</webElementGuid>
+      <webElementGuid>e6724ca4-219f-4da2-99f9-972d30a1e3ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>84fa64e3-6c82-4463-9897-d339df2eff93</webElementGuid>
+      <webElementGuid>b1e65ab5-b8e6-4bba-a685-0d7c2b025590</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>ac6d2112-c2c2-42eb-b05f-70506f1acf69</webElementGuid>
+      <webElementGuid>33097e37-a219-4637-ad4a-c5371a480c6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>ed207814-7b95-41fa-af78-28eac0b3e539</webElementGuid>
+      <webElementGuid>a5647895-b117-4f56-94d2-5e365839aca3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

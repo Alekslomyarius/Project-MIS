@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Verif_all_summ_600</name>
+   <name>Verif_summ_cost_usluga_vkladka_1600</name>
    <tag></tag>
-   <elementGuidId>08460b8d-0963-4e0c-893d-a90c2117d447</elementGuidId>
+   <elementGuidId>9aa2ee9a-ff02-4d06-9160-b0dd8277c8fd</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[contains(@class, styles_content__header_title) and text()='Редактировать услуги']/following::p[contains(@class, 'styles_title') and text() = 'Итого']/following::p[@class='price']</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>div.styles_wrapper__37S9J > div.styles_container__1LJOL > p.price</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//p[(text() = '3 100 ₽' or . = '3 100 ₽')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>7a07d46f-44aa-443f-b638-9e76fb28d420</webElementGuid>
+      <webElementGuid>8c571209-a66e-4326-aee8-ee3ba138163b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>price</value>
-      <webElementGuid>2c64efc7-0f8a-494c-b36b-4eadd95a6686</webElementGuid>
+      <webElementGuid>0d77f811-c001-4863-9d42-60d3c4af4c47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>600 ₽</value>
-      <webElementGuid>c08a50c0-dcdd-4971-8bc8-69a0cc36f699</webElementGuid>
+      <value>200 ₽</value>
+      <webElementGuid>508397b3-69c9-448d-9351-a7cec27f00c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__1J0HH&quot;]/div[@class=&quot;styles_wrapper__37S9J&quot;]/div[@class=&quot;styles_container__1LJOL&quot;]/p[@class=&quot;price&quot;]</value>
-      <webElementGuid>d0525d29-11b9-462c-b2d8-98d7bb8ad022</webElementGuid>
+      <webElementGuid>d3c0cebb-e643-4dd8-9ebd-5d9f8d077605</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,62 +54,54 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='drawer']/div[2]/div/div/div[2]/div/div[2]/p[3]</value>
-      <webElementGuid>d5d3c13c-dde7-4ad3-b9a0-7997742c3f66</webElementGuid>
+      <webElementGuid>0502bba4-1ab1-4acb-8e08-2961a2d6ee71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавить услугу'])[1]/following::p[9]</value>
-      <webElementGuid>f847e0cd-5caa-4aa4-add3-3ebb32cfb9b5</webElementGuid>
+      <value></value>
+      <webElementGuid>9c79ea69-8d14-4c83-8491-2cb19f5b6a62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Редактировать'])[1]/following::p[10]</value>
-      <webElementGuid>db370986-175b-4226-b8cb-fb9c93986ac0</webElementGuid>
+      <value></value>
+      <webElementGuid>1ab8d944-5191-43dd-a5f1-855cc53b5f9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Сохранить'])[1]/preceding::p[1]</value>
-      <webElementGuid>9feff12e-8744-4dfe-b41f-132e467facbd</webElementGuid>
+      <value></value>
+      <webElementGuid>70f7d5dc-7e63-4e44-952a-222a6021512b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Отмена'])[1]/preceding::p[1]</value>
-      <webElementGuid>47aa57c4-a78b-4e5d-8c16-42e180bbf95a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='600 ₽']/parent::*</value>
-      <webElementGuid>e14fbc2b-b8f1-446a-b8dc-647515fe1db1</webElementGuid>
+      <value></value>
+      <webElementGuid>68c7583b-3b1c-4e6a-9bb1-1de6ffd61697</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div[2]/div/div[2]/p[3]</value>
-      <webElementGuid>46e80f57-e484-4242-b503-09254ce93f43</webElementGuid>
+      <value></value>
+      <webElementGuid>c14f1fbd-2c1b-4b2a-bef5-0f86141905eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//p[(text() = '600 ₽' or . = '600 ₽')]</value>
-      <webElementGuid>0215d509-71fe-480c-98e2-fc1bb3032923</webElementGuid>
+      <value></value>
+      <webElementGuid>0914906d-46af-43bb-a83c-117ee734297b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

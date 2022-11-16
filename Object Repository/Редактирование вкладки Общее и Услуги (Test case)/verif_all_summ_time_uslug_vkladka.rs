@@ -6,12 +6,12 @@
    <elementGuidId>56de4ec8-e617-44e2-93c2-13b5d15e4671</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.styles_wrapper__37S9J > div.styles_container__1LJOL > p.duration</value>
+         <key>XPATH</key>
+         <value>//p[contains(@class, styles_content__header_title) and text()='Редактировать услуги']/following::p[contains(@class, 'styles_title') and text() = 'Итого']/following::p[@class='duration' and .='70 мин.']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//p[(text() = '70 мин.' or . = '70 мин.')]</value>
+         <key>CSS</key>
+         <value>div.styles_wrapper__37S9J > div.styles_container__1LJOL > p.duration</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>92415b51-df62-4302-a489-28e27594b98f</webElementGuid>
+      <webElementGuid>dd59ad58-c8e1-4657-8eed-11d39a63007e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>duration</value>
-      <webElementGuid>d5aeef1c-05af-4bcc-bf98-0af978b98237</webElementGuid>
+      <webElementGuid>b3eb8dbc-be42-44bd-ac9f-11b29a8fe95a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>70 мин.</value>
-      <webElementGuid>99feb068-c6bc-4c5d-9bfc-e4d02f65248c</webElementGuid>
+      <webElementGuid>0088c0ca-e45b-43ba-8c47-840d31505473</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__1J0HH&quot;]/div[@class=&quot;styles_wrapper__37S9J&quot;]/div[@class=&quot;styles_container__1LJOL&quot;]/p[@class=&quot;duration&quot;]</value>
-      <webElementGuid>c44aea5e-2f45-404e-9544-7b8bf1ca2966</webElementGuid>
+      <webElementGuid>cf04f8dd-7049-47d8-8bb5-6aa0e8510bfc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='drawer']/div[2]/div/div/div[2]/div/div[2]/p[2]</value>
-      <webElementGuid>279d8da6-78cf-424f-b8c6-3b529b3506f6</webElementGuid>
+      <webElementGuid>7fbcdf33-a919-4c42-b2da-9acf1ad28fd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавить услугу'])[1]/following::p[8]</value>
-      <webElementGuid>e81c3ced-169a-44b2-a708-773d3a565107</webElementGuid>
+      <webElementGuid>b8ff62b4-8f6f-48fb-95f3-88a854d96007</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Редактировать'])[1]/following::p[9]</value>
-      <webElementGuid>19ca5d08-50ba-448f-ad81-8e530bce1c54</webElementGuid>
+      <webElementGuid>fb47686c-f6b8-4b81-9870-45811261edd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Сохранить'])[1]/preceding::p[2]</value>
-      <webElementGuid>2f301c54-9a83-4e6b-9876-84020697b878</webElementGuid>
+      <webElementGuid>7beadc1f-9ec1-4a2c-a607-d6c9a78acffc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Отмена'])[1]/preceding::p[2]</value>
-      <webElementGuid>3440a798-8b33-426d-a576-95416c8e737d</webElementGuid>
+      <webElementGuid>5f3335cf-b31b-42ad-8655-d524a3c7f699</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='70']/parent::*</value>
-      <webElementGuid>2c63228b-02f9-4e79-a998-d82ddbd3afc5</webElementGuid>
+      <webElementGuid>3edc6127-ab5a-4b35-aa06-e4b1444910e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div/div[2]/p[2]</value>
-      <webElementGuid>717ab184-de98-4fbb-8795-5eab9c69e875</webElementGuid>
+      <webElementGuid>e9ccf0d8-de0f-4322-b118-175e556388f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = '70 мин.' or . = '70 мин.')]</value>
-      <webElementGuid>7359b781-0aac-4045-87bd-1b17f3b2dee6</webElementGuid>
+      <webElementGuid>0dd56290-dd92-424e-b3a1-16efa779fbf1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

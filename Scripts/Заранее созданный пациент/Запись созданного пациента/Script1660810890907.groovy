@@ -76,6 +76,10 @@ WebUI.verifyElementText(findTestObject('Object Repository/Запись на пр
     GlobalVariable.Test_vrach_abbreviaturoi)
 
 'Нажать на ячейку в расписании'
+WebUI.scrollToElement(findTestObject('Object Repository/Запись на прием созданного пациента (Test case)/cell_in_timetable'), 
+    0)
+
+'Нажать на ячейку в расписании'
 WebUI.click(findTestObject('Object Repository/Запись на прием созданного пациента (Test case)/cell_in_timetable'))
 
 'Проверка, что открылась форма записи на прием'

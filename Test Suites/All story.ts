@@ -47,20 +47,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b40668d4-bb09-4db2-9ffc-e1885067c42d</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Создание пациента в приеме/Запись на прием с созданием пациента</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>50f255a3-7c45-48c7-bc21-29a5264a0621</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Создание пациента в приеме/Просмотр к (запись на прием с созданием пациента)</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>34f2d68f-e45e-499c-9b58-4b46eeb5f54c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -103,6 +89,20 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>b40668d4-bb09-4db2-9ffc-e1885067c42d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Создание пациента в приеме/Запись на прием с созданием пациента</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>50f255a3-7c45-48c7-bc21-29a5264a0621</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Создание пациента в приеме/Просмотр к (запись на прием с созданием пациента)</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>c5f894bb-b077-4068-88ca-f174be129aa8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -137,17 +137,17 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>fc8e8193-bd5c-498e-aa77-89ea038d75c9</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Создание пациента в приеме/Удаление пациента Create</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>d45cef97-2d7f-4838-8b39-a06a40186cd1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Заранее созданный пациент/Удаление пациента Avtotest</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fc8e8193-bd5c-498e-aa77-89ea038d75c9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Создание пациента в приеме/Удаление пациента Create</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

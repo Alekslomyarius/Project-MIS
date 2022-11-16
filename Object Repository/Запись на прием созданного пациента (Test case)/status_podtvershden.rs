@@ -6,12 +6,12 @@
    <elementGuidId>58e42215-9da6-4bf7-a79c-c050c1074782</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Подтвержден' or . = 'Подтвержден')]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id = 'react-select-12-option-0' and (text() = 'Подтвержден' or . = 'Подтвержден')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Подтвержден' or . = 'Подтвержден')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c7846bfd-0889-4bfa-81bb-a332e7c50818</webElementGuid>
+      <webElementGuid>ac0849b9-6f28-4d35-9609-37e78bf3cedf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value> css-1qs9gy9-option</value>
-      <webElementGuid>cf70ccff-24eb-43fe-9b83-1a0a59689198</webElementGuid>
+      <webElementGuid>9c1dcf53-cfda-490d-a18b-af915d7709ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>react-select-12-option-0</value>
-      <webElementGuid>e9219aa4-4fe3-4442-a2d1-9b41e6e94a42</webElementGuid>
+      <webElementGuid>d5b5674b-7d77-4f08-89d1-6a734d6fbb88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>6f0ffc3e-4ba3-4366-90e4-f52ad9a82518</webElementGuid>
+      <webElementGuid>6b2744e3-cb5e-4ed3-87ed-a5af8f721de3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Подтвержден</value>
-      <webElementGuid>b5979aa7-7043-44d0-a1d4-af77784edc30</webElementGuid>
+      <webElementGuid>f5b5d3cd-3480-4b27-aebb-99b8aeb01592</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;react-select-12-option-0&quot;)</value>
-      <webElementGuid>d0ae7517-ce76-4400-89e7-7b4e9227c53a</webElementGuid>
+      <webElementGuid>bbe60107-2105-41bf-95f8-a6636b76b5c1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='react-select-12-option-0']</value>
-      <webElementGuid>fc84902e-90af-4e61-b5f4-dec229bf8c62</webElementGuid>
+      <webElementGuid>e28279c6-cdd3-43b7-934c-0062014e0000</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='drawer']/div/div/div/form/div[2]/div/div/div/div/div[2]/div/div</value>
-      <webElementGuid>d4b26011-2638-412b-8934-ed350cfccf98</webElementGuid>
+      <webElementGuid>9454a10b-58a8-4788-a9f5-88a53cca475e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Не подтвержден'])[1]/following::div[4]</value>
-      <webElementGuid>f76397e8-b636-4881-91a4-7c75f17f0bfc</webElementGuid>
+      <webElementGuid>e69ad0c5-0790-4f8a-9281-ee3c83c4b0c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='option Не подтвержден, selected.'])[1]/following::div[7]</value>
-      <webElementGuid>a78eed20-8e65-432b-a00c-fd6bfa8c003f</webElementGuid>
+      <webElementGuid>64af189f-e430-46bc-9578-c2009dcfa939</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Назначить'])[1]/preceding::div[1]</value>
-      <webElementGuid>6867e0b8-6e54-4fb2-ac34-2ffae8e7fd87</webElementGuid>
+      <webElementGuid>2005ee2c-4b21-44fd-bff6-df8677796536</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Подтвержден']/parent::*</value>
-      <webElementGuid>a26edd9c-d93d-4c22-b0be-f3fa4618ffb4</webElementGuid>
+      <webElementGuid>718e9c19-ac78-4d1b-976e-c2b1736de333</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div[2]/div/div/div/div/div[2]/div/div</value>
-      <webElementGuid>fe114fc9-af04-498a-9b1a-dcfeafef6273</webElementGuid>
+      <webElementGuid>5ea4927b-789b-4010-8b8d-ffea15a8dd85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,6 +130,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'react-select-12-option-0' and (text() = 'Подтвержден' or . = 'Подтвержден')]</value>
-      <webElementGuid>0ad279ed-a743-4c56-8bfb-c4ef44322b8a</webElementGuid>
+      <webElementGuid>2bfe456e-aaa9-465b-8073-7485e88b1652</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

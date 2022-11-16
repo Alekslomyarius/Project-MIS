@@ -57,6 +57,10 @@ WebUI.verifyElementText(findTestObject('Object Repository/Запись на пр
     GlobalVariable.Test_vrach_abbreviaturoi)
 
 'Нажать на ячейку в расписании'
+WebUI.scrollToElement(findTestObject('Object Repository/Запись на прием с созданием пациента (Test case)/free_time_in_timetable'), 
+    0)
+
+'Нажать на ячейку в расписании'
 WebUI.click(findTestObject('Object Repository/Запись на прием с созданием пациента (Test case)/free_time_in_timetable'))
 
 'Проверка, что открылась форма записи на прием'
@@ -79,7 +83,7 @@ a = WebUI.getAttribute(findTestObject('Запись на прием с созд�
 WebUI.verifyEqual(a, GlobalVariable.Test_patient2_familia)
 
 'Установка начала консультации'
-WebUI.setText(findTestObject('Запись на прием созданного пациента (Test case)/input__nachalo_priema'), '08:11')
+WebUI.setText(findTestObject('Запись на прием созданного пациента (Test case)/input__nachalo_priema'), '19:11')
 
 'Назначает прием'
 WebUI.click(findTestObject('Object Repository/Запись на прием созданного пациента (Test case)/tab_naznachit'))
@@ -144,10 +148,10 @@ WebUI.verifyElementText(findTestObject('Object Repository/Запись на пр
     GlobalVariable.Test_vrach_full)
 
 'Установка начала консультации'
-WebUI.setText(findTestObject('Запись на прием созданного пациента (Test case)/input__nachalo_priema'), '08:05')
+WebUI.setText(findTestObject('Запись на прием созданного пациента (Test case)/input__nachalo_priema'), '19:05')
 
-'Установка начала консультации'
-WebUI.setText(findTestObject('Запись на прием созданного пациента (Test case)/input__okonchanie_priema'), '08:15')
+'Установка ококнчания консультации'
+WebUI.setText(findTestObject('Запись на прием созданного пациента (Test case)/input__okonchanie_priema'), '19:15')
 
 'Указание цели визита'
 WebUI.setText(findTestObject('Object Repository/Запись на прием с созданием пациента (Test case)/input_cel_vizita'), 'Автотест. Цель визита. Создание пациента в приеме')

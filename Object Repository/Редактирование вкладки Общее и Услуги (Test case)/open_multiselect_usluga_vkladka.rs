@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[(text() = 'Добавить услугу' or . = 'Добавить услугу')]</value>
+         <value>//div[text() = 'Добавить услугу']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>7ed9cc40-e382-4c60-89f6-10673e4b113d</webElementGuid>
+      <webElementGuid>bb9ab84b-1ee1-47fd-b6e8-fdb537703b33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value> css-7exkrt</value>
-      <webElementGuid>fba2222a-e7b2-4855-9705-0fac1dfd1981</webElementGuid>
+      <webElementGuid>0eb7c4c9-4ef5-4c60-9b79-470a66b43575</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Добавить услугу</value>
-      <webElementGuid>317707c0-5b21-4693-acf3-38615009d24a</webElementGuid>
+      <webElementGuid>4675733f-90f5-4bc9-ae47-e2a95e18240d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,54 +45,54 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__1J0HH&quot;]/div[@class=&quot;styles_wrapper__37S9J&quot;]/div[@class=&quot;styles_container__A8wTi&quot;]/div[@class=&quot;styles_selectInputContainer__1vEHJ&quot;]/div[@class=&quot;styles_selectInputWrapper__p580E&quot;]/div[@class=&quot;css-dyr6gj-container&quot;]/div[@class=&quot;css-jfh2ty-control&quot;]/div[@class=&quot;css-7exkrt&quot;]</value>
-      <webElementGuid>cb5b62a4-a0e6-4052-be74-42711fa5712a</webElementGuid>
+      <webElementGuid>53764792-d2fe-499b-aaf3-65795fe5ed5f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='drawer']/div[2]/div/div/div[2]/div/div/div/div/div/div/div</value>
-      <webElementGuid>739a207c-c93a-4bcb-a375-423cba716bf1</webElementGuid>
+      <value></value>
+      <webElementGuid>79d6a99d-bc72-4b79-a61a-b1fea5885f1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Редактировать'])[1]/following::div[12]</value>
-      <webElementGuid>3805ceb1-272f-41e1-9785-fef6c5f38268</webElementGuid>
+      <value></value>
+      <webElementGuid>693f2154-ef3d-4d1d-8c37-3cef435973d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Начат визит'])[1]/following::div[13]</value>
-      <webElementGuid>bd2f9303-a41c-415b-8f88-6d1c8d68ad16</webElementGuid>
+      <value></value>
+      <webElementGuid>efbc267e-6758-486e-a4dc-fccd3815573f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Тестовая услуга'])[2]/preceding::div[7]</value>
-      <webElementGuid>e559146f-9064-450d-abf7-28850a67cd4d</webElementGuid>
+      <value></value>
+      <webElementGuid>2a444979-ae45-495a-807c-fd8246d11299</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div[2]/div/div/div[2]/div/div/div/div/div/div/div</value>
-      <webElementGuid>c6465639-571e-4fc7-9265-79263111474d</webElementGuid>
+      <value></value>
+      <webElementGuid>7da16a99-4e29-422f-971e-2b82fa30adfc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Добавить услугу' or . = 'Добавить услугу')]</value>
-      <webElementGuid>223b56b2-dd58-4969-b634-af129c21f2ae</webElementGuid>
+      <value> //div[contains(@class, 'placeholder') and text() = &quot;Добавить услугу&quot;]/following::input</value>
+      <webElementGuid>fadf2570-4776-45ed-aaf0-dd92107eebae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

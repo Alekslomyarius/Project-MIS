@@ -6,12 +6,12 @@
    <elementGuidId>e7741584-e743-4fca-846c-3c96360181da</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.styles_emptyCell__inner__Dj--v</value>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div[2]/main/section/div/div[2]/div[2]/div[1]/div[2]/div/div[14]/div/div/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[1]/div/div[2]/main/section/div/div[2]/div[2]/div[1]/div[2]/div[1]/div[3]/div/div/div</value>
+         <key>CSS</key>
+         <value>div.styles_emptyCell__inner__Dj--v</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b4465c45-95ea-40c2-b2bb-88f7bfcbecee</webElementGuid>
+      <webElementGuid>9f79c86f-df4e-4ef8-a8b1-4bfc19700c8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>styles_emptyCell__inner__Dj--v</value>
-      <webElementGuid>9543a749-4d60-4629-8ab5-5292c6a4ba0a</webElementGuid>
+      <webElementGuid>c447bfe2-b792-4bd5-92d8-822aca007e6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;container&quot;]/div[2]/div[@class=&quot;styles_appointmentList__tSlng&quot;]/div[@class=&quot;styles_appointmentList__table__1H_PX&quot;]/div[@class=&quot;styles_day__doctors__1b3VR&quot;]/div[@class=&quot;styles_doctor__3Qv0N&quot;]/div[@class=&quot;styles_doctor__times__1lxbJ&quot;]/div[@class=&quot;styles_dayCell__a_pPN&quot;]/div[@class=&quot;styles_emptyCell__26vw8&quot;]/div[@class=&quot;styles_emptyCell__inner__Dj--v&quot;]</value>
-      <webElementGuid>6604e789-488c-472d-9bf7-f67dfe43ef82</webElementGuid>
+      <webElementGuid>2a37950d-82d8-443a-8a09-4e9ad1067faf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/main/section/div/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/div/div</value>
-      <webElementGuid>919a0fa4-f4fc-499b-a5c6-0f5c5f655826</webElementGuid>
+      <webElementGuid>5fc60033-9aac-4705-8c54-ebd4af56856f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Машина М. Б.'])[1]/following::div[7]</value>
-      <webElementGuid>0666ec1d-a6eb-453e-9040-693a0c0ebbf8</webElementGuid>
+      <webElementGuid>d6bd3c98-eebb-470d-a791-de549d015c63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Расписание'])[2]/following::div[15]</value>
-      <webElementGuid>c77be25e-75ac-44af-9723-49b7143c8915</webElementGuid>
+      <webElementGuid>ffe80a3a-87ba-463c-9c03-f73b5c574b8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[1]/preceding::div[49]</value>
-      <webElementGuid>66a2389e-19fc-4cb6-9244-50d87bacf373</webElementGuid>
+      <webElementGuid>8ba74893-9d2d-41d7-a5c3-7a861e029286</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[2]/preceding::div[49]</value>
-      <webElementGuid>36235d98-851a-4e26-9558-fa770414e81d</webElementGuid>
+      <webElementGuid>2a02eede-53df-4cda-814f-a67d96a09b64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/div[2]/div[2]/div/div</value>
-      <webElementGuid>4c5f6101-ca50-4369-9609-4ae44340a18d</webElementGuid>
+      <webElementGuid>16578050-1279-4f3e-9c64-c0bba247aa95</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
