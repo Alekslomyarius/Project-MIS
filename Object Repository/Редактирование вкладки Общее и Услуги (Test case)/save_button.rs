@@ -6,11 +6,11 @@
    <elementGuidId>3d04f497-e9f3-484a-bc0c-67cba8a44b02</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[(text() = 'Сохранить' or . = 'Сохранить')]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//span[text() = 'Сохранить']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>fded9d0c-5a10-46e5-8685-46c919b4f9fe</webElementGuid>
+      <webElementGuid>a87be930-a2bf-4c39-bf02-44aea6ad01dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Сохранить</value>
-      <webElementGuid>c13e2bda-9202-449e-9676-a11fdae61f08</webElementGuid>
+      <webElementGuid>c0e79665-c1af-4be4-a35d-5a106ae76b8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +37,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;drawer&quot;)/div[@class=&quot;styles_wrapper__3fhNR&quot;]/div[@class=&quot;styles_wrapper__background__i5gz- styles_wrapper__background_active__1WfBI&quot;]/div[@class=&quot;styles_wrapper__content__3_KkI drawer__wrapper styles_wrapper__content_active__3cggn&quot;]/div[@class=&quot;styles_container__2wFx3&quot;]/div[@class=&quot;styles_actions__container__NPpVi&quot;]/button[@class=&quot;ant-btn ant-btn-primary styles_button__3pqej styles_primary__2Afkd styles_button__23mhz styles_edit__button__3WJ5r&quot;]/span[1]</value>
-      <webElementGuid>391faca3-13e3-47c9-af26-3d7c9996e943</webElementGuid>
+      <webElementGuid>a8a93b45-6783-49c3-96b1-6949edf0c5ef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='drawer']/div[2]/div/div/div[2]/div[5]/button[2]/span</value>
-      <webElementGuid>4b5227a2-5225-40bf-b8e6-eb4dd4370af8</webElementGuid>
+      <value></value>
+      <webElementGuid>1ec22ff6-ff97-4209-8091-c2c4ca5be4e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Отмена'])[1]/following::span[1]</value>
-      <webElementGuid>1112bdb5-e408-493c-81ea-1a5d4dd87e2d</webElementGuid>
+      <webElementGuid>34c81314-3195-4e25-a513-b86b8e8e699f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Цель визита'])[2]/following::span[2]</value>
-      <webElementGuid>ce5ea8da-81af-41a0-ae1b-b364b20aeae6</webElementGuid>
+      <webElementGuid>b3525788-a90e-4878-becf-4d13dc1dd28a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Да'])[1]/preceding::span[3]</value>
-      <webElementGuid>599a1aca-ed19-43a8-9a4c-77a27f37e14f</webElementGuid>
+      <webElementGuid>da56e69e-45e3-4820-9fd9-b8924f182515</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Нет'])[1]/preceding::span[4]</value>
-      <webElementGuid>80be12e8-b33e-45a9-9e5f-3ab1339c29d5</webElementGuid>
+      <webElementGuid>af1e8790-afe1-48e1-b2f7-c1bc7947506c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Сохранить']/parent::*</value>
-      <webElementGuid>086b7955-ea34-4793-ac61-c40a17709d04</webElementGuid>
+      <webElementGuid>0ccc8732-d6f6-4de8-bfe7-997eed625dba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/button[2]/span</value>
-      <webElementGuid>0e7eff35-bcb6-4d96-99c1-4af9d902acac</webElementGuid>
+      <webElementGuid>545b4de9-a1b0-46d3-8a53-9949ce26c1ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Сохранить' or . = 'Сохранить')]</value>
-      <webElementGuid>fb7f2911-b8ad-4e48-9869-ae1271777dc2</webElementGuid>
+      <webElementGuid>de75e20e-70a6-4451-ad84-f316a0a5a9f5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

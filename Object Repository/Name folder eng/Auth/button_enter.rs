@@ -1,135 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>tab_status_otmena</name>
+   <name>button_enter</name>
    <tag></tag>
-   <elementGuidId>88f55adb-d954-43b7-9807-62e6b46ca8ac</elementGuidId>
+   <elementGuidId>90f0a1e5-47f7-45ab-8b46-709bd2a7bd01</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#react-select-26-option-3</value>
+         <value>button.styles_btn__3uxP2</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[text() = 'Отменен']</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//div[(text() = 'Отменен' or . = 'Отменен')]</value>
+         <value>//button[@type = 'submit' and (text() = 'Войти' or . = 'Войти')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>a840a1f4-1d5f-4b38-a0ce-321881865c09</webElementGuid>
+      <value>button</value>
+      <webElementGuid>b08617aa-96ed-4956-938f-439ea5a9e24c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>965ae64d-4d1b-49df-8721-a5847486befe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value> css-1d0biql-option</value>
-      <webElementGuid>7f75d6fd-e351-4687-a843-37fa9547df62</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>react-select-26-option-3</value>
-      <webElementGuid>aceedc06-c389-4361-8b62-4b0f421682f6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>-1</value>
-      <webElementGuid>949400a2-85b7-4e07-b1fc-2cd1c1039080</webElementGuid>
+      <value>styles_btn__3uxP2</value>
+      <webElementGuid>7fc26b49-1d54-47d8-8126-a5c3ac8000a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Отменен</value>
-      <webElementGuid>628dd76d-7679-43d7-bae7-04ce01e67f1e</webElementGuid>
+      <value>Войти</value>
+      <webElementGuid>4f34b828-8810-4d74-8d0b-44e1c2c84fc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;react-select-26-option-3&quot;)</value>
-      <webElementGuid>2a49e8d5-361a-459f-9e12-d14ff75e36fe</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2kG5F&quot;]/main[@class=&quot;styles_layout__main__256Zc&quot;]/div[@class=&quot;styles_login__2qe_O&quot;]/form[@class=&quot;styles_login__form__2jevv&quot;]/div[@class=&quot;styles_login__inputsWrapper__36_fQ&quot;]/div[@class=&quot;styles_btnContainer__14YnI&quot;]/button[@class=&quot;styles_btn__3uxP2&quot;]</value>
+      <webElementGuid>746a3cad-3aa6-43f4-bb64-ea1c34e2affc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value></value>
-      <webElementGuid>d5d8e5af-253d-458d-b4f2-f1baebe0709d</webElementGuid>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>3a39803a-5722-4083-a796-dc2f78d65bcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/form/div/div[3]/button</value>
+      <webElementGuid>91dd7209-eb97-472a-ac55-be5c7c8501d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value></value>
-      <webElementGuid>5b2d8dc3-3697-4243-936f-f1dd0549c9d0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Пароль'])[1]/following::button[1]</value>
+      <webElementGuid>dd320f0b-ca03-4ad4-ae70-9f5c5ff0392f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value></value>
-      <webElementGuid>ec860d0a-a98f-4aa8-8f0a-82db8540b631</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-mail'])[1]/following::button[1]</value>
+      <webElementGuid>bfd08a9c-e4f9-4ca7-bd38-84e5c31b08f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value></value>
-      <webElementGuid>804e1744-c0b3-4a1c-a007-9c1a1146aacd</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value></value>
-      <webElementGuid>4c1111f1-994c-45a4-a28f-ea5ce0621c5a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value></value>
-      <webElementGuid>f6401c08-1390-40bc-a412-21adc4f6e3e4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Зарегистрироваться'])[1]/preceding::button[1]</value>
+      <webElementGuid>9a250ab8-3a5e-4dc3-8e95-1d4743f6bf03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value></value>
-      <webElementGuid>8046533d-1730-45b7-9024-d6ea0dff017a</webElementGuid>
+      <value>//div[3]/button</value>
+      <webElementGuid>8e95b57a-1e33-428e-9ce1-395890c7bfa8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value></value>
-      <webElementGuid>fe3b2149-2ccc-4ac4-a7d6-b538790caf84</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Войти' or . = 'Войти')]</value>
+      <webElementGuid>4cf37629-c948-43b5-8d26-17cdda8360b0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

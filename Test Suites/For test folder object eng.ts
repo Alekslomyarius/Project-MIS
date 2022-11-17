@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Для теста сд</name>
+   <name>For test folder object eng</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>8a94281a-9666-4bc0-bdc9-0ebea744715d</testSuiteGuid>
+   <testSuiteGuid>fb28f9ef-3fe5-4e53-99de-b595cf6c88a3</testSuiteGuid>
    <testCaseLink>
-      <guid>b6999abd-5385-44e8-838f-c72a71b6e2da</guid>
+      <guid>791280b9-7932-43af-9b22-c98f2e98f767</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Авторизация</testCaseId>
+      <testCaseId>Test Cases/Auth name folder eng</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

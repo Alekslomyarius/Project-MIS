@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>language_Russian</name>
+   <tag></tag>
+   <elementGuidId>2ce892ca-10c6-414e-8e0b-bd33b7fa1e86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_container__1rUHV > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Русский' or . = 'Русский')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4bc37218-f598-41df-a3a0-d9fe0e33f3bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Русский</value>
+      <webElementGuid>bc53cd0e-b5bc-4f37-bfbb-172dc70d92ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2kG5F&quot;]/main[@class=&quot;styles_layout__main__256Zc&quot;]/div[@class=&quot;styles_login__2qe_O&quot;]/form[@class=&quot;styles_login__form__2jevv&quot;]/div[@class=&quot;styles_select__container__TzhHJ&quot;]/div[@class=&quot;styles_container__27FPD&quot;]/div[@class=&quot;styles_selectInputContainer__1vEHJ styles_selector_container__19M9m&quot;]/div[@class=&quot;styles_selectInputWrapper__p580E styles_selector_wrapper__2gJT0&quot;]/div[@class=&quot;css-dyr6gj-container&quot;]/div[@class=&quot;css-gpvaph-menu&quot;]/div[1]/div[@class=&quot;styles_container__1rUHV&quot;]/div[1]</value>
+      <webElementGuid>9ea189f2-3e75-46e0-b473-4c2050f7238a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/form/div[2]/div/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>60ad74f5-37d3-4f9a-92a1-59d0245bba0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::div[6]</value>
+      <webElementGuid>66b68ec4-4a5b-495f-ae4d-1219aad4215b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::div[14]</value>
+      <webElementGuid>c55b8c0e-281f-4d6a-a85b-c7c783384e9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[2]/preceding::div[1]</value>
+      <webElementGuid>30bd5161-1293-4cc9-8500-5b7225db4e2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Français'])[1]/preceding::div[3]</value>
+      <webElementGuid>2c993e47-4d24-4642-84af-2cdd4265c1eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Русский']/parent::*</value>
+      <webElementGuid>53cd161e-d3e8-470d-ba0b-382c750eaf72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div</value>
+      <webElementGuid>476f0b7f-c007-416f-98bd-c5242da09a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Русский' or . = 'Русский')]</value>
+      <webElementGuid>cdf8a586-dd1e-463b-a155-c9a4105da205</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
