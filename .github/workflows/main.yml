@@ -16,4 +16,4 @@ jobs:
       with:
           version: '7.5.5'
           projectPath: '${{ github.workspace }}'
-          args: '-noSplash -runMode=console -retry=0 -testSuitePath="Test Suites/All story" -browserType="Chrome" -executionProfile="Stage_Admin" -apiKey="7ad87cfa-7427-493e-accc-9b50dc5ceb17" -testOpsProjectId=946823 --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true'
+          args: '-noSplash -runMode=console -retry=0 -testSuitePath="Test Suites/Для теста" -browserType="Chrome" -executionProfile="Stage_Admin" -apiKey="7ad87cfa-7427-493e-accc-9b50dc5ceb17" -testOpsProjectId=946823 --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true'
