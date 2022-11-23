@@ -16,4 +16,4 @@ jobs:
       with:
           version: '7.5.5'
           projectPath: '${{ github.workspace }}'
-          args: '-retry=0 -testSuitePath="Test Suites/All story" -browserType="Chrome" -executionProfile="Stage_Admin" -apiKey= ${{ secrets.API_KEY }} -testOpsProjectId=946823 --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true -sendMail="avtotestflycode@mail.ru" -reportFolder="D:\a\Project-MIS"'         
+          args: '-retry=0 -testSuitePath="Test Suites/For test eng" -browserType="Chrome" -executionProfile="Stage_Admin" -apiKey= ${{ secrets.API_KEY }} -testOpsProjectId=946823 --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true -sendMail="avtotestflycode@mail.ru" -reportFolder="D:\a\Project-MIS"'         

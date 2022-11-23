@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser(GlobalVariable.URL)
 
-WebUI.maximizeWindow()
+WebUI.setViewPortSize(1920, 1080)
 
 'Кнопка со сменой языков\r\n'
 WebUI.scrollToElement(findTestObject('Object Repository/Авторизация (Test case)/button_language_English'), 0)
