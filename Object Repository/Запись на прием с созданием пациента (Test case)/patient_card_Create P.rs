@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[(text() = 'Create P. Т.' or . = 'Create P. Т.')]</value>
+         <value>//*[(text() = '${GlobalVariable.Test_patient2_abbreviaturoi}' or . = '${GlobalVariable.Test_patient2_abbreviaturoi}')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -24,16 +24,16 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>p</value>
-      <webElementGuid>5ca18305-9af4-421f-82eb-fa217b4613c2</webElementGuid>
+      <value></value>
+      <webElementGuid>96de38f3-2de4-434c-82cc-55c5157fc257</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>styles_consultation__patientName__36dQU</value>
-      <webElementGuid>dcaa8dae-401b-449b-9870-7c32295ae6c8</webElementGuid>
+      <value></value>
+      <webElementGuid>44a162ec-c208-422b-be26-ebf8b832fa2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,15 +41,15 @@
       <name>text</name>
       <type>Main</type>
       <value>${GlobalVariable.Test_patient2_abbreviaturoi}</value>
-      <webElementGuid>73b27367-a89c-4b07-aa21-c6e2761dc4f8</webElementGuid>
+      <webElementGuid>db5ee169-578a-4e94-9e2d-bb4ea368ed40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__2zeB1&quot;]/div[@class=&quot;styles_layout__container__3D3Vr styles_layout__container_admin__2X_qx&quot;]/main[@class=&quot;styles_layout__content__1BAJN styles_layout__content_admin__WVT00&quot;]/section[@class=&quot;styles_contentLayout__1rqiW&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;styles_list__container__3bBbr&quot;]/div[@class=&quot;styles_appointment__list__d9aOV&quot;]/div[1]/div[@class=&quot;styles_appointmentList__table__1H_PX&quot;]/div[@class=&quot;styles_day__doctors__1b3VR&quot;]/div[@class=&quot;styles_doctor__3Qv0N&quot;]/div[@class=&quot;styles_doctor__times__1enyM&quot;]/div[@class=&quot;styles_day_cell__1DIJw&quot;]/div[@class=&quot;styles_dayCell__a_pPN&quot;]/div[@class=&quot;styles_consult__cell_container__3ib-Y&quot;]/div[@class=&quot;styles_consultation__2XsId&quot;]/p[@class=&quot;styles_consultation__patientName__36dQU&quot;]</value>
-      <webElementGuid>33dba37d-c342-4955-ba26-1301e27c5e10</webElementGuid>
+      <value></value>
+      <webElementGuid>3f1fb2ed-9434-4903-9269-c2cd8efdd5fe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/main/section/div/div[2]/div[2]/div/div/div[2]/div[3]/div[2]/div[2]/div/div/div/p</value>
-      <webElementGuid>46a8d1da-de24-4ef1-ae93-da4c67a2c964</webElementGuid>
+      <webElementGuid>2a3d5bf9-89dc-4471-8004-e022a670632c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Боевая М. М.'])[1]/following::p[4]</value>
-      <webElementGuid>f5d34a25-c25d-49bc-b3ee-7f2d08c03a35</webElementGuid>
+      <webElementGuid>e29734c3-3c9d-4299-ac1d-dc7250dbfdf6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Абульев С. В.'])[1]/following::p[5]</value>
-      <webElementGuid>ff29db85-9394-4566-99f9-cb5b7dfab0e8</webElementGuid>
+      <webElementGuid>33f3053e-46ee-4748-bca7-23574ff74840</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Доктор А. М.'])[1]/preceding::p[2]</value>
-      <webElementGuid>2ee98590-1d0d-461f-9370-cccac1dbeb4b</webElementGuid>
+      <webElementGuid>f3c7c7cd-769b-4552-99c6-b145f257f556</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Доктор П. П.'])[1]/preceding::p[3]</value>
-      <webElementGuid>8d9c83c3-f52f-485e-b1de-158e523248f1</webElementGuid>
+      <webElementGuid>33c88154-3489-43c9-bf77-a9f0e0f12e4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Create P. Т.']/parent::*</value>
-      <webElementGuid>e3fc433a-09ca-409f-9c1f-3ca71506cfe6</webElementGuid>
+      <webElementGuid>59be78fc-c57d-46b4-81ee-6c6e9e79d979</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/p</value>
-      <webElementGuid>a0b9d608-d742-4016-86e9-f4b501f73cb6</webElementGuid>
+      <webElementGuid>72c2f815-9a9e-4ee8-aa4a-ed5b53b9f092</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +113,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Create P. Т.' or . = 'Create P. Т.')]</value>
-      <webElementGuid>ce9d0a3e-4995-4ef3-a433-1b261bda8a3d</webElementGuid>
+      <webElementGuid>ecb62e94-3788-4383-b308-bc860f857eef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -49,9 +49,6 @@ WebUI.sendKeys(findTestObject('Object Repository/Запись на прием с
     Keys.chord(Keys.ENTER))
 
 'Открывает карточку записи на прием'
-WebUI.scrollToElement(findTestObject('Запись на прием с созданием пациента (Test case)/patient_card_Create P'), 0)
-
-'Открывает карточку записи на прием'
 WebUI.click(findTestObject('Запись на прием с созданием пациента (Test case)/patient_card_Create P'))
 
 'Сверяется заголовок приема'
