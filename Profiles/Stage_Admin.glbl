@@ -56,7 +56,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'+7 (912) 035-31-12'</initValue>
+      <initValue>'+7 (912) 035-31-62'</initValue>
       <name>Test_phone</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -101,7 +101,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'+7 (921) 781-11-12'</initValue>
+      <initValue>'+7 (921) 781-17-12'</initValue>
       <name>Test_2_phone</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
