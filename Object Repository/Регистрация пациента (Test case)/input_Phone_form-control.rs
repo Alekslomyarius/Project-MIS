@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Phone_form-control</name>
+   <tag></tag>
+   <elementGuidId>38ab28a0-d5f5-49c7-a907-3ea5a8c801be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div[2]/main/section/div/form/div/div[1]/div[2]/div[3]/div[1]/div/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'tel']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>73fa0123-04a9-4364-b70d-f54cb3a8da3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control </value>
+      <webElementGuid>ed7c93bb-29bb-4a8d-8a59-d1546192e267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>tel</value>
+      <webElementGuid>2a30db86-d155-4bd3-acda-d1b4717c8c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>+7 (900) 999-97-62</value>
+      <webElementGuid>f6d7234b-1167-4377-b5e6-c1f7067f4654</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_layout__wrapper__r6mAl&quot;]/div[@class=&quot;styles_layout__container__8y+w8 styles_layout__container_admin__Dgddy&quot;]/main[@class=&quot;styles_layout__content__AY+rr styles_layout__content_admin__ueKOI&quot;]/section[@class=&quot;styles_contentLayout__8-RWb&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;profile&quot;]/form[1]/div[@class=&quot;styles_container__YpZSW&quot;]/div[@class=&quot;fields&quot;]/div[@class=&quot;styles_container-fields__m9Kf-&quot;]/div[1]/div[@class=&quot;styles_inputWrapper__URJz1 styles_phone-style__R+9eo&quot;]/div[@class=&quot;styles_container__Xd671 react-tel-input&quot;]/input[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>f11625f6-b18c-4c11-85f0-8db897f4ef34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='+7 (900) 999-97-62']</value>
+      <webElementGuid>0bd0cbaa-123b-49d3-8544-f746fe67fb64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/section/div[2]/div[2]/form/div/div[2]/div[3]/div/div/div/input</value>
+      <webElementGuid>550222b4-7880-46e3-aec9-78604f86669b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/input</value>
+      <webElementGuid>71c68096-bb13-41f7-b8d8-4155e1e36eeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'tel']</value>
+      <webElementGuid>1e3925fb-0233-4b3d-88d5-170a59c8ccab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

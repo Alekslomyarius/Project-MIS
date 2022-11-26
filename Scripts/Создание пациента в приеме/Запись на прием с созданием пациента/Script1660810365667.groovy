@@ -16,6 +16,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import org.apache.commons.lang.RandomStringUtils as RandomStringUtils
 
 WebUI.callTestCase(findTestCase('Авторизация'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -141,7 +142,11 @@ WebUI.sendKeys(findTestObject('Запись на прием с создание�
 
 'Ввести номер телефона'
 WebUI.setText(findTestObject('Object Repository/Запись на прием с созданием пациента (Test case)/input_Phone_information'), 
-    GlobalVariable.Test_2_phone)
+    '+7 (9)' + RandomStringUtils.randomNumeric(9))
+
+'Ввести номер телефона'
+GlobalVariable.Test_2_phone = WebUI.getAttribute(findTestObject('Object Repository/Запись на прием с созданием пациента (Test case)/input_Phone_information'), 
+    'value')
 
 'Проверка врача'
 WebUI.verifyElementText(findTestObject('Object Repository/Запись на прием созданного пациента (Test case)/imput_vrach_verif'), 

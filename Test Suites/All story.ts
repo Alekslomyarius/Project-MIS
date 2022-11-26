@@ -47,7 +47,7 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>34f2d68f-e45e-499c-9b58-4b46eeb5f54c</guid>
+      <guid>a05717fb-f1c9-40bd-b8ca-97bb754a22cd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Заранее созданный пациент/Создание нового пациента Avtotest</testCaseId>
@@ -141,6 +141,13 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Заранее созданный пациент/Удаление пациента Avtotest</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>079504eb-73fb-41ff-a833-ceefecb388b5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Заранее созданный пациент/Проверка валидации повторного создания пациента Avtotest</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

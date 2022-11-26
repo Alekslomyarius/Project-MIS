@@ -56,7 +56,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'+7 (965) 644-65-63'</initValue>
+      <initValue>''</initValue>
       <name>Test_phone</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -101,7 +101,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'+7 (980) 856-58-83'</initValue>
+      <initValue>''</initValue>
       <name>Test_2_phone</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

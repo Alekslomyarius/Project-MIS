@@ -15,7 +15,7 @@
       <guid>a87a3b1d-f24c-4c93-958e-2aa4ca9af6ee</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Заранее созданный пациент/Создание нового пациента Avtotest</testCaseId>
+      <testCaseId>Test Cases/Заранее созданный пациент/Old ---Создание нового пациента Avtotest</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
