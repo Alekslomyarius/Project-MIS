@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser(GlobalVariable.URL)
 
-WebUI.maximizeWindow()
+not_run: WebUI.maximizeWindow()
 
 not_run: WebUI.setViewPortSize(1920, 1080)
 
