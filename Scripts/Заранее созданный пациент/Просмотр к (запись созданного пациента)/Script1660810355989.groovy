@@ -74,10 +74,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Просмотр ин�
 WebUI.click(findTestObject('Просмотр информации о приеме (Test case)/svg__X_piktogramma_close'))
 
 'Открывается карточка записи'
-WebUI.scrollToElement(findTestObject('Object Repository/Просмотр информации о приеме (Test case)/open_card_Avtotest Q. R'), 
-    0)
-
-'Открывается карточка записи'
 WebUI.click(findTestObject('Object Repository/Просмотр информации о приеме (Test case)/open_card_Avtotest Q. R'))
 
 'Проверка смены статуса'
