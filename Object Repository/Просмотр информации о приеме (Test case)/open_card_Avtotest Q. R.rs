@@ -6,16 +6,16 @@
    <elementGuidId>dec669f1-4f3e-4ea3-ad4d-cea81808cac4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[1]/div/div[2]/main/section/div/div[2]/div[2]/div[1]/div[2]/div/div[2]/div[1]/div/div/p[1]</value>
+         <key>CSS</key>
+         <value>p.styles_consultation__patientName__36dQU</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//*[(text() = '${GlobalVariable.Test_patient_abbreviaturoi}' or . = '${GlobalVariable.Test_patient_abbreviaturoi}')]</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>p.styles_consultation__patientName__36dQU</value>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div[2]/main/section/div/div[2]/div[2]/div[1]/div[2]/div/div[2]/div[1]/div/div/p[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>72b9ad27-3d4e-4b93-a3e4-e8eed88f1dd7</webElementGuid>
+      <webElementGuid>677b243e-d0c3-4798-a0fd-d19a0a3000f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>99eb50d2-903a-4942-bb6d-b6ae10fea5d2</webElementGuid>
+      <webElementGuid>c30a41ef-91be-4fc4-a9b2-4dadb9b1a0b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>${GlobalVariable.Test_patient_abbreviaturoi}</value>
-      <webElementGuid>6cf403cd-20c5-4b1f-aa3d-b96e2d4155b5</webElementGuid>
+      <webElementGuid>24f163f5-6608-4b5f-92c3-0acac0df5879</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>c90450f3-3743-4775-b78d-1556a1eb7f53</webElementGuid>
+      <webElementGuid>5ac7eab0-91d2-412e-b54a-cb8aff0954c0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/main/section/div/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/p</value>
-      <webElementGuid>21131de3-333f-4355-897e-219efc1c32a5</webElementGuid>
+      <webElementGuid>211de848-8847-44bf-81cd-9892cc574100</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Машина М. Б.'])[1]/following::p[2]</value>
-      <webElementGuid>5276f336-f988-410e-b3b4-9a1326ec0f48</webElementGuid>
+      <webElementGuid>1521b5c1-7c77-4729-becb-8ea6bb134a4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Расписание'])[2]/following::p[2]</value>
-      <webElementGuid>dacb59e1-c6b9-4ef2-bd60-755bf5931042</webElementGuid>
+      <webElementGuid>2b52099b-a856-4743-87f9-276f046d2f23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[1]/preceding::p[6]</value>
-      <webElementGuid>67050480-4eec-4902-be0a-e02e566f27a0</webElementGuid>
+      <webElementGuid>92c41f2c-82c4-4033-b90e-43b9fbeddb1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[2]/preceding::p[6]</value>
-      <webElementGuid>86a2f8e2-058e-49e6-ac14-c8b7bcbb1c63</webElementGuid>
+      <webElementGuid>8a2f2992-c57d-4500-9ce7-eeda23b14069</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Avtotest Q. R.']/parent::*</value>
-      <webElementGuid>998afb4c-89ac-4472-8dd4-0668d4cefa25</webElementGuid>
+      <webElementGuid>4fa094cc-303e-475d-8c78-f0ef7f53c0ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/p</value>
-      <webElementGuid>ff10c811-a07f-4b64-9d65-7915d5ef9cd5</webElementGuid>
+      <webElementGuid>3fa0540a-05b5-45f0-8249-3b481bfd0616</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Avtotest Q. R.' or . = 'Avtotest Q. R.')]</value>
-      <webElementGuid>d31adcb4-fb52-4848-8c26-4a2ac2a14dee</webElementGuid>
+      <webElementGuid>1119a4a0-a488-4d7b-8e7b-106b085a53ec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
